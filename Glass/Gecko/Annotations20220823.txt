@@ -1,0 +1,1146 @@
+
+39
+=PT712
+EPink, Green, Blue, & Opal
+W39.5
+D0
+S7d776a
+=PT646
+ERed Wispy
+W39.5
+D0
+S2331d4
+=PT623
+ECaramel
+W39.5
+D0
+S3f4757
+=PT588
+EDark Green Wavy
+W39.5
+S435228
+=PT569
+EBrown
+W39.5
+S2a3646
+=PT552
+EDark Green, Clear
+W39.5
+S387825
+=PT534
+ELight Plum
+W39.5
+S181d31
+=PT516
+EOpal, Purple, Black, Streaky
+W39.5
+S895034
+=PT407
+EClear Wave
+W28
+Se1d5ca
+=PT720
+EDark Green Mottle
+W31.5
+S3b8e51
+=PT607
+EMedium Amber, Opal Mottle
+W31.5
+S54566c
+=PT733
+EOrange and Yellow Mist
+W31.5
+D0
+S357ea9
+=PT670
+EPink and White Mist
+W31.5
+S8e8fa0
+=PT523IR
+ELight Sky Blue, Opal Iridized
+W39.5
+S95671c
+=PT506G
+EGecko Black Purple, Cobalt Blue, Green, Opal Granite
+W39.5
+S2e3429
+=PT755
+EPink/Lime Fractures with Black Streamers
+W31.5
+D0
+S728787
+=PT698
+EGold, Purple, Opal
+W39.5
+S4787a9
+=PT640
+EBlue, Purple, Opal
+W39.5
+D0
+S8f6774
+=PT608
+EGreen, Streaks of Brown, Opal Mottle
+W39.5
+D0
+S3d8257
+=PT585
+EWhite Swirled with Pale Amber
+W39.5
+S6b8b98
+=PT566
+EWhite, Sky Blue, and Opal
+W39.5
+S778b80
+=PT549
+EBlue Ripple
+W39.5
+S86441e
+=PT530
+ETangerine Opal Swirled W/ Pink
+W39.5
+S2662d1
+=PT513
+EBlue & Brown Opal
+W39.5
+S3a4e68
+=PT403
+EClear Rivulet
+W28
+Sc7b7aa
+=PT717
+EGreen Mottle
+W31.5
+S3a8c5e
+=PT604
+ECobalt Blue, Opal Mottle
+W31.5
+S5f5657
+=PT710
+EGreen, Gold and Opal Mist Art
+W31.5
+S43918a
+=PT702
+EMetallic Green Wispy
+W39.5
+S3a7a49
+=PT700G
+EBrown Granite
+W39.5
+S2b316d
+=PT643GC
+EOrange, Dark Orange Streaky Glue Chip
+W39.5
+S2234a8
+=PT752
+EWhite Fracture with Black Streamer
+W31.5
+D5a
+S717a80
+=PT663
+ELime Green and Dark Green
+W39.5
+S398854
+=PT637
+EGreen, Red, Streaky
+W39.5
+S818d9e
+=PT601
+EClear, White & Pink, Wispy
+W39.5
+D0
+S6c769f
+=PT580
+EDark Copper Blue
+W39.5
+S904c3d
+=PT563
+EAmber, Opal
+W39.5
+Sdfe2e0
+=PT545
+EGreen, Ruby Red, Opal
+W39.5
+D0
+S2b5c30
+=PT527
+EPink, White, Opal
+W39.5
+D0
+Saa9dd2
+=PT510
+EBlue, Green, Opal
+W39.5
+D0
+S7a9d45
+=PT745
+EBrown, Red, and Opal Mottle
+W31.5
+S5f6676
+=PT680
+EBrown, Yellow, Opal Mottle
+W31.5
+S6085a5
+=PT744
+EGreen Mist
+W31.5
+S419712
+=PT707
+EGold and Opal Mist
+W31.5
+S51889f
+=PT621IR
+EClear Granite Iridized
+W39.5
+S7c7c78
+=PT653G
+EPurple, Amber, Opal
+W39.5
+S796f76
+=PT514GC
+EMedium Purple Glue Chip
+W39.5
+S855e84
+=PT696
+EWhite/Clear Mottle with Gold, Yellow, Orange Fractures & Black
+W31.5
+D0
+S5f859c
+=PT658
+EDark Purple, Green, Opal
+W39.5
+S4d6149
+=PT634
+EBlue, Green, Orange, Yellow Streaky
+W39.5
+S565053
+=PT598
+ELight Blue & White, Wispy
+W39.5
+D0
+S975643
+=PT577
+ECranberry Pink Opal
+W39.5
+D0
+S363e9e
+=PT560
+EAmber, Blue, Purple, Green, Opal Medium Light
+W39.5
+S67615d
+=PT542
+EPink, Red, Green, Opal
+W39.5
+S3f65b6
+=PT524
+EBlack
+W39.5
+S282828
+=PT507
+EGecko Mint Green, Amber Opal
+W39.5
+D0
+S53938d
+=PT729
+EPink and Purple Mottle
+W31.5
+S7b768a
+=PT677
+ERuby and Red Mottle
+W31.5
+D0
+S7f67cb
+=PT741
+EPink and Blue Mist
+W31.5
+S958470
+=PT691
+EBlue, Pink, and Opal Mist
+W31.5
+S84767d
+=PT600IR
+EGray & White, Translucent Iridized
+W39.5
+S4e4b4e
+=PT591G
+EWhite with Light Amber Granite
+W39.5
+S528599
+=PT763
+ERed, Green, and White Fractures with Black and Green Streamers
+W31.5
+D0
+S728382
+=PT693
+EClear with White and Green Streamers / Black Streamers
+W31.5
+D0
+S778585
+=PT655
+EPurple, Amber, Green Opal
+W39.5
+S597d8f
+=PT630
+EPurple, Green, Blue, Opal
+W39.5
+S5c3826
+=PT594
+ELight Amber Lamp Mix, Translucent
+W39.5
+D0
+S2c6893
+=PT574
+EGreen, Purple, Opal Streaky
+W39.5
+D0
+S3a8c5d
+=PT557
+EWhite and Gold-Pink Mottle
+W39.5
+S667499
+=PT539
+EGreen, Sky Blue, Dark Blue, Opal
+W39.5
+S935113
+=PT521
+ERed, Opal
+W39.5
+D0
+S263bc3
+=PT504
+EGecko Med Blue Opalume, Green, Dark Purple
+W39.5
+D0
+S609c44
+=PT725
+EBlue and Opal Mottle
+W31.5
+Sa77461
+=PT654
+EPurple, Green, Pink, Opal Mottle
+W31.5
+S7e7485
+=PT738
+EYellow, Amber, and Green Mist
+W31.5
+D0
+S2f8793
+=PT686
+EBlue and Opal Mist
+W31.5
+S8a7569
+=PT572IR
+ERuby Red, Clear Medium Light Iridized
+W39.5
+S574f77
+=PT567G
+ELight Amber Granite
+W39.5
+S327994
+=PT760
+EBlue, Purple, Amber Fractures with Black, Purple & Blue Streamers
+W31.5
+D0
+S77848a
+=PT618
+EGreen, Orange, & Yellow Fracture on Clear
+W31.5
+S698591
+=PT714
+EBlue, Green, and Opal
+W39.5
+S9f765b
+=PT648
+EDark Green and White
+W39.5
+S3d891e
+=PT625
+EPink, Blue, White, Opal
+W39.5
+S5c4353
+=PT590
+EDark Amber & White Translucent
+W39.5
+Sccccca
+=PT571
+EBrown, Clear
+W39.5
+S297dbb
+=PT554
+EOrange, Red, Clear
+W39.5
+S2874bc
+=PT536
+EGreen, Purple, Opal
+W39.5
+S626f11
+=PT518
+EAmber, Green, Blue, Purple, Opal
+W39.5
+S844c38
+=PT501
+EGecko Cerise Ruby
+W39.5
+S1f2894
+=PT722
+EGreen, Red, and Opal Mottle
+W31.5
+S317787
+=PT627
+EOrange, Yellow, Clear Mottle
+W31.5
+S387fab
+=PT735
+EAmber and Green Mist
+W31.5
+S3b7ca1
+=PT674
+EWhite Dense Opal, Purple, and Purple Gold Mist
+W31.5
+S7a708a
+=PT538IR
+EPale Purple, White Opal, Translucent Iridized
+W39.5
+S9b8172
+=PT518G
+EAmber, Green, Blue, Purple, Opal Granite
+W39.5
+S644b41
+=PT757
+ECobalt, Lt. Blue, White Fractures with Black Streamers
+W31.5
+D0
+S788188
+=PT705
+EGreen, Blue, Pink, and Opal
+W39.5
+S558350
+=PT644
+EBrown and Gold Streaky
+W39.5
+S2d56a5
+=PT621
+EClear Granite
+W39.5
+Sb2ada3
+=PT587
+EMedium Green Wavy
+W39.5
+S2a5431
+=PT568
+EMedium Amber Cathedral
+W39.5
+S2d80a2
+=PT551
+EBlue, Green, Opal
+W39.5
+S747760
+=PT533
+EPurple, Clear
+W39.5
+S4e387d
+=PT515
+EViolet, Opal
+W39.5
+S7a6283
+=PT406
+EClear Seaspray
+W28
+Sbfb0a3
+=PT719
+EGreen, Pink, and Opal Mottle
+W31.5
+S548a92
+=PT606
+ESteel Blue with Opal Mottle
+W31.5
+S6b6968
+=PT732
+EPink, Green, and Opal Mist
+W31.5
+S646f7f
+=PT704
+EMetallic Green
+W39.5
+S5e6b52
+=PT519IR
+EClear & White, Wispy Iridized
+W39.5
+S8e9087
+=PT645GC
+EYellow Glue Chip
+W39.5
+S329799
+=PT754
+EKelly Green, Olive Green, and Spring Green Fractures with Black Streamers
+W31.5
+D0
+S6d867e
+=PT665
+EClear Textured, Iridized on Back
+W39.5
+S78868e
+=PT639
+EBlue, Red, Green, Opal
+W39.5
+D0
+S567594
+=PT603
+EDark Amber & White Translucent
+W39.5
+D0
+S2c65a3
+=PT583
+EMedium Teal Blue/Green
+W39.5
+S565800
+=PT565
+EBlue, Opal
+W39.5
+D0
+S9b5b40
+=PT548
+ELight Blue
+W39.5
+S8f644d
+=PT529
+ELake Green, White, Opal Mix
+W39.5
+S7b9671
+=PT512
+EGreen Cathedral
+W39.5
+S3caf83
+=PT749
+EPurple and Green Mottle
+W31.5
+S515777
+=PT716
+ERed, Green, and Opal Mottle
+W31.5
+S2941bf
+=PT747
+EPink, Blue, Green, and Opal Mist
+W31.5
+S7c7b7a
+=PT709
+EPink and Purple Mist Art
+W31.5
+S806f83
+=PT662
+EMetallic Green, Orange, Opal with Specs of Green
+W39.5
+S294726
+=PT699
+EGold Brown Granite
+W39.5
+S1f3673
+=PT642GC
+EGolden Brown Glue Chip
+W39.5
+S171f3b
+=PT701
+EClear with Purple and Green Fractures
+W31.5
+S959cad
+=PT661
+ETurquoise Blue, Purple, Opal
+W39.5
+Sa0978f
+=PT636
+EGreen, Pink, & White
+W39.5
+D0
+S557988
+=PT600
+EGray & White, Translucent
+W39.5
+D0
+S817c7b
+=PT579
+ELight Violet
+W39.5
+S6e5777
+=PT562
+EClear, Opal
+W39.5
+S918f87
+=PT544
+EClear
+W39.5
+S687581
+=PT526
+EPink, Clear
+W39.5
+S9eb4d2
+=PT509
+EGecko Dark Blue
+W39.5
+S81381d
+=PT731
+EPurple Mottle
+W31.5
+S726e88
+=PT679
+EPurple, Gold, and Opal Mottle
+W31.5
+S814d3d
+=PT743
+EAmber and Opal Mist
+W31.5
+S3e7d9a
+=PT706
+ELight Green Mist
+W31.5
+S3e8b57
+=PT620IR
+EWhite Opal Iridized
+W39.5
+S9babbc
+=PT651G
+ELt Blue, Amber, Opal Streaky Granite
+W39.5
+S866988
+=PT508GC
+EGecko Ocean Blue, Clear Glue Chip
+W39.5
+Sb88b08
+=PT695
+EClear with Yellow & Green Fractures & Black & Purple Streamers
+W31.5
+D0
+S6a9092
+=PT657
+EPink, Blue, Amber Opal
+W39.5
+S7e7c98
+=PT633
+EYellow & Purple Opal
+W39.5
+D5a
+S89b29f
+=PT597
+EDark Blue & White, Translucent
+W39.5
+Sb38868
+=PT576
+ERed, Opal
+W39.5
+D0
+S324ccc
+=PT559
+EPurple, Blue, Clear
+W39.5
+S82657f
+=PT541
+EYellow, Red, Streaky, Granite
+W39.5
+S22339f
+=PT523
+ELight Sky Blue, Opal
+W39.5
+Sad8202
+=PT506
+EGecko Black Purple, Cobalt Blue, Green, Opal
+W39.5
+S494231
+=PT728
+ELight Amber and Opal Mottle
+W31.5
+S4d869a
+=PT676
+EBlue, Green, Pink Mottle
+W31.5
+S8e7e46
+=PT740
+EBlue, Pink, and Green Mist
+W31.5
+S786b69
+=PT689
+EAqua and Opal Mist
+W31.5
+S777755
+=PT597IR
+EDark Blue & White, Translucent Iridized
+W39.5
+Sc09c7b
+=PT572G
+ERuby Red, Clear Medium Light Granite
+W39.5
+S2639a7
+=PT762
+EBrown, Black, Opal, Amber Fractures with Black Streamers
+W31.5
+D0
+S687175
+=PT659
+ERed, Green, Orange, Yellow Fractures on White Mottle
+W31.5
+S657c8f
+=PT650
+ETeal, Purple, Opal
+W39.5
+S7f9934
+=PT629
+EGreen & White Opal
+W39.5
+S5f898c
+=PT593
+EWhite Swirled with Dark Amber
+W39.5
+S39779a
+=PT573
+EGreen, Orange, White, Opal, Ripple
+W39.5
+S275d90
+=PT556
+EYellow, Red, Opal
+W39.5
+D0
+S286eb1
+=PT538
+EPale Purple, White Opal, Translucent
+W39.5
+S8f6b4d
+=PT520
+EYellow, Red, White, Opal
+W39.5
+S243dce
+=PT503
+EGecko Yellow, Green, Opal
+W39.5
+S5abcd8
+=PT724
+EBlue, Green, and Opal Mottle
+W31.5
+S72795a
+=PT652
+ELight Purple and Pink Mottle
+W31.5
+S624651
+=PT737
+EBlue and Opal Mist
+W31.5
+S8b6b62
+=PT685
+EWhite Opal Mist
+W31.5
+Sae98a0
+=PT566IR
+EWhite, Clear Streaky Iridized
+W39.5
+Sa4a6a2
+=PT548G
+ELight Blue Granite
+W39.5
+S6b3318
+=PT759
+EPurple, Amber, and Opal Fractures with Black and Purple Streamers
+W31.5
+D0
+S667384
+=PT617
+EYellow & Red Fracture on Yellow
+W31.5
+S2c6e88
+=PT713
+EOrange, Teal, Brown, and Opal
+W39.5
+D0
+S5a735f
+=PT647
+EYellow and White Wispy
+W39.5
+S2b85b4
+=PT624
+ESlate Blue
+W39.5
+Sc9a093
+=PT589
+EYellow Cathedral
+W39.5
+S17dcfd
+=PT570
+ELight Amber Cathedral Granite
+W39.5
+S296993
+=PT553
+EDark & Lime Greens, Opal Medium Light
+W39.5
+S327f75
+=PT535
+EYellow, Clear
+W39.5
+S339d9e
+=PT517
+ESky Blue & Purple Opal
+W39.5
+Sc8a745
+=PT500
+EGecko Turquoise Opalume, Green
+W39.5
+S879a12
+=PT721
+ELight Green Mottle
+W31.5
+S449a73
+=PT626
+ERed & Orange Mottle
+W31.5
+S8d8f9e
+=PT734
+ESky Blue and Amber Mist
+W31.5
+S777c78
+=PT672
+EDense Opal, Gold Pink, Blue, and Purple Mist
+W31.5
+S8b5c66
+=PT524IR
+EBlack Iridized
+W39.5
+S636569
+=PT508G
+EGecko Ocean Blue Granite
+W39.5
+S978e40
+=PT756
+ETurquoise Cobalt, White Fractures with Black Streamers
+W31.5
+D0
+S73807f
+=PT700
+EBrown Granite
+W39.5
+S2b316d
+=PT641
+EEmerald Green, Purple, Opal
+W39.5
+S536b89
+=PT620
+EWhite Opal
+W39.5
+Sdadaf1
+=PT586
+ELight Green Wavy
+W39.5
+S2c593f
+=PT567
+ELight Amber
+W39.5
+S377e9a
+=PT550
+ELavender Ripple
+W39.5
+S56518f
+=PT532
+EPurple Cathedral
+W39.5
+S6d5e85
+=PT514
+EMedium Purple
+W39.5
+S482153
+=PT404
+EClear Summit
+W28
+Sdfd3ca
+=PT718
+ELime Green Mottle
+W31.5
+S36988b
+=PT605
+EMedium Purple, Medium Green, Opal Mottle
+W31.5
+S448369
+=PT711
+EGold, Blue, and Opal Mist
+W31.5
+S7e8c8c
+=PT703
+EMetallic Green and Opal Wispy
+W39.5
+S378357
+=PT501IR
+EGecko Cerise Ruby Iridized
+W39.5
+S3252ce
+=PT644GC
+EBrown and Gold Streaky Glue Chip
+W39.5
+S191b2d
+=PT753
+ERed/White Fracture and Black Streamers
+W31.5
+D0
+S6b6f75
+=PT664
+EDark Blue on Medium Blue
+W39.5
+S7c3a16
+=PT638
+EGreen, Red, Opal Streaky
+W39.5
+S557c80
+=PT602
+ELight Amber & White, Translucent
+W39.5
+D0
+S427898
+=PT581
+EMedium Army Green
+W39.5
+S423c31
+=PT564
+EGreen, Opal
+W39.5
+D0
+S398646
+=PT546
+EGreen, Brown, Opal
+W39.5
+S306831
+=PT528
+EPurple Opalume, Green
+W39.5
+S5b5361
+=PT511
+EOpal, Yellow, Cobalt Blue, Streaky
+W39.5
+D0
+S448863
+=PT748
+EOrange, Red, and Opal Mottle
+W31.5
+S2439d5
+=PT681
+EGreen, Red, and Opal Mottle
+W31.5
+S4e4e9c
+=PT746
+EBlue and Green Mist
+W31.5
+D0
+S888149
+=PT708
+ETeal Mist Art
+W31.5
+S6f8e6a
+=PT623IR
+ECaramel Iridized
+W39.5
+S4e4e4f
+=PT666G
+EMedium Aqua Blue Granite
+W39.5
+S474608
+=PT586GC
+EMedium Green Glue Chip
+W39.5
+S409116
+=PT697
+EClear with White & Blue Fractures & Black Streamers
+W31.5
+D0
+S788287
+=PT660
+EPurple, Amber, Streaky Wave
+W39.5
+S361d28
+=PT635
+EBlue, Green, Amber Streaky
+W39.5
+S8e713f
+=PT599
+ERed & White, Translucent
+W39.5
+D0
+S2c56be
+=PT578
+ESmall Bubbles, Clear
+W39.5
+S6e7a85
+=PT561
+EAmber, White, Clear Streaky
+W39.5
+S5e7e96
+=PT543
+EClear Ripple
+W39.5
+Sb4b8b2
+=PT525
+ELight Amber Cathedral
+W39.5
+S327f9e
+=PT508
+EGecko Ocean Blue, Clear
+W39.5
+Sa38109
+=PT730
+EDark Purple Mottle
+W31.5
+S5f67a5
+=PT678
+EBlue Mottle
+W31.5
+S4e1e1d
+=PT742
+EBlue and Amber Mist
+W31.5
+S838b7d
+=PT692
+ESky Blue and Opal Mist
+W31.5
+D0
+S908059
+=PT601IR
+EClear, White & Pink, Wispy Iridized
+W39.5
+Sb29eaa
+=PT608G
+EGreen, Streaks of Brown, Opal Granite
+W39.5
+S438359
+=PT501GC
+EGecko Cerise Ruby Glue Chip
+W39.5
+S262dd4
+=PT694
+EClear with Gold, Yellow, Orange Fractures & Black Streamers
+W31.5
+D0
+S5d778d
+=PT656
+EBlue and Pink
+W39.5
+D0
+S72718b
+=PT631
+ERed & White Opal
+W39.5
+S403a4c
+=PT596
+EPale Amber & White Wispy
+W39.5
+S2a7bb1
+=PT575
+EBlack Purple, Cobalt Blue, Green
+W39.5
+S5c6d73
+=PT558
+ESky Blue, Purple, Light Amber, Opal
+W39.5
+S9e978a
+=PT540
+EBrown Cathedral
+W39.5
+S305ea2
+=PT522
+ELight Grey, Opal
+W39.5
+D0
+Sb6c8d3
+=PT505
+EGecko Lavender Purple, Opal
+W39.5
+Scac8d5
+=PT726
+EAmber Mottle
+W31.5
+S4d87a1
+=PT675
+EWhite Mottle
+W31.5
+S6e8692
+=PT739
+EPurple, Green, and Opal Mist
+W31.5
+S637ba1
+=PT688
+EGreen and Opal Mist
+W31.5
+S657b76
+=PT594IR
+ELight Amber Lamp Mix, Translucent Iridized
+W39.5
+S427ca1
+=PT569G
+EBrown Granite
+W39.5
+S4e5d8b
+=PT761
+EOrange, Amber, Yellow Fractures with Black, Yellow & Orange Streamers
+W31.5
+D5a
+Sd2dee1
+=PT619
+EGreen, Yellow, & Red on White
+W31.5
+S7f8f89
+=PT715
+EBlue, Teal, and Opal
+W39.5
+Sa47432
+=PT649
+EMedium Purple and Dark Purple
+W39.5
+S312c3b
+=PT628
+EBlue, Green, Pink, Opal
+W39.5
+D0
+S6e7d6f
+=PT592
+EWhite Swirled W/ Medium Amber
+W39.5
+Sb3afa3
+=PT572
+ERuby Red, Clear Medium Light
+W39.5
+S2522d1
+=PT555
+EOrange, Red, Clear
+W39.5
+S2559d3
+=PT537
+EBlue, Purple, Opal
+W39.5
+S4e2526
+=PT519
+EClear & White, Wispy
+W39.5
+S889f9f
+=PT502
+EGecko Christmas Green, Opal
+W39.5
+S36690a
+=PT723
+EPurple, Green, and Opal Mottle
+W31.5
+S61869a
+=PT632
+EWhite & Purple Mottle
+W31.5
+S6a808e
+=PT736
+EBlue, Green, and Pink Mist
+W31.5
+D0
+S6a765c
+=PT684
+EPink, Green, and Opal Mist
+W31.5
+S8c7e82
+=PT543IR
+EClear Ripple Iridized
+W39.5
+Sa1a2a2
+=PT545G
+EGreen, Ruby Red, Opal Granite
+W39.5
+D5a
+S525148
+=PT758
+ERed, White, and Blue Fractures with Black, Blue and Red Streamers
+W31.5
+D0
+S747478

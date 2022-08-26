@@ -1,0 +1,230 @@
+
+19
+=CA8022
+ETeal Green Antique
+S667600
+=CA4342
+EBerry Antique
+S343e61
+=CA3372
+EBasic Blue Antique
+Saf8b67
+=CA2262
+EDark Blue Green Antique
+S414d00
+=CA1051
+EDark Amber Antique
+S285497
+=CA609
+EBlood Red/Clear Antique
+S2a2c65
+=CA4222
+EDeep Purple Antique
+S743e66
+=CA3342
+ERoyal Blue Antique
+S752445
+=CA2232
+EEmerald Green Antique
+S4c7100
+=CA1021
+ELight Amber Antique
+S9acbd6
+=CA606
+ERed-Orange/Clear Antique
+S2644ca
+=CA4142
+EWisteria Antique
+S8c616f
+=CA3311
+EPale Blue Antique
+Se2d9d8
+=CA2111
+EGreen Antique
+S3c8f4f
+=CA600
+ESun Yellow/Clear Antique
+S59dde2
+=CA4101
+ELight Iris Antique
+Sc0afb5
+=CA3202
+EAzure Blue Antique
+S5f5b2a
+=CA2031
+EMedium Grass Green Antique
+S8abb88
+=CA5072
+EGray Antique
+S695c4d
+=CA4042
+EViolet Antique
+S4d175a
+=CA3151
+ETurquoise Green Antique
+S819205
+=CA1332
+EAdobe Brown Antique
+S4c596d
+=CA8041
+EFlesh Antique
+S97afca
+=CA4372
+ECarmel Tan Antique
+S36476f
+=CA4012
+EDark Pink Antique
+S7b538c
+=CA3052
+ESapphire Blue Antique
+Sa36f4a
+=CA1222
+EGolden Leaf Antique
+S386683
+=CA8001
+ECrystal Clear Antique
+Se8eaed
+=CA4252
+EBlueberry Antique
+S853f55
+=CA3362
+EMedium Azure Blue Antique
+S996f01
+=CA2252
+ESpruce Green Antique
+S415300
+=CA1041
+EMedium Gold Antique
+S406f9d
+=CA608
+ERed/Clear Antique
+S271d83
+=CA4212
+EViolet Antique
+S824b6a
+=CA3331
+EMedium Blue Antique
+Sae8478
+=CA2202
+ERich Green Antique
+S466d00
+=CA1001
+EAmber Tint Antique
+Sc3d4dd
+=CA604
+EYellow-Orange/Clear Antique
+S2e68b6
+=CA4122
+EAmethyst Antique
+S72305d
+=CA3301
+EBlue Tint Antique
+Se2ddd7
+=CA2101
+EGrasshopper Green Antique
+S75ac82
+=CA5101
+ELight Green Grey Antique
+S9ca885
+=CA4091
+ELavender Antique
+Sc0b1bd
+=CA3192
+EBlue Velvet Antique
+S56293e
+=CA2021
+ELight Grass Green Antique
+Sbccfba
+=CA5042
+ESteel Grey Antique
+S988b6e
+=CA4032
+EDark Red Violet Antique
+S462255
+=CA3101
+ELight Turquoise Blue Antique
+Sb6b98a
+=CA1322
+ESaddle Brown Antique
+S344161
+=CA8032
+EMedium Olive Green Antique
+S52837d
+=CA4362
+EWine Blush Antique
+S37436c
+=CA4001
+ELight Pink Antique
+Sd1c3e0
+=CA3011
+ECrystal Blue Antique
+Se8d8c3
+=CA1092
+ERoot Beer Amber Antique
+S303f5a
+=CA700
+EMilky White Antique
+Sa0b4c1
+=CA4242
+EMidnight Blue Antique
+S6b3d4e
+=CA3352
+ECobalt Blue Antique
+S9e637f
+=CA2242
+EKelly Green Antique
+S375700
+=CA1031
+EGold Antique
+S4d80a1
+=CA607
+EDark Orange Red/Clear Antique
+S26189a
+=CA4202
+EBlue Violet Antique
+S89465e
+=CA3321
+ELight Blue Antique
+Sc0aea6
+=CA2121
+EAvocado Green Antique
+S2da08b
+=CA602
+ELemon Yellow/Clear Antique
+S1db6e8
+=CA4112
+EHyacinth Antique
+S784a72
+=CA3211
+ETurquoise Blue Antique
+S7c8223
+=CA2052
+EGrass Green Antique
+S65a775
+=CA5082
+EMedium Grey Antique
+S978c82
+=CA4061
+EPink Antique
+S76638b
+=CA3182
+EBright Blue Antique
+S887700
+=CA2001
+EGreen Tint Antique
+Sc7d0cb
+=CAP1
+EClear Antique for Restoration
+Sdbdee1
+=CA5011
+ELight Grey Antique
+Sa8adb3
+=CA4022
+EMedium Red Violet Antique
+S855880
+=CA307
+EBluebird Blue Antique
+S793342
+=CA1312
+EWren Brown Antique
+S465265

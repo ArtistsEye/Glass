@@ -1,0 +1,1129 @@
+
+16
+=70LL
+EGreen, Purple, Blue
+S946e8a
+=30LL
+ETurquoise Blue, Light Amber, Clear
+S71d32e
+=142LLSPL
+W0
+S213f02
+=104
+EAmber, Cerise Ruby
+D5a
+T10
+S1537ae
+=14SPLXP
+EBlue, Pink, Amber, Opal
+D5a
+Scfaaa3
+=45D
+ECream
+Se0fef5
+=99SPL
+ELighter Green, Medium Amber, Opal
+S35a09d
+=654SPL
+ETeal Green, Opal
+S6f7913
+=4SPL
+ERoyal Blue, Clear, Opal
+Sdaa04c
+=35
+ELight Purple Opalume, Light Amber
+S5e78b1
+=214SPL
+EMore Red, Opal
+S1527dd
+=14
+EBlue, Tan, Opal
+D5a
+S779360
+=111
+ERuby Red, Lime Green, Blue, Opal
+S44222f
+=33H
+EClear Hammered
+Sccb1a4
+=853
+EDark Violet
+S8a0c65
+=710
+EChartreuse Green
+Sc6fbfc
+=629
+EPalest Blue (Leans Gray)
+Sf2e9d8
+=611
+EMedium True Blue
+Sf9207e
+=18SPL
+ELighter Medium Amber
+Sc8ff
+=64LL
+EBlue, Black Purple, Clear
+Sd9426a
+=26LL
+EBlack Purple, Clear
+S8546bd
+=134SPLG
+EDark Purple, Dark Amber Streaky Granite
+W2
+D5a
+S3930a2
+=881SPL
+EPale Pink, Opal, Flamingo Pink
+S7b95fa
+=12P
+EGreen, Blue, Pink, Opal
+D5a
+Sbcc97c
+=31AD
+ETurquoise Blue
+Sa99901
+=98LL
+EGreen, Clear
+D5a
+T10
+S4dad79
+=654
+W0
+S387901
+=48
+EChristmas Green, Opal
+S6dc321
+=305
+EMint Green, Opal
+Sfbfed3
+=205
+EMint Green, Light Amber, Opal
+S98d8c4
+=126
+EMedium Blue Opalume, Brown
+S806a1c
+=1075
+EGreen Gray, Opal
+Saa9e98
+=33F
+EClear Flemish
+Sd7b5a7
+=811
+ELighter Purple
+Sd3c6f9
+=701
+EBlue Gray
+D5a
+T10
+S69532c
+=627A
+EPale Blue (Leans Violet)
+W2
+Sf3ece0
+=608F
+EMedium Royal Blue Flemish
+Sce0101
+=18L
+ELighter Medium Amber
+Sb3fd
+=59PLL
+EPurple Brown, Green, Clear
+W2
+D5a
+S43958d
+=249LL
+EPurple, Blue, Clear
+Se78fb2
+=12LL
+EGreen, Blue, Clear
+S6dc227
+=52LL
+EPink, Clear
+Sded1ea
+=11DXP
+EPale Amber, Pink, Opal
+Sc8c4cb
+=23D
+ECarmel or Tan
+S5b3fe
+=920SPL
+ELight Bronze, Opal
+Se8f2f3
+=629SPLX
+EPale Blue Cath., Opal, Flamingo Pink
+D5a
+Sdbabd7
+=46SPL
+ERed, Yellow, Opal
+D5a
+S2c8ef3
+=270
+ESky Blue, Light Amber, Opal
+D5a
+Se4e0a0
+=179
+EMint Green Opalume, Amber
+S597e51
+=122
+ELime Green Opalume, Green
+D5a
+Se9e19
+=101X
+ELime Green & Carmel Opalumes
+S4fa97b
+=33
+EClear--No Color
+Sd8b7a8
+=808TIPIRID
+EMedium Purple Tight Ripple, Iridized
+W2
+S9250dc
+=669
+EPalest Green
+Scdfdd7
+=624
+ELighter Wedgewood Blue
+Sf1c2ad
+=605
+EMedium Copper/Cobalt Blue
+Sfe1054
+=186
+EPalest Amber
+Sdef7fe
+=98LLG
+EGreen, Clear
+W2
+S4cd66a
+=50VSPLG
+EViolet, Amber Granite
+W2
+S8b78b6
+=222XLL
+EAmber, Blue, Purple, Clear
+D5a
+Sc9ccb7
+=123LL
+ETwo Blues
+D5a
+Sd87802
+=52
+EPink, Opal
+D5a
+Sf0a8fd
+=1075P
+EGreen Gray, Pink, Opal
+Sb092a5
+=225D
+ERed
+S204bc
+=880SPL
+EPale Pink, Opal
+D5a
+Sd2bbcf
+=622SPLX
+EDense Blue, Teal Green, Light Amber
+D5a
+S5b422c
+=455
+W0
+S2c5034
+=26
+EBlack Purple, Opal
+D5a
+Sc282ab
+=164
+EGreen, Dark Amber, Opal
+S1f534c
+=11XD
+EPale Amber, Opal
+D5a
+Se2e4d9
+=33TIP
+EClear Tight Ripple
+Sc7b4a9
+=920
+ELight Bronze
+S78b9fe
+=805
+EDarker Purple
+S43135d
+=663CEL
+EMedium Green Celtic
+W2
+T0
+S24a007
+=621
+EIce Blue
+Sfafaf1
+=600
+EDark Cobalt Blue
+Sf8011a
+=183
+ELight Amber
+S9deafe
+=83
+EBrown, Amber
+S22ea0
+=49LL
+EBrown, Green, Yellow
+D5a
+S683e2
+=165G
+EGreen, Amber Granite
+S1d30d
+=11L
+EMedium Amber, Opal, Light
+D5a
+T10
+Sa3ced9
+=231D
+EPale Pink
+D0
+T10
+Saabdd3
+=789D
+EGray
+S755c5e
+=17DX
+EGreen
+W2
+S7c04
+=808
+W0
+Sc792ea
+=61P
+EPurple Brown, Opal
+W2
+S765f98
+=3SPL
+EPurple
+S421541
+=246
+EAmber, Blue, Purple, Green, Opal
+S967d88
+=150
+EKelly Green Opalume, Dark Amber
+D5a
+S305140
+=118SPL
+EMore Clear, Opal
+W2
+Se1bda8
+=33RON
+EClear Rondolite
+Scbb3a6
+=870
+ELightest Violet
+Sfac4db
+=797
+EGreen Gray
+S3f6379
+=661H
+EMedium Christmas Green Hammered
+Sce03d
+=618
+ELight Peacock Blue
+Sfdce02
+=41L
+ECerise Ruby Light
+T10
+S707c8
+=18
+EMedium Amber
+S9ffe
+=74
+ERed, Green
+D5a
+S36b94
+=42LL
+ESteel Blue, Clear
+Sa6857e
+=149
+EBlack Purple, Cobalt Blue
+S2c0207
+=106NLL
+EGreen, Cerise Ruby, Clear
+D5a
+S54991
+=160DWP
+ESlate Opalume, Pink
+W2
+D5a
+Sb9c2c1
+=622D
+EDark Blue
+Sfe066e
+=1
+EWhite Opal
+W2
+Sfefefe
+=70
+EMedium Blue Opalume, Green, Dark Purple
+D5a
+Sa7872e
+=59P
+EPurple Brown, Green, Opal
+D5a
+S526253
+=37SPL
+EMore Sky Blue, Less Opal
+Sf59e0a
+=236
+EViolet, Medium Amber, Opal
+D5a
+Sdea4a8
+=142
+EBlue, Green, Opal
+D5a
+S805331
+=113
+EDense Olive Green, Blue, Lime Green
+S344117
+=33KDR
+EClear KDR
+Sd2b5a7
+=860
+EMedium Violet Cathedral
+Seb6dd4
+=794
+EPink Gray
+T10
+S496791
+=652
+EOlive Green
+S16e12
+=615G
+ELight Peacock Blue Granite
+W2
+Sfdd350
+=225LL
+ECerise Ruby
+S100da
+=68
+EDark Amber, Light Amber
+D5a
+S3c81c5
+=29LL
+ELight Purple, Medium Amber, Green
+S38a1d4
+=142LL
+EBlue, Green, Clear
+S637106
+=103LLG
+EGreen, Blue, Purple Granite
+W2
+S2f395c
+=14SPLP
+EBlue, Pink, Opal
+D5a
+Sf699b2
+=3D
+EPurple
+S2c185c
+=99
+EDarker Green, Light Amber, Opal
+S115b32
+=654ML
+ETranslucent Teal
+W2
+S565a05
+=4C
+ECobalt Blue, Opal
+D5a
+Sf83545
+=32
+ETurquoise & Carmel Opalume, Green
+W2
+S2f7f52
+=214
+ERed, Opal
+W2
+D5a
+S5264e5
+=138
+ECarmel Opalume, Royal Blue
+S538e9b
+=11
+EMedium Amber, Opal
+S9bd9f1
+=33GCP
+EClear Granite Catspaw
+Sd3baac
+=813
+EPalest Purple
+Se3dafc
+=709
+EChartreuse Green
+Scf3b2
+=628TIPIRID
+EPale Blue (Leans Turquoise) Tight Ripple Iridized
+W2
+Sedd498
+=610
+EMedium Turquoise Blue
+Sa5810a
+=18N
+EMedium Amber
+S24c4fe
+=61LL
+EBrown, Clear
+Sb4c9b
+=266LL
+EAmber, Green, Blue, Purple, Clear
+S87365a
+=134SPL
+EDark Purple, Dark Amber
+D5a
+T10
+Sa1f63
+=86P
+EDark Green, Pink, Opal
+D5a
+S98b6ab
+=129
+EEmerald Green, Pink, Opal
+Sccd1cb
+=2D
+EGreen
+S19f63
+=98
+EEmerald Green, Opal
+D5a
+S39be6d
+=64SPL
+EBlue, Heavy Black Purple, Opal
+D5a
+S8c414c
+=470
+ECobalt Blue Opalume, Green Cathedral, Skim Milk Opal
+Sa5a704
+=29
+EPurple Opalume, Green, Light Amber
+D5a
+S616a7c
+=203
+W0
+S247f4a
+=125
+ETurquoise Blue, Opal
+W2
+Sf2db59
+=106N
+EGreen, Ruby Red, Opal
+D5a
+S7a98c3
+=33CEL
+W0
+Sa7a8a8
+=810
+ELight Purple
+Sbd92ed
+=691RIP
+EChartreuse Green Ripple
+Sbe9b1
+=627
+W0
+Sc8b79f
+=607
+EMedium Cobalt Blue
+Sf00460
+=18DD
+EVery Dark Amber
+W2
+S15ee5
+=59LL
+EBrown, Green, Clear
+Sf5d68
+=246NLL
+EAmber, Blue, Purple, Green, Clear
+S5247a1
+=126LL
+EBlue, Brown
+S408227
+=52L
+ELight Pink, Opal
+D5a
+T10
+Sa3b3d6
+=118SPLP
+EPink, Opal, Clear
+Sce91f1
+=231
+EPale Pink
+Sd3ddf6
+=92
+EChartreuse Green, Opal
+D5a
+S27d490
+=629SPL
+EPale Blue, Opal
+Sfbd1d4
+=469
+ELight Blue Opalume, Violet Cathedral, Skim Milk Opal
+Sdeb4b4
+=266
+EAmber, Green, Blue, Purple, Opal
+S421c44
+=169
+EBright Yellow, Light Amber, Opal
+W2
+S46c4ba
+=12
+EGreen, Blue, Opal
+D5a
+S6b8d21
+=33WAV
+EClear Wavolite
+Scbb6aa
+=PB2
+ELighter Purple Brown
+T10
+S6078ae
+=807
+EMedium Purple
+S7c46b3
+=667
+EPale Green
+Sa1feb9
+=623
+EWedgewood Blue
+Sf7b6af
+=604
+EDark Turquoise Blue
+Sc25d00
+=185
+EPale Amber
+Sd5f5fe
+=94LL
+EBlack Purple, Blue, Green, Clear
+S6e5758
+=50VSPL
+W0
+S3b3147
+=192LL
+EViolet, Clear
+D5a
+Sd977bd
+=122LL
+ETwo Greens
+D5a
+S2fc61
+=4SPLP
+ERoyal Blue, Clear, Pink, Opal
+S945c6b
+=LEMONDX
+EYellow
+S2ffdfe
+=1LL
+ELighter White Opal
+T10
+S9f9e9e
+=87
+ELavender Purple, Opal
+D5a
+Seed1e8
+=61SPLX
+EBrown, Light Amber, Opal
+D5a
+S465567
+=42
+ESteel Blue, Opal
+D5a
+S724c3d
+=25
+ETurquoise Opalume, Green
+S9ba201
+=163
+EDark and Lime Greens, Opal
+D5a
+S275e31
+=11K
+ELight Amber, Opal
+Sc5e5e7
+=33SCP
+EClear Smooth Catspaw
+Sc4a69a
+=905
+EDark Bronze
+S186e8
+=804
+EDarkest Purple
+S370842
+=663
+EMedium Green (Bluer Green)
+S1c802
+=620A
+ECopper/Nickel Blue
+W2
+Sa5022e
+=510
+ELight Blue Green
+Sc5faa9
+=182
+ELighter Medium Amber
+S87e4fe
+=78LL
+EGreen, Purple, Clear
+D5a
+Sa9c6bd
+=48LL
+EChristmas Green, Clear
+D5a
+S22ca23
+=164LL
+EForest Green, Dark Amber, Clear
+D5a
+Saa68b
+=1081
+EMedium Amber, Grey, Opal
+D0
+T10
+S7795a0
+=1LBG
+EPink Bubble Gum, Wispy White
+D5a
+Sfba4ec
+=657D
+EHunter Green
+S57712b
+=160DW
+ESlate
+W2
+Sbbe8cb
+=78
+EEmerald Green, Purple, Opal
+D5a
+S94bf8a
+=61
+EBrown, Opal
+S93a6bc
+=39XD
+ELavender Opalume, Light Amber
+Se1c9d6
+=241
+W0
+S3c998d
+=14SPL
+ELight Blue, Light Amber, Opal
+D5a
+Sebe5c7
+=118MD
+EClear
+W2
+Sebd6c3
+=33RIP
+EClear Ripple
+Sd6bcaf
+=865
+EMedium Violet (Bluest)
+Sfd60b2
+=795G
+EGold Gray Granite
+Sa0c6c5
+=659
+EDark Christmas Green
+Sd301
+=617
+EPale Peacock Blue
+Sfcf5c9
+=41
+ECerise Ruby
+W2
+Sbb
+=1257LL
+EOrange
+W2
+S1e4bfd
+=72LL
+EGreen, Purple, Clear
+D5a
+S2e7fc5
+=41SPL
+ERuby Red, Clear
+S216f7
+=144
+EMedium Amber, Clear
+S4bafa
+=104G
+EAmber, Cerise Ruby
+W2
+S1d2be4
+=151P
+ESky Blue, Lime Green, Pink, Opal
+D5a
+S83ceb0
+=605D
+EDark Cobalt Blue
+Sfe0037
+=0
+EBlack
+Sb0c0a
+=657DSPL
+EHunter Green Opalume, Clear
+D5a
+S41a93b
+=59
+EBrown, Green, Opal
+D5a
+S557d5b
+=37
+ESky Blue, Opal
+Sfeca2a
+=222X
+ESky Blue, Purple, Light Amber, Opal
+S868953
+=140
+ELight Amber, Lavender Purple, Opal
+Sb89abb
+=112
+EPeachy Orange, Opal
+S71a2fe
+=33IRID
+EClear Iridized
+W2
+Sd7dcd5
+=855
+EDark Violet (Bluest)
+Sea117d
+=789
+ESmoke Gray
+S999d92
+=650
+EDark Olive Green
+S53c0f
+=612
+ELight Turquoise Blue
+Sfbe503
+=216LL
+EYellow
+W2
+Sfdfe
+=64LLSPL
+EBlack Purple, Blue, Clear
+D5a
+S894380
+=28LL
+EAmber, Green, Clear
+D5a
+S65e2ba
+=13LL
+EMedium Amber, Green, Clear
+W2
+S77f1ec
+=103LL
+W0
+Sf1a45
+=13P
+EGreen, Amber, Pink, Opal
+S4e8d9d
+=31D
+ELight Blue
+Sfedb02
+=98N
+EDarker Green, Opal
+S4ed166
+=654D
+ETeal Green Dense
+D5a
+T10
+S917b28
+=49
+ECarmel Opalume, Lime Green, Brown
+D5a
+S29657b
+=305SPL
+EHeavier Mint Green, Opal
+Saac26e
+=212
+EOrange, Opal
+S689bfd
+=13
+EMedium Amber, Lime Green, Opal
+D5a
+S53bdc6
+=1076
+ESoft Gray, Opal
+Sd5baac
+=33G
+EClear Granite
+Sccb4a8
+=812
+EVery Light Purple
+Sc9b8fc
+=701A
+EBlue Gray
+W2
+S6a3c02
+=628
+EPale Blue (Leans Turquoise)
+Sf2e896
+=609
+W0
+Sf98802
+=18LCEL
+ELighter Medium Amber Celtic
+W2
+T0
+S3376a6
+=5NLL
+EPlum Purple, Light Amber, Blue
+D5a
+S8cada2
+=265
+EAmber, Blue, Purple, Green
+D5a
+S3946ac
+=134G
+EPurple, Amber Granite
+D5a
+S2c49c3
+=627DP
+EBlue Violet Opalume, Pink
+Se37699
+=125P
+ETurquoise Blue, Pink, Opal
+Secb896
+=254D
+EOrange
+S158fd
+=94
+EBlack Purple, Cobalt Blue, Green, Opal
+S6c6c1e
+=64
+EBlue, Black Purple, Opal
+W2
+S8b1c29
+=47
+ECarmel Opalume, Purple, Opal
+D5a
+S506098
+=28
+EGreen, Light Amber, Opal
+D5a
+S88baa7
+=192
+EViolet, Opal
+Sca6c81
+=123
+EMedium Blue Opalume, Royal Blue
+D5a
+Sdb720f
+=103
+EPurple Opalume, Lime Green, Blue
+S6f5054
+=33A
+EClear Seedy
+Seceae3
+=809
+EMedium Light Purple
+Sa36fd4
+=690
+EChartreuse Green
+S3f3a6
+=625
+ESteel Blue
+T10
+Sba7b4d
+=606G
+EDeep Royal Blue Granite
+Saf003f
+=18D
+EDark Amber
+W2
+S18cfe
+=5510
+W0
+S5eb191
+=230LL
+EGreen Gray, Clear, Dark Amber
+D5a
+S41e0da
+=125LL
+ETurquoise Blue, Clear
+Sfafb91
+=52BG
+EPink Bubble Gum, Clear
+Sdaa1d5
+=1076P
+ESoft Gray, Pink, Opal
+Sad7ea5
+=22D
+EMint Green
+S5ccc55
+=88SPL
+W0
+S375f81
+=623SPL
+EWedgewood Blue, Opal
+W2
+Sfdb3a8
+=468
+EHunter Green Opalume, Violet Cathedral, Skim Milk Opal
+S626c62
+=263
+EAmber, Blue, Purple, Opal
+D5a
+Safa5ae
+=166
+EBright Yellow, Opal
+D5a
+S50d5c6
+=11XDP
+EPale Amber, Pink, Opal
+D5a
+T10
+Sc8c4cb
+=33V
+EClear Vertigo
+Sd0bcb0
+=PB
+EPurple Brown
+S5966e2
+=806
+EDark Purple
+S6b1d99
+=665
+ELight Green
+S8cfcb5
+=622
+EMedium Light True Blue
+Sf38f91
+=602
+EDark Cobalt Blue
+Sdd065d
+=184
+ELight Amber
+Sb8f0fe
+=92LL
+EChartreuse Green, Clear
+S12ed95
+=4CLL
+ECobalt Blue, Clear
+D5a
+Sfc8048
+=172
+EDark Amber, Medium Amber
+S33296
+=11LL
+ELight Amber, Clear
+D5a
+Sa0ecfa
+=37P
+ESky Blue, Pink, Opal
+Sf9b194
+=8X
+ELavender
+Sce83da
+=1D
+EDense White Opal
+T10
+Scbcbcb
+=86
+EDark Green, Opal
+S9ccb96
+=61SPL
+EMore Brown, Opal
+S111723
+=4
+ERoyal Blue, Opal
+Scea24d
+=249
+EBlue, Purple, Opal
+D5a
+Sef7689
+=151
+ESky Blue, Lime Green, Opal
+S73dd49
+=11D
+EDense Medium Amber, Opal
+D5a
+T10
+Sa0ccd0
+=33SB
+EClear Starburst
+T0
+Sd5cfca
+=880
+EPale Champagne Pink
+Sf3f4fa
+=798
+ECharcoal Gray
+S555238
+=662WAV
+ELighter Green Wavolite
+S4a107
+=620
+ECopper / Nickel Blue
+T10
+Sc5693f
+=509
+ELight Blue Green
+Sc8ee88
+=181
+ELighter Medium Amber
+S63d7fe
+=76
+EGreen, Amber
+S49d67
+=47LL
+EPurple, Yellow, Clear
+D0
+S5388e9
+=163LL
+ETwo Greens, Clear
+D5a
+S5753e
+=1075LL
+EGreen Gray, Clear
+Scee1e4
+=166SPLP
+EBright Yellow, Clear, Opal, Pink
+S2ab1e3
+=627D
+EBlue Violet
+Sfe947c
+=147
+W0
+Sd3633
+=72
+EOlive Green, Purple, Opal
+S8d8ba8
+=6
+ETurquoise Blue, Purple, Opal
+W2
+D5a
+Sbf9280
+=39
+EPowder Blue Opalume, Light Amber
+Sb5a99a
+=23SPL
+ECarmel, Clear
+S4295b1
+=145
+EDark Amber, Opal
+S6d9ed3
+=118
+EClear, Opal
+D5a
+T10
+S9da6ab
+=33MS
+W0
+Sa2a2a3
+=861
+ELight Violet
+Sf89bd2
+=794F
+EPink Gray Flemish
+W2
+S8393a8
+=657
+W0
+S13e301
+=616
+ELighter Peacock Blue
+Sfddd6f
+=257LL
+EOrange
+W2
+S2bfc

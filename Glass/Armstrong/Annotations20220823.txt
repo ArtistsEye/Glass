@@ -1,0 +1,1658 @@
+
+12
+=017DS
+EClear/Opal/Yellow/Amber/Streaky
+S36ecfc
+=431W
+ECobalt Blue/Dark Green/Streaky
+S3a5328
+=2718S
+EPaprika (Rust streaked with Yellow)
+D5a
+S196ade
+=42P
+ECobalt Blue Cathedral
+S9b0206
+=5901S
+ECopper Red / Purple / Clear / Opal / Wispy  
+D0
+S6646ba
+=99SO
+EPurple Opalescent
+S846c92
+=0197S
+EClear/Opal/Cobalt Purple/Streaky
+S946163
+=161S
+EOpal/Salmon
+S81a2fd
+=016S
+EClear/Opal/Flamingo/Wispy
+D0
+S96bdfc
+=184S
+EOpal/Orange/Cobalt Blue/Streaky
+D0
+S112f64
+=094CS
+EDark Purple/Blue/Clear/Streaky
+S889366
+=55SR
+ERed Cathedral
+S232e75
+=412SR
+ECobalt Blue/Opal/Amber/Streaky
+D5a
+S6a8785
+=149SR
+EOpal/Light Blue/Purple/Streaky
+S918a71
+=00SR
+EClear
+Sbdc0ad
+=32S
+ELight Green Cathedral
+S41cf92
+=132S
+Ebrown
+D0
+S396f5d
+=100SO
+ELight Gray Opalescent
+Sc3c6c2
+=F2002
+ECaramel/White, Fusible
+D5a
+S7dc1cf
+=F0622
+EChamois, Fusible
+S5fa6cc
+=F0605
+EYellow, Fusible
+Scee8
+=41C
+ELight Blue Cathedral
+Sa78e45
+=0033C
+EClear/Green/Streaky
+S4d8e67
+=441S
+ECobalt Blue/Aqua/Opal/Streaky
+D0
+Sb77239
+=4142SO
+ELight Blue Opal/Cobalt Blue/Streaky
+Sd5a068
+=1845S
+EOpal/Royal Blue/Streaky
+D0
+Sccbbac
+=114S
+EOpal/Gray/Blue/Streaky
+Sbf6e76
+=44S
+EAqua/Cathedral
+Sacb90a
+=0044S
+EClear/Aqua/Streaky
+D5a
+Sece6b5
+=GRAFITTI2
+EClear with Streaks of Cathedral Colors
+D0
+Sdde5fa
+=23W
+ELight Amber Cathedral
+S3aa3fc
+=2618S
+ERust/Opal/Streaky
+D0
+S334a9c
+=4144P
+ELight Blue Cathedral/Aqua Cathedral
+S8d814b
+=55S
+ERed Cathedral
+S920d1
+=961S
+EBlue Purple/Opal/Streaky
+S4a2a58
+=01942S
+EClear/Opal/Purple Cobalt Blue/Wispy
+D0
+S98676e
+=1166S
+EGray/Opal/Pink/Streaky
+S605069
+=0161S
+EClear/Opal/Peach/Wispy
+Sa0affb
+=081S
+EClear/Orange/Opal/Wispy
+D0
+S46affb
+=066CS
+EClear/Pink/Wispy
+Sf0d3c9
+=4518SR
+ERoyal Blue/Opal/Streaky
+Sac9a7b
+=33PR
+EDark Green Cathedral Ripple
+S3f985c
+=1233SR
+EOpal/Amber/Green/Wispy
+S789391
+=00GR
+EClear/Granite
+S956754
+=3218S
+ELight Green/Opal/Streaky
+D0
+S30ceba
+=023S
+EClear/Amber/Green/Streaky
+D0
+S409ab1
+=55G
+ERed Cathedral
+S6159c
+=F1021
+EPale Yellow/White, Fusible
+S61bfcc
+=F0619
+ERoyal Blue, Fusible
+Sa01f07
+=F0602
+EMoss Green, Fusible
+S38d39
+=32C
+ELight Green Cathedral
+S39ab66
+=00SS
+EClear Seedy
+Sc5c9cc
+=43P
+ECountry Blue Cathedral Ripple
+D0
+Tc
+Sa8ae37
+=4118S
+EOpal/Light Blue/Streaky
+Se4f8d6
+=1841S
+EOpal/Light Blue/Wispy
+Se2bf6f
+=014S
+EClear/Opal/Cobalt Blue/Streaky
+D0
+Sc79786
+=4418S
+EAqua/Opal/Streaky
+D0
+S747913
+=58LLS
+EOpal/Very Light Amber/Streaky
+D0
+Tc
+Sc8e5fc
+=18S
+EWhite Opalescent
+Sd8e8f5
+=1821W
+EOpal/Champagne/Streaky
+Sb6ebfe
+=24S
+EBrown Cathedral
+S174bab
+=33P
+EDark Green Cathedral
+S1e4f11
+=51S
+ERed/Opal/Streaky
+D5a
+S1944d8
+=906S
+EPink/Opal/Purple
+D0
+S6b66b9
+=4136S
+EPink/Blue/Green/Opal/Clear
+S907a85
+=106S
+EClear/Opal/Pink/Streaky
+D5a
+S8b698c
+=0136S
+EOpal/Clear/Light Green/Pink/Streaky
+S7e82ad
+=5201M
+EReddish Brown/Clear/Opal/Streaky
+S2939ab
+=0442CS
+EClear/Aqua/Amber/Streaky
+S7da575
+=44CR
+EAqua Cathedral Cobblestone
+S987831
+=25SR
+EBlack
+S51544d
+=066CR
+EClear/Pink/Wispy
+S6a7484
+=0042SR
+EClear/Cobalt Blue/Streaky
+Sa5815f
+=315S
+EDark Green/Opal/Black/Streaky
+D0
+S4c655a
+=01325S
+EFlint/Opal/Green/Black/Red
+S367b9c
+=33G
+EDark Green Cathedral
+S306d3b
+=F1017
+EFlamingo/White, Fusible
+S7c75c8
+=F0616
+EViolet, Fusible
+S642e34
+=99C
+EPurple Cathedral
+S7d2fb2
+=23C
+ELight Amber Cathedral
+S1872b8
+=894S
+EHawaiian Sunset - Blue/Gray/Orange/Purple/Clear/Opal/Wispy
+S336fac
+=42S
+ECobalt Blue Cathedral
+Sbf001f
+=40S
+EPale Blue Cathedral
+Sfca384
+=149S
+EOpal/Light Blue/Purple/Streaky
+D0
+Sa16d6f
+=0041SO
+EClear/Light Blue/Opal/Streaky
+Sc4cd9b
+=4144S
+ELight Blue Cathedral/Aqua Cathedral
+Sd5bf54
+=2355S
+ELight Amber/Red/Streaky
+Se5cf5
+=778SO
+EYellow/Orange/Streaky
+S2786fd
+=1800S
+EOpal/Clear/Streaky
+Sf6f6f6
+=1233W
+EOpal/Amber Green/Wispy
+S1b4062
+=2401SO
+EDark Brown Opal/Clear/Opal
+S527b9e
+=246P
+EAmber, Blue, Green, Pink, Streaky, Ripple
+D0
+T0
+S635871
+=5017S
+ECopper Red / Silver Yellow / Clear / Opal / Wispy
+S2363a9
+=901S
+ELight Purple/Opal/Streaky
+D0
+S6968bc
+=1946S
+EOpal/Purple/Cobalt Blue/Pink/Streaky
+D5a
+Sb8766c
+=1064S
+EClear/Opal/Light Blue/Pink
+S817f91
+=88SO
+EOrange Opalescent
+S163dc
+=33M
+EDark Green Cathedral
+S3a9c36
+=03CS
+ELime Green/Clear/Streaky
+S6f9a6f
+=42SR
+ECobalt Blue Cathedral
+Sd06f73
+=194SR
+EOpal/Purple/Cobalt Blue/Streaky
+Sa07075
+=016SR
+EClear/Opal/Flamingo/Wispy
+D5a
+S4b799f
+=5013S
+EBlack/Clear/Opal/Green/Streaky
+D5a
+S646e52
+=304S
+EDark Green/Clear/Cobalt Blue/Streaky
+D0
+S768e36
+=11S
+EOpal/Dark Gray/Wispy
+D5a
+S857b7f
+=23G
+ELightAmber/Cathedral
+S25a1f9
+=F1010
+EBlue/Green, Fusible
+S8ca982
+=F0613
+ECarmel, Fusible
+S8ad5
+=88C
+EOrange Cathedral
+S262fd
+=100C
+ELight Gray Cathedral
+S929492
+=47S
+EMidnight Blue Cathedral
+S731e20
+=4233S
+ECobalt Blue/Dark Green/Streaky
+Sbabb2a
+=403S
+ECobalt Blue/Clear/Green/Streaky
+S935f37
+=1441S
+EOpal/Cobalt Blue/Light Blue/Streaky
+Se3ad85
+=2523S
+EBlack/Amber/Streaky
+D5a
+S114c69
+=1844S
+EOpal/Aqua/Streaky
+Sa8c459
+=2218S
+EPale Amber/Opal/Wispy
+S90e6fb
+=17S
+EOpal/Yellow/Streaky
+S42d8f7
+=0018S
+EClear/Opal/Wispy
+Sced7da
+=0194W
+EClear/Opal/Lavender/Wispy
+D0
+S896c67
+=90P
+ELight Purple Cathedral
+S5e5f8d
+=0461P
+EBlue Streaked with Bubblegum Pink
+Sf5ccee
+=175S
+EOpal/Yellow/Red/Streaky
+D5a
+S486cb0
+=196S
+EOpal/Blue/Purple/Streaky
+Sded6d6
+=16S
+EOpal/Flamingo/Streaky
+D0
+Sa2c3f5
+=1046S
+EOpal/Flint/Aqua/Blue/Pink Bubblegum Swirl
+D0
+S9a858a
+=81S
+EOrange/Opal/Streaky
+D0
+S1062fb
+=0042M
+EClear/Cobalt Blue/Streaky
+Sd0baa4
+=90SR
+ELight Purple Cathedral
+S534f7c
+=4244CR
+EAqua/Blue/Streaky 
+Saf7b4f
+=1841SR
+EOpal/Light Blue/Wispy
+S978c55
+=0146SR
+EOpal/Clear/LightBlue/Pink/Streaky
+D5a
+Sa5a098
+=3418S
+EOlive Green Opalescent
+S628558
+=1832S
+EOpal/Light Green/Streaky
+Sb2cdbd
+=110S
+ESoft Gray Opal
+D5a
+Saeada6
+=00G
+EClear
+Sd0d1d1
+=F1005
+EBurgundy/White, Fusible
+S896aa3
+=F0610
+EGrey, Fusible
+S686860
+=47C
+EMidnight Blue Cathedral
+S9e3f5e
+=0144C
+EClear/Opal/Aqua/Streaky
+D0
+Sa7c9a0
+=4618S
+EGray Blue/Streaky
+D0
+S6b5d5d
+=4215S
+ECobalt Blue & Purple/hint of Black
+S716455
+=4018S
+EPale Blue/Opal/Streaky
+D0
+Sf07593
+=1414S
+EOpal/Light Blue/Cobalt Blue/Streaky
+D0
+Sc99463
+=115S
+EOpal/Gray/Black/Streaky
+D0
+S89889b
+=1452S
+EOpal/Aqua/Blue/Amber
+S7e8357
+=192S
+EOpal/Purple/Amber/Streaky
+D5a
+S5f6165
+=117S
+EOpal/Gray/Yellow/Streaky
+D0
+S8fa2a5
+=58DW
+EOpal/Dark Amber/Streaky
+S4e7786
+=010W
+EFlesh Opalescent
+S3e7b9d
+=441P
+ECobalt Blue/Opal/Aqua/Streaky 
+D5a
+Sad724d
+=0018P
+EOpal/Clear/Wispy
+Se0e1df
+=015S
+EClear/Opal/Red/Streaky
+D0
+S435dc6
+=09S
+EClear/Purple/Wispy
+D0
+S9e73e1
+=1664S
+EOpal/Cobalt Blue/Pink/Streaky
+Se98e9d
+=0461S
+EBlue Streaked with Bubblegum Pink
+Sf6cff9
+=189S
+EOpal/Orange/Purple/Streaky
+S3879e6
+=099CS
+EDark Purple/Clear/Streaky
+S7b6496
+=77SR
+EYellow Cathedral
+S47ece6
+=41PR
+ELight Blue Cathedral Ripple
+S887c52
+=1800SR
+EOpal/Clear/Streaky
+Sd2d5bc
+=012SR
+EClear/Opal/Light Amber/Wispy
+S9db7b5
+=3318S
+EDark Green/Opal/Streaky
+S588f55
+=134S
+EOpal/Dark Green/Dark Blue/Streaky
+S9e7d51
+=105S
+EOpal/Gray/Black/Streaky
+D0
+S5c4641
+=F2006
+ERed/White, Fusible
+D5a
+S7d7dbd
+=F0625
+EDark Green
+Sc2604
+=F0607
+EReddish Orange , Fusible
+S100bd
+=42C
+ECobalt Blue Cathedral
+S970004
+=0044C
+EClear/Aqua/Streaky
+Scce05a
+=4518S
+ERoyal Blue/Opal/Streaky
+S573e2a
+=4199S
+ELight Blue/Purple/Streaky
+Sa0948e
+=1847S
+EOpal/Midnight Blue/Streaky
+Sca9e92
+=1241S
+EOpal/Amber/Light Blue/Wispy
+S5b685e
+=44sod
+EDark Aqua
+D5a
+Tc
+S91ba27
+=1042S
+ECobalt Blue/Aqua/Opal/Clear
+Saeaf75
+=012S
+EClear/Opal/Light Amber/Wispy
+S98cce8
+=0176S
+EClear/Opal/Yellow/Flamingo/Streaky
+D0
+S64b7fb
+=33W
+EDark Green Cathedral
+S43733c
+=26SO
+ETerra Cotta Opalescent
+S465bc8
+=4244P
+EAqua/Blue/Streaky
+S545b11
+=5610S
+ECopper Red / Pink / Light Champagne Opal / Wispy
+S2443e8
+=99S
+EPurple Cathedral
+S9836da
+=0196S
+EClear/Opal/Blue Purple/Streaky
+S7a6e7b
+=14946S
+EPink/Opal/Clear Aqua/Purple/Blue
+S8d7172
+=016DS
+EFlamingo/Clear/Opal/Wispy
+S8195d0
+=178S
+EOpal/Yellow/Orange/Streaky
+S439df9
+=092CS
+EDark Purple/Amber/Clear
+D5a
+Sc8e5f5
+=55PR
+ERed Cathedral
+S2f3bcf
+=4118SR
+EOpal/Light Blue/Streaky 
+Sc0af89
+=1466SR
+EOpal/Light Blue/Pink/Streaky
+D5a
+Sd6bc9a
+=00PR
+EClear/Ripple
+S778181
+=3255S
+ELight Green/Red/Streaky
+D0
+S103975
+=1233S
+EOpal/Amber/Green/Wispy
+S314a4c
+=100S
+ELight Gray Cathedral
+Sab9d91
+=F1250
+EBlue Granite, Fusible
+S7f504c
+=F0621
+EGreen, Fusible
+S426400
+=F0604
+EBlack, Fusible
+S0
+=40C
+EPale Blue Cathedral
+Sd0ba98
+=SGC
+ESingle Glue Chip
+Tc
+S898a83
+=43SO
+ECountry Blue Opalescent
+S97995e
+=4132SO
+ELight Blue Opal/Light Green/Streaky
+S90a45c
+=1843S
+EOpal/Country Blue/Streaky
+Sa8a66f
+=024S
+EClear/Amber/Cobalt Blue Cathedral/Streaky
+D5a
+S5c8574
+=4499S
+EAqua/Purple/Streaky
+Sa4945a
+=58S
+EOpal/Amber/Streaky
+S8cd4fa
+=Graffiti1
+EWhite/Clear/Streaks of Cathedral Colors
+D5a
+Sdae4da
+=2318W
+ELight Amber/Opal/Wispy
+D0
+S4599c5
+=2601SO
+ETerra Cotta/Opal/Clear
+S276ab4
+=4142SOP
+ELight Blue Opal/Cobalt Blue/Streaky
+S9d6239
+=551S
+ECopper Red / Clear / Opal / Wispy
+S4351d5
+=91S
+EPurple/Opal/Streaky
+S797fc2
+=0097SO
+EClear/Mauve/Opal/Wispy
+D5a
+S78757e
+=1096S
+EOpal/Flint/Pink/Blue Purple
+Sa489ce
+=0146S
+EOpal/Clear/Light Blue/Pink/Streaky
+Sa9a3e9
+=93M
+EPurple Cathedral, Mirage
+D5a
+T0
+S6e6cb8
+=05CS
+EClear/Red/Streaky
+D5a
+Sa4ed2
+=44SR
+EAqua Cathedral
+Sa7a176
+=3318SR
+EDark Green Opal/Streaky
+S6f8f63
+=106SR
+EClear/Opal/Pink/Streaky
+Sc1a9ab
+=00CR
+EClear/Cobblestone
+Sd1d7d8
+=3211S
+EOlive Green/Opal/Streaky
+S528c73
+=0193S
+EClear/Opal/Purple/Green/Streaky
+D0
+S495e7e
+=401G
+EIce Blue/Opal/Wispy
+S898257
+=F1020
+EBlack/White, Fusible
+S796d69
+=F0618
+EPeriwinkle, Fusible
+Sb15b12
+=F0601
+EWhite, Fusible
+Se2e2cd
+=26C
+ERust Cathedral
+S1132dc
+=00S
+EClear
+Sc9cdce
+=431S
+ECobalt Blue/Dark Green/Opal/Streaky
+D5a
+S435914
+=4100SO
+ELight Blue Opalescent
+Sfded6e
+=1840S
+EOpal/Pale Blue/Wispy
+Sbfbcc2
+=0141S
+EClear/Opal/Light Blue/Wispy
+D0
+Sebcc77
+=4400SO
+EAqua/Opal/Clear/Streaky
+S909b5d
+=58DS
+EOpal/Dark Amber/Streaky
+S78beea
+=77SO
+EYellow Opalescent
+S18ebfe
+=18AS
+EAlmond Opalescent
+S96cacf
+=175W
+EOpal/Yellow/Red/Streaky
+D0
+S2e60d1
+=2418S
+EBrown/Opal/Streaky
+S2a70d8
+=26P
+ERust Cathedral
+S504b3
+=51DS
+EDark Red/Opal/Streaky
+D0
+S50d70
+=904S
+ELight Purple/Light Blue/Wispy
+Sc7a699
+=21S
+EChampagne Cathedral
+Se8defd
+=106DS
+EOpal/Clear/Pink/Streaky
+S86659f
+=010S
+EFlesh Opalescent
+S94aacb
+=44M
+EAqua Cathedral
+D0
+S8f9c03
+=043CS
+ECountry Blue/Clear/Streaky
+Sa09961
+=441SR
+ECobalt Blue/Aqua/Opal/Streaky
+S877977
+=23SR
+ELight Amber Cathedral
+S2473ad
+=0194SR
+EClear/Opal/Lavender/Wispy
+Sa48f83
+=0018SR
+EClear/Opal/Wispy
+Scccabf
+=3100SO
+EMint/Clear/Streaky
+S9dbd9d
+=0033S
+EClear/Green/Streaky
+S83bb85
+=2523G
+EBlack/Amber/Streaky
+Sb44a6
+=F1014
+EYellow
+S8cad9
+=F0615
+EPurple, Fusible
+S3c036e
+=97C
+ECobalt Blue/Purple/Cathedral
+Scd48c8
+=22C
+EPale Amber Cathedral
+S75dce9
+=5014S
+EBlack/Clear/Opal/Cobalt Blue/Streaky
+S242d38
+=4299S
+ECobalt Blue/Purple/Streaky
+Scc4a20
+=409S
+ECobalt Blue/Clear/Purple/Streaky
+D0
+Sa7517e
+=1466S
+EOpal/Light Blue/Pink/Streaky
+D0
+Sb6a187
+=501S
+EBlack/Opal/Clear/Streaky
+D0
+S5586b8
+=4106S
+EAqua/Opal/Clear/Peach
+D0
+S7d8c80
+=2318S
+ELight Amber/Opal/Wispy
+S1779a3
+=774SO
+EYellow/Opal/Cobalt Blue/Streaky
+S30a27e
+=1800AS
+EAlmond Opal/Clear/Streaky
+S6db0d6
+=106DW
+EOpal/Clear/Pink/Streaky
+S9d86d2
+=1826S
+EOpal/Rust/Streaky
+D0
+S516ea0
+=106P
+EClear/Opal/Pink/Streaky
+D5a
+S74677b
+=1875S
+EOpal/Red/Yellow/Streaky
+D5a
+S2b54a2
+=3049S
+EPurple/Green/Clear/Blue
+D5a
+S73a684
+=1821S
+EOpal/Champagne/Streaky
+S9ed7fd
+=1063S
+EClear/Opal/Green/Pink
+S698b74
+=88S
+EOrange Cathedral
+S146ae6
+=21M
+EChampagne Cathedral
+Sc5c8cc
+=026CS
+ERust/Clear/Streaky
+S87ccb
+=42CR
+ECobalt Blue Cathedral
+Sa70f30
+=18SR
+EWhite Opalescent
+Sbebf95
+=016DSR
+EFlamingo/Clear/Opal/Wispy
+D5a
+S56829e
+=34S
+EOlive Green Cathedral
+S62a644
+=302S
+EDark Green/Clear/Amber/Streaky
+D0
+S2f9583
+=111SO
+EMedium Gray Opal/Wispy
+D0
+Scdcdcd
+=2318G
+Eclear/opal/light amber/wispy
+S265d8f
+=F1008
+EAqua/White, Fusible
+S838626
+=F0612
+EOlive Green, Fusible
+S34d02
+=77C
+EYellow Cathedral
+S2c7fc
+=066C
+EClear/Pink/Wispy
+D0
+Sd19fc4
+=4718S
+EMidnight Blue/Opal/Streaky
+Sb45878
+=4223S
+ECobalt Blue/Amber/Streaky
+S3e4945
+=402S
+ECobalt Blue/Clear/Amber/Streaky
+Scfb09d
+=143S
+EOpal/Light Blue/Light Green/Streaky
+D0
+Sa4b892
+=1825S
+EOpal/Black/Streaky
+S6d9fc9
+=1480S
+EOpal/Aqua/Orange/Clear/Wispy
+D5a
+S607e8d
+=215S
+EAmber/Black/Opal/Wispy(calico)
+D0
+S264b82
+=1725S
+EOpal/Yellow/Black/Streaky
+D5a
+S368f8f
+=0018AS
+EClear/Almond Opal/Wispy
+Sa0e3fd
+=0193W
+EClear/Opal/PurpleGreen/Streaky
+S4b7075
+=55P
+ERed Cathedral
+Sa138e
+=00P
+EClear
+Sebebeb
+=135S
+EOpal/Green/Red/Streaky
+D0
+S32516a
+=191S
+EOpal/Purple/Gray/Streaky
+D5a
+S7c6172
+=166S
+EOpal/Pink/Streaky
+D5a
+Scbb0d6
+=0698S
+EClear/Pink/Cobalt/Purple/Wispy
+Sad80f5
+=81DS
+EDark Orange/Opal/Streaky
+D0
+Sc35da
+=404CS
+EClear/Aqua/Blue
+Scc804d
+=90PR
+ELight Purple Cathedral/Ripple
+S8d6158
+=4218SR
+ECobalt Blue/Opal/Streaky
+Sdc838a
+=1821SR
+EOpal/Champagne/Streaky
+Sb7aaaa
+=0144SR
+EClear/Opal/Aqua/Streaky
+S808a5f
+=33SO
+EDark Green Opalescent
+S709c6e
+=1448S
+EOpal/Aqua/Orange/Streaky
+D0
+S255072
+=10SO
+EDark Gray Opalescent
+Sa9a59b
+=0025G
+EClear/Black/Streaky
+S2f5b70
+=F1001
+EChampagne/White, Fusible
+Sacb4bf
+=F0609
+EDark Red, Fusible
+S69
+=44C
+EAqua Cathedral
+S798903
+=00C
+EClear
+Sc8cdcf
+=45SO
+ERoyal Blue Opal
+Sce8c77
+=41SO
+ELightest Blue Opalescent
+Sc4b27b
+=4014S
+ECobalt Blue/Clear/Opal/Light Blue/Streaky
+Sf57879
+=124S
+EOpal/Amber/Cobalt Blue/Streaky
+D5a
+S838e7e
+=1025S
+EGray/Black/Streaky
+S9c9590
+=1449S
+EOpal/Aqua/Purple/Streaky
+S39401b
+=121S
+EOpal/Amber/Gray/Streaky
+D5a
+S52898e
+=017S
+EClear/Opal/Yellow/Streaky
+D0
+S74b4bb
+=55W
+ERed Cathedral
+S716a0
+=00W
+EClear
+Sc8cdcd
+=436P
+EBlue/Green/Pink/Opal/Streaky
+S7b796b
+=851S
+EOrange/Red/Opal/Streaky
+D0
+Sb2399
+=0055S
+EClear/Red/Streaky
+D5a
+S327eb6
+=019S
+EOpal/Purple/Streaky
+D0
+S8999d7
+=1663S
+EOpal/Dark Green/Pink/Streaky
+Sa5c5d5
+=01946S
+EOpal/Purple/Cobalt Blue/Pink/Streaky
+Sad807a
+=1888S
+EOpal/Orange/Streaky
+D0
+S509efd
+=097CS
+EViolet/Clear/Streaky
+D5a
+Sa47171
+=58SR
+EOpal/Amber/Streaky
+S768180
+=4144PR
+ELight Blue Cathedral/Aqua Cathedral
+S8f8348
+=166SR
+EOpal/Pink/Streaky
+S897b92
+=0124SR
+EClear/Opal/Dark Amber/Wispy
+D5a
+S3c7286
+=3300SO
+EDark Green/Opal/Clear/Wispy
+S81b774
+=1339S
+EOpal/Dark Green/Purple
+S588f87
+=101S
+EOpal/Light Gray/Wispy
+D0
+Sbcb7b2
+=F2005
+EBurgundy/White, Fusible
+D5a
+Sbcb1c5
+=F0624
+EMidnight Blue, Fusible
+S7e0000
+=F0606
+EOrange, Fusible
+S1b62fb
+=4244C
+EAqua/Blue/Streaky
+Sac963e
+=0042C
+EClear/Cobalt Blue/Streaky
+D5a
+S99664a
+=4500SO
+ERoyal Blue Opal/Clear/Streaky
+Se18635
+=4143SO
+ELight Blue Opal/Country Blue/Streaky
+Scebb57
+=1846S
+EOpal/Gray Blue/Streaky
+Sc6c9b9
+=1240S
+EPale Blue and White Swirled with Amber
+Sbed5ed
+=44SO
+EAqua/Opal
+S889554
+=0144S
+EClear/Opal/Aqua/Streaky
+D5a
+Sb2b970
+=0124S
+EClear/Opal/Dark Amber/Wispy
+D0
+S99b4c6
+=01479S
+EClear/Opal/Light Blue/Yellow/Opal/Purple
+D0
+S869fb8
+=3318W
+EDark Green/Opal/Streaky
+S3b9d52
+=26S
+ERust Cathedral
+Sc51ef
+=41P
+ELight Blue Cathedral
+Sc2bc8a
+=5610DS
+ECopper Red / Pink / Dark Champagne Opal / Wispy
+S5946af
+=96S
+EBlue Purple Cathedral
+S42285d
+=0194S
+EClear/Opal/Lavender/Wispy
+D0
+Sbaa4c2
+=136S
+EOpal/Light Green/Pink/Streaky
+S89acc0
+=0164S
+ESubtle Green & Pink
+S736b6c
+=1338S
+EOpal/Dark Green/Opal/Wispy
+D0
+S22497d
+=078CS
+EClear/Yellow/Orange
+Sd7eaeb
+=51SR
+ERed/Opal Streaky
+S2a3aeb
+=33SR
+EDark Green Cathedral
+S55935f
+=1449SR
+EOpal/Aqua/Purple/Streaky
+S6f6e61
+=00MR
+EClear/Mirage
+S946d5a
+=3233SO
+ELight Green/Opal/Dark Green/Streaky
+S57a974
+=1034S
+EMuted Green/Amber/Opal
+S6bb6df
+=58G
+EOpal/Amber/Streaky
+S88abc0
+=F1210
+EBlack/Granite Medium Grain, Fusible
+S756e72
+=F0620
+EBlue-Grey, Fusible
+Sa8924c
+=F0603
+ETeal, Fusible
+S5b5902
+=33C
+EDark Green Cathedral
+S2a8107
+=DGC
+EDouble Glue Chip
+Tc
+Sa3a2b3
+=43S
+ECountry Blue Cathedral
+Sc1b440
+=412S
+ECobalt Blue/Opal/Amber/Streaky
+D0
+S9a5c66
+=1842S
+EOpal/Cobalt Blue/Streaky
+Se79887
+=0174S
+EClear/Opal/Yellow/Cobalt Blue/Streaky
+Sb89798
+=444SO
+EAqua/Opal/Cobalt Blue/Aqua
+D5a
+Sca9e63
+=58LS
+EOpal/Light Amber/Streaky
+D0
+Tc
+Sace0fe
+=18VS
+EIvory/Opalescent
+Sc3e4e4
+=194W
+EOpal/Purple/Cobalt Blue/Streaky
+S822b46
+=24SO
+EBrown Opalescent
+S1a2c7b
+=394P
+EBlue/Green/Purple/Wispy
+S7c7a3c
+=5201S
+EReddish Brown/Clear/Opal/Streaky
+S3a80bb
+=90SO
+ELight Purple Opalescent
+S877b86
+=0097S
+EClear/Purple/Blue/Streaky
+D5a
+S9c927b
+=1086S
+ETangerine Opal Swirled with Pink
+S507bef
+=01467S
+EClear/Opal/Light Blue/Pink/Yellow Opal
+S4f7794
+=55M
+ERed Cathedral
+S316a0
+=049CS
+ECobalt Blue/Clear/Dark Purple/Streaky
+D5a
+S9b7966
+=44PR
+EAqua Cathedral Ripple
+S677530
+=3218SR
+ELight Green/Opal/Streaky
+S77817c
+=106DSR
+EOpal/Clear/Pink/Streaky
+D5a
+S9a9198
+=0044CR
+EClear/Aqua/Streaky/Cobblestone/Iridized 
+S98c082
+=31SO
+EMint Opalescent
+S97a77f
+=013S
+EClear/Opal/Green/Streaky
+D0
+S53845a
+=346G
+EAmber, Blue, Purple, Pink, Opal, Streaky, Granite
+T0
+S7c6f79
+=F1018
+ELight Blue/White, Fusible
+Sc6b49e
+=F0617
+EBlue-Green, Fusible
+S2e3903
+=F0600
+EWhite/Silver Yellow, Fusible
+Se4ebe0
+=24C
+EBrown Cathedral
+S2462c8
+=97S
+ECobalt Blue/Purple/Cathedral
+Sc501b7
+=4318S
+ECountry Blue Opal/Opal/Streaky
+Sae9f61
+=40SO
+EBaby Blue Opalescent
+Scdb98b
+=174S
+EOpal/Yellow/Cobalt Blue/Streaky
+S65c1d5
+=0042S
+EClear/Cobalt Blue/Streaky
+D5a
+Sf5b48d
+=4244S
+EAqua/Blue/Streaky
+S947f05
+=23S
+ELight Amber Cathedral
+S219cee
+=77S
+EYellow Cathedral
+S2e6fd
+=1800VS
+EIvory/Clear/Streaky
+Sacc9da
+=125W
+EOpal/Amber/Red/Streaky
+Sa63d5
+=2418DS
+EDark Brown/Opal/Streaky
+S23468d
+=249P
+EAmber/Purple/Blue/Teal Cathedral
+S899182
+=515S
+ESwirl of Opal, Black & Red
+S24325b
+=9040SO
+ELight Purple/Opal/Pale Blue/Streaky
+S7a6ebe
+=2118S
+EChampagne/Opal/Wispy
+Sbfccda
+=10664S
+EOpal/Clear/Aqua/Peach/Bubblegum Pink
+D5a
+S94806c
+=0010S
+EClear/Flesh/Wispy
+Sa9d5fd
+=40M
+EPale Blue Cathedral
+Sfabdb4
+=042CS
+ECobalt Blue/Clear/Streaky
+D5a
+S9d714b
+=4318SR
+ECountry Blue Opal/Opal/Streaky
+S8e8557
+=2318SR
+ELight Amber/Opal/Wispy
+Sd76a7
+=017SR
+EClear/Opal/Yellow/Streaky
+S6aa08d
+=0010SR
+EClear/Flesh/Wispy
+Sb0ccd7
+=30HS
+EPale Green Cathedral
+S76cfa9
+=0031SO
+EClear/Mint/Opal/Wispy
+D0
+Sb5c8bc
+=2418G
+EBrown/Opal/Streaky
+S173670
+=F1013
+EOrange/Yellow, Fusible
+Se73e7
+=F0614
+EChampagne, Fusible
+S7d7ec3
+=90C
+ELight Purple Cathedral
+S70779d
+=21C
+EChampagne Cathedral
+Sb0b6be
+=494S
+EPale Violet/Cobalt Blue/Teal/Cathedral/Streaky
+S746b43
+=4255S
+ECobalt Blue/Red/Streaky
+S250726
+=406S
+ECobalt Blue/Aqua/Clear/Bubblegum
+Sc7c495
+=145S
+EOpal/Cobalt Blue/Red/Streaky
+S594a4c
+=25S
+EBlack
+S392725
+=1849S
+EOpal/Aqua/Purple/Streaky
+Sa39d77
+=22S
+EPale Amber Cathedral
+S70abbe
+=71S
+EYellow/Opal/Wispy
+Sfe6fd
+=0018VS
+EClear/Ivory Opal
+Sccd7d7
+=0197W
+EClear/Opal/Cobalt Purple/Streaky
+D5a
+S8d7178
+=99P
+EPurple Cathedral
+S821ead
+=106DP
+EOpal/Clear/Pink
+S827ade
+=1855S
+EOpal/Red/Streaky
+D0
+S3b52bf
+=19S
+EOpal/Purple/Streaky
+D0
+Sb9c0f5
+=1806S
+EOpal/Flint/Pink
+D0
+Sb8bcf3
+=1061S
+EOpal/Clear/Peach/Streaky
+D0
+Sc6cffd
+=87SO
+EOrange/Yellow/Opal/Streaky (Brilliant Sunrise)
+D5a
+Sb7bbc
+=00M
+EClear
+Sd0d4d7
+=00CS
+EClear
+Sd5ddc7
+=4244PR
+EAqua/Blue/Streaky
+S8a726f
+=1844SR
+EOpal/Aqua/Streaky
+Sb0af87
+=014SR
+EClear/Opal/Cobalt Blue/Streaky
+Sd52757
+=341S
+ELight Green/Light Blue/Opal/Streaky
+S75d383
+=1833S
+EOpal/Dark Green/Streaky
+D0
+S9ec699
+=111S
+EOpal/Medium Gray/Wispy
+D0
+Sbcb5b7
+=1800G
+EOpal/Clear/Streaky
+Sfcf9ec
+=F1007
+ECobalt Blue/White, Fusible
+Sa0684a
+=F0611
+EGold Metallic, Fusible
+S7fb6cc
+=55C
+ERed Cathedral
+S21ccd
+=0461C
+EBlue streaked with Pink Bubblegum
+Sc9949b
+=46S
+EGray Blue Cathedral
+Sa39183
+=4218S
+ECobalt Blue/Opal/Streaky
+Sb9664a
+=401S
+EIce Blue/Opal/Wispy
+Sfce3c0
+=141S
+EOpal/Light Blue/Gray/Streaky
+Sb4af7a
+=1825DS
+EOpal / Black / Streaky
+D0
+Tc
+S56433d
+=1462S
+EOpal/Caribbean Blue/Aqua/Amber/Streaky
+D0
+Tc
+S85ad6a
+=2018S
+ELightChampagne/Opal/Wispy
+D5a
+S36708d
+=1724S
+EOpal/Yellow/Dark Amber/Streaky
+S3fafe4
+=58W
+EOpal/Amber/Streaky
+S719ab4
+=012W
+EClear/Opal/Light Amber/Wispy
+S73a4ad
+=44P
+EAqua Cathedral
+S837e1f
+=0044P
+EClear/Aqua/Streaky
+S9fb56a
+=125S
+EOpal/Amber Red/Streaky
+D0
+S1637ba
+=1897S
+EOpal/Cobalt Purple/Streaky
+Scab2b3
+=1665S
+EOpal/Aqua/Pink/Streaky
+D5a
+Sa78a73
+=066S
+EClear/Pink/Wispy
+Sdfb3fb
+=78S
+EOrange/Yellow/Streaky
+D0
+S2a1fc
+=304CS
+EDark Green/Clear/Cobalt Blue/Streaky
+S81a356
+=901SR
+ELight Purple/Opal/Streaky
+S7879ca
+=41SR
+ELight Blue Cathedral
+S8b8052
+=1800VSR
+EIvory/Clear/Streaky/Iridescent 
+D5a
+S578483
+=013SR
+EClear/Opal/Green/Streaky
+S74966e
+=33S
+EDark Green Cathedral
+S319803
+=138S
+EOpal/Dark Green/Orange/Streaky
+S294259
+=10S
+EDark Gray Cathedral
+S7e6e5a
+=F2010
+EGreen/White, Fusible
+D5a
+S6faa9d
+=F1000
+EWhite, Fusible
+Sccc7c5
+=F0608
+ERosewood, Fusible
+Se03cc
+=43C
+ECountry Blue Cathedral
+Sd2c544
+=0055C
+EClear/Red/Streaky
+D5a
+S2760a9
+=45S
+ERoyal Blue Cathedral
+Sa07635
+=41S
+ELight Blue Cathedral
+Sfcd47f
+=194S
+EOpal/Purple/Cobalt Blue/Streaky
+D0
+S896066
+=1245S
+EOpal/Amber/Royal Blue/Streaky
+S8f8c64
+=0025S
+EClear/Black/Streaky
+S143745
+=1442S
+EOpal/Aqua/Amber/Streaky
+S649057
+=029S
+EClear/Amber/Purple/Streaky
+S5a96f9

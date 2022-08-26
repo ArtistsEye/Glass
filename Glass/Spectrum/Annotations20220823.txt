@@ -1,0 +1,1390 @@
+
+6
+=I82392S
+ETeal Green/White, wispy, Iridescent
+D5a
+T0
+S78863f
+=82392S
+ETeal Green/White, Wispy Opalescent
+S7e880a
+=3196S
+EDark Amber/White
+S1c2c74
+=5181W
+EBronze Waterglass
+S637890
+=136W
+ECobalt Blue Cathedral Waterglass
+S693c08
+=83874S
+ESteel Blue/White, Translucent Opalescent
+Sb49d87
+=605183CC
+EAutumn Flame
+D0
+S3659d3
+=41115G
+EBrown/Gold, Translucent, Granite
+D0
+S1e4899
+=307S
+EClear/White, Translucent Opalescent
+Seae1e4
+=100SN
+EClear Cathedral, Satin
+S828484
+=100Barnwood
+EClear Barnwood
+T0
+Sd8d8d9
+=5182SF
+EAntique Bronze Transparent
+T0
+S637e8d
+=22872SF
+ECeladon Opal
+S7e9a87
+=142SF
+ELight Purple Smooth Cathedral, Tested Compatible
+S5b3473
+=Spirit63572SF
+EPhilly
+S654d82
+=SC1102W
+EPale Amber/Waterglass, Silver, mirror, Gold Water
+S349dbf
+=3256S
+EWhite/Dark Green, Semi-Translucent Opalescent
+S78a871
+=200S
+EOpal White (also available in System 96 fusible)
+Sf1f0f2
+=CherryWhiteFR
+ECherry Red Transparent + White Opal Fusers' Reserve
+S504a8c
+=5333RR
+EDeep Aqua Rough Rolled Cathedral
+Saa8804
+=152G
+ERuby Red Cathedral, Granite
+S23137f
+=1308RR
+EPale Blue Rough Rolled Cathedral
+Sbb9490
+=IBR400
+EBlack, Clear Baroque, Iridescent
+T0
+S735e5c
+=BR308
+EWhite/Clear Baroque
+Scbc8c6
+=125A
+EEmerald Green Artíque
+S365015
+=I3396S
+EDark Blue/White, wispy, Iridescent
+D5a
+T0
+S8f3533
+=3991S
+EQuartz Pink /  White, Wispy
+Sdcd5e8
+=309S
+EClear/White, Wispy Opalescent
+Sdedbde
+=4331W
+EDeep Steel/Sky Blue Cathedral Waterglass
+S9c7032
+=1308W
+EPale Blue Cathedral Waterglass
+Sc6a38a
+=82671S
+ELime Green/White, Translucent Opalescent
+S3db094
+=603483CC
+EAqua/Rose/Clear/White, Opalescent
+W8
+S9a929d
+=3671S
+EYellow/White, Translucent Opalescent
+W5
+S2dc8fc
+=I100W
+EClear Waterglass, Iridescent
+D5a
+T0
+Sdbd8c9
+=100RW
+EClear, RainWater
+Sa19f94
+=5431SF
+ELight Grape
+T0
+Sf25a6f
+=40396SF
+ECobalt Blue/Clear Wispy
+D0
+T0
+Sfcae77
+=22372SF
+ETurquoise Green Opaque
+Sa5b732
+=132SF
+ELight Blue Smooth Cathedral, Tested Compatible
+Sa97301
+=Spirit61157SF
+ESedona
+S5d8fc3
+=SC100G
+EClear/Granite,Silver,mirror
+S8a888a
+=3152S
+EWhite/Medium Amber, Semi-Translucent Opalescent
+S5fa1ed
+=230-71SF
+EHydrangea Opal
+T6
+Sfcc07f
+=AVBlueSpiritFR
+EAventurine Blue Spirit Fusers' Reserve
+D0
+Sab9774
+=5284RR
+EOlive Green Rough Rolled
+S2f6754
+=146RR
+EDeep Purple Rough Rolled Cathedral
+S482772
+=123S
+EMedium Green Smooth Cathedral
+S32790a
+=BRGRAYPALE
+EPale Gray Baroque
+S76706f
+=5432A
+EGrape Purple Artíque
+S7e496c
+=1108A
+EMedium Amber Artíque
+S3c79a2
+=89181S
+EPink Champagne, Wispy Opalescent
+Sc5dafa
+=3691S
+EYellow/White, Wispy Opalescent
+W5
+Scbbe4
+=5432W
+EGrape Purple Cathedral Waterglass
+S7c485d
+=29191W
+EOpalized Champagne Waterglass
+Sc7d4eb
+=121W
+ELight Green Cathedral Waterglass
+S36853c
+=6337S
+ESky Blue/Cobalt Blue/White, Translucent Opalescent
+D0
+Sb7834c
+=602983CC
+ESpring
+D0
+Sb1b8c7
+=3376S
+EDark Blue/White, Translucent Opalescent
+S975b25
+=I100R
+EClear Ripple, Iridescent
+D5a
+T0
+Scad2e9
+=100QR
+EClear Cathedral, Quarter-Reed, Reeded
+D0
+S807e72
+=5382SF
+ELight Blue Steel
+T0
+Sd78b38
+=29161SF
+EOpalized Champagne, Tested Compatible
+Scfd6ed
+=21572SF
+ETerra Cotta
+T0
+S1059b0
+=125SF
+EDark Green Smooth Cathedral, Tested Compatible
+S307401
+=Spirit436176SF
+EAtlantis
+S8cad9b
+=89161S
+EWhite/Champagne, Semi-Translucent Opalescent
+Sccd4e4
+=31502S
+EWhite/Pale Amber, Semi-Translucent Opalescent
+S8fc4e0
+=OA6755SF
+EGodiva
+S768bda
+=3972SF
+ECrystal Opal / Pink
+D0
+T0
+Sd1a8d3
+=5238RR
+EHunter Green Rough Rolled Cathedral
+S416007
+=1408V
+EPale Purple Vecchio, Sparkle, Seedy
+S8e7b98
+=121S
+ELight Green Smooth Cathedral (also available in System 96 fusible)
+S449648
+=BRCHAMPAGNE
+EChampagne/Clear Baroque
+S99a2b0
+=5281A
+ESea Green Artíque
+S929f84
+=100A
+EClear Artíque
+Sa39792
+=83894S
+ESteel Blue/White, Wispy Opalescent
+S876c41
+=3492S
+ELight Purple/White, Wispy Opalescent
+S644488
+=5342W
+EViolet Waterglass
+S6e4460
+=1808W
+EPale Gray Cathedral Waterglass
+S7b7b7a
+=1102W
+EPale Amber Cathedral Waterglass
+S4ca2d2
+=6217S
+EAmber/Green/White, Translucent Opalescent
+D0
+S58aec0
+=602282CC
+ECongo
+D0
+S3ea150
+=3276S
+EDark Green/White, Translucent Opalescent
+S3b7c3a
+=I100GG
+EClear Crystal Ice, Iridescent
+T0
+Sa8a29e
+=100H
+EClear Cathedral, Hammered
+Sc4c5c9
+=5331SF
+ESky Blue Smooth Cathedral, Tested Compatible
+Scfac39
+=26072SF
+EOpalized Yellow, Tested Compatible
+S48e9fc
+=200SF
+EOpal White, Tested Compatible
+Sf1f0f2
+=1108SF
+EMedium Amber Smooth Cathedral, Tested Compatible
+S3578c3
+=SC5911W
+EPink Champagne Waterglass, Silver, mirror, MetallicBlush
+S7c839b
+=6755S
+EWhite/Orange-Red, Semi-Translucent Opalescent
+S2961df
+=29072SF
+ECotton Candy Pink
+Sdacaf2
+=OA3355SF
+ENautica
+Sc0afa6
+=I1102S
+EPale Amber Solid Transparent, Iridescent
+T0
+S94e5f9
+=1808V
+EPale Gray Vecchio, Sparkle, Seedy
+S8a8b87
+=136RR
+ECobalt Blue Blue Rough Rolled Cathedral
+S894134
+=111RR
+EDark Amber Rough Rolled
+S2964ae
+=BR6092
+EPeppermint Pink Baroque
+Sa18fb1
+=171A
+EOrange Artíque
+S176ee6
+=83391S
+ESky Blue/White, Wispy Opalescent
+Sd5b26d
+=3392S
+ELight Blue/White, Wispy Opalescent
+Sa3693f
+=5284W
+EOlive Green Waterglass
+S43836e
+=152W
+ERuby Red Cathedral Waterglass
+W4
+S240f81
+=I3471S
+EPale Purple/White, Iridescent
+T0
+S948ac0
+=607683CC
+EInferno, Pearl Opal Art Mix, Yellow, Orange
+S1181fc
+=601185CC
+EHawkwings
+D0
+S65686d
+=3176S
+EDark Amber/White
+S1b2452
+=I100C
+EClear Cord, Iridescent
+D5a
+T0
+Sc8ddd2
+=100FLUTE
+EClear Flute
+T0
+S9ea1a5
+=5282SF
+ELight Olive
+S629d95
+=23872SF
+EAlpine Blue Opaque
+Sd0be91
+=1702SF
+ETangerine
+S1b89fd
+=100SFS
+EClear Smooth (Fusing Formula and Testing Standard), Spectrum's only clear smooth glass
+Scecbca
+=SC1808W
+EPale Gray Waterglass, Silver, mirror, Gun Metal
+S6c6b6b
+=3751S
+EWhite/Orange, Semi-Translucent Opalescent
+W5
+S5788d8
+=23472SF
+ECotton Candy Grape
+Sd4c2c5
+=OA23354SF
+ECascadia
+Sd0bb73
+=5911RR
+EPink Champagne Rough Rolled Cathedral
+S7982ad
+=171RR
+EOrange Rough Rolled Cathedral
+S275fcd
+=134H
+EMedium Blue Cathedral, Hammered
+S84450f
+=1102S
+EPale Amber Smooth Cathedral (also available in System 96 fusible)
+S519ece
+=BR6039
+EBlue/White/Clear Baroque±
+Sa06e65
+=142A
+ELight Purple Artíque
+S715783
+=I84392S
+ELight Grape/White wispy, Iridescent
+D5a
+T0
+S9e92a0
+=82692S
+EMoss Green/White, Wispy Opalescent
+S54a685
+=3292S
+ELight Green/White, Wispy Opalescent
+S509d5c
+=5238W
+EHunter Green Cathedral Waterglass
+S2c4c07
+=142W
+ELight Purple Cathedral Waterglass
+S594082
+=I307S
+EClear/White, Iridescent
+D5a
+T0
+Sf0e0d4
+=606181CC
+EMeadowlark, Pearl Opal Art Mix, Clear, Yellow, Amber 
+S3bcab9
+=600081CC
+EPearl
+Sececeb
+=31702S
+EPale Amber/White, Translucent Opalescent
+S8ecaf4
+=100V
+EClear Cathedral, Vecchio
+S999894
+=100CC
+EClear Corsica
+Sd6d8dd
+=5238SF
+EHunter Green Smooth Cathedral, Tested Compatible
+S486005
+=23076SF
+EOpalized Cobalt Blue Blue, Tested Compatible
+S8b2a4c
+=151SF
+ECherry Red Smooth Cathedral, Tested Compatible
+S2c00a9
+=Spirt4107SF
+ECrystal Clear/Ivory, "Monterrey"
+T0
+Sccd8d9
+=SC1308W
+EPale Blue Waterglass, Silver, mirror, BlueMoon
+Sb08875
+=3356S
+EWhite/Dark Blue, Semi-Translucent Opalescent
+Sb68465
+=209S
+EFirelight Smooth
+Sebf4f6
+=RedBlackSpiritFR
+EBlack/Red-Orange Opal on a Clear Base Fusers' Reserve
+D0
+S5e7091
+=5384RR
+ESteel Blue Rough Rolled Cathedral
+S7b663c
+=152S
+ERuby Red Smooth Cathedral
+S22028b
+=1308V
+EPale Blue Vecchio, Sparkle, Seedy
+Sae8a7e
+=1009S
+EBlack Smooth Cathedral (also available in System 96 fusible)
+S161514
+=BR430
+EBlue/Clear Baroque
+Sa77c4a
+=132A
+ELight Blue Artíque
+Sa76e52
+=I6098S
+EClear/White/Pink, wispy, Iridescent
+D5a
+T0
+S958bba
+=81891S
+EBronze/White, Wispy
+S848c98
+=3191S
+ELight Amber/White, Wispy Opalescent
+S2f8ddf
+=45120W
+ERuby Red/Amber Cathedral Waterglass
+S222e9d
+=134W
+EMedium Blue Cathedral Waterglass
+Sa06d19
+=83872S
+EColonial Blue/White, Translucent Opalescent
+Sd2bba6
+=604386CC
+EPurple Haze
+Sa96c83
+=41115C
+EBrown/Gold, Translucent, Chord
+D5a
+S15187a
+=20161S
+EIvory/Clear Opalescent
+W5
+S95d2e8
+=100SFXTL
+ECrystal Clear Cathedral
+Sf0f0f0
+=5911SF
+EPink Champagne Smooth Cathedral, Tested Compatible
+S98a2ce
+=5181SF
+EBronze Smooth Cathedral
+S758ca1
+=22674SF
+EAmazon Green Opaque
+S43c595
+=1408SF
+EPale Purple Smooth Cathedral, Tested Compatible
+Sada0d1
+=Spirit63567SF
+ENew Orleans
+S4e729e
+=SC100W
+EClear/Waterglass, Silver, mirror, QuickSilver
+Saca1a1
+=3252S
+EWhite/Light Green, Semi-Translucent Opalescent
+S7bad97
+=280-76SF
+ECharcoal Gray Opal
+T6
+S30000
+=BlackWhiteFR
+EBlack White Swirls Fusers' Reserve
+S4a4441
+=5331S
+ESky Blue Smooth Cathedral (also available in System 96 fusible)
+Scfac39
+=151S
+ECherry Red Smooth Cathedral (also available in System 96 fusible)
+S2c00a9
+=125S
+EDark Green Smooth Cathedral (also available in System 96 fusible)
+S307401
+=BRTEAL
+ETeal Green/Clear Baroque
+S9ea276
+=BR1308
+EPale Blue Baroque
+Sc7ab91
+=123A
+EMedium Green Artíque
+S346210
+=I3296S
+EDark Green/White, wispy, Iridescent
+D5a
+T0
+S5b6755
+=3891S
+EPale Gray/White, Wispy Opalescent
+Sa2a3af
+=I1009W
+EBlack Waterglass, Iridescent
+D5a
+T0
+S6f615b
+=4231W
+EPale Green/Aqua Blue Cathedral Waterglass
+S7ca24b
+=125W
+EDark Green Cathedral Waterglass
+S265f17
+=82372S
+ETeal Green/White, Translucent Opalescent
+S85954e
+=603383CC
+EBlue Yonder
+D0
+S9e8668
+=3571S
+ERed/White, Translucent Opalescent
+W5
+S231aa6
+=I100SEEDY
+EClear Seedy, Iridescent
+T0
+Sc0d6f1
+=100RR
+EClear Rough Rolled Cathedral
+S969696
+=5386SF
+ENavy Blue Smooth Cathedral
+S7e4633
+=40294SF
+EAmazon Green/Wispy
+D0
+T0
+S85dccf
+=22272SF
+EEaster Green Opaque
+S8bce97
+=1308SF
+EPale Blue Smooth Cathedral, Tested Compatible
+Sc7a081
+=Spirit4941SF
+EValhalla
+Sa7a3b6
+=I305S
+EWhite/Clear, Iridescent
+T0
+Se8e5e6
+=3151S
+EWhite/Light Amber, Semi-Translucent Opalescent
+W4
+S91c6f8
+=226-72SF
+ELemongrass Opal
+T6
+S3f9a4
+=69374SF
+ECrystal Opal / Pink / Aqua
+D0
+T0
+Sdbcece
+=5281RR
+ESea Green Rough Rolled Cathedral
+S899c79
+=142S
+ELight Purple Smooth Cathedral (also available in System 96 fusible)
+S5b3473
+=123RR
+EMedium Green Rough Rolled Cathedral
+S376708
+=BRCLEAR
+EClear Baroque
+Sa19e9f
+=5384A
+ESteel Blue Artíque
+S7d664a
+=1102A
+EPale Amber Artíque
+S539fb7
+=84392S
+EGrape Purple/White, Wispy Opalescent
+Sa5716e
+=3591S
+ERed/White, Wispy Opalescent
+W5
+S2715b1
+=5386W
+ENavy Blue Waterglass
+S873931
+=20091W
+EOpal White Waterglass
+Sdcdadb
+=111W
+EDark Amber Waterglass
+S2a5fa4
+=6237S
+EGreen/Blue/White, Translucent Opalescent
+S8f873f
+=602484CC
+ETeal/Rose/Clear/White, Opalescent
+W8
+Saf959a
+=3372S
+ELight Blue/White, Translucent Opalescent
+Sb27e5b
+=I100K
+EClear Krinkle, Iridescent
+T0
+Scdd6d5
+=100K
+EClear Cathedral, Krinkle
+W5
+Sa98a92
+=5342SF
+EViolet Smooth Cathedral
+S824261
+=27171SF
+EPersimmon
+T0
+S46ddc
+=21174SF
+EChestnut Brown Opal
+T0
+S2453
+=123SF
+EMedium Green transparent
+T0
+S1c41a
+=Spirit43176SF
+EVienna
+Sb98281
+=83852S
+EWhite/Colonial Blue, Semi-Translucent Opalescent
+Scac0ad
+=305S
+EWhite/Clear, Semi-Translucent Opalescent
+Sd8dada
+=OA63452SF
+EBlackberry Cream
+S82615e
+=3572SF
+ECrystal Opal / Red
+D0
+T0
+S404ece
+=5232RR
+ETeal Green Rough Rolled Cathedral
+S8c9e3b
+=1408RR
+EPale Purple Rough Rolled Cathedral
+Sab9dc5
+=121RR
+ELight Green Rough Rolled Cathedral
+S3a7d08
+=BRBURGUNDY
+EBurgundy/Clear Baroque
+S5972ac
+=5232A
+ETeal Green Artíque
+S829137
+=83492S
+EViolet/White, Wispy
+Sac879f
+=3491S
+EPale Purple/White, Wispy Opalescent
+Sab9ec3
+=5333W
+EDeep Aqua Waterglass
+Sa1830d
+=171W
+EOrange Cathedral Waterglass
+S293dc6
+=1009W
+EBlack Cathedral Waterglass
+D0
+S3f3b3d
+=609386CC
+EPink/Indigo/Clear/White, Opalescent
+S8a6c8a
+=6022-81CC
+EKey Lime Pearl Opal
+D0
+T18
+S3defa1
+=3272S
+ELight Green/White, Translucent Opalescent
+D0
+S6ca866
+=I100G
+EClear Granite, Iridescent
+T0
+Scdced1
+=100GG
+EClear Cathedral, Crystal Ice
+Sc5c5c9
+=5321SF
+ECaribbean Blue transparent
+T0
+Scbfe66
+=24076SF
+ELilac Opaque
+S9080a5
+=1808SF
+EPale Gray Smooth Cathedral, Tested Compatible
+Sa79da3
+=1104SF
+ELight Amber Transparent
+T0
+S2b96e1
+=SC5432W
+EGrape Waterglass, Silver, mirror, UltraViolet
+S915069
+=3951S
+EWhite/Pink, Semi-Translucent Opalescent
+Sb6b1de
+=26072S
+EOpalized Yellow (also available in System 96 fusible)
+S48e9fc
+=OA32552SF
+ESour Apple
+S5ab56f
+=I1009S
+EBlack Smooth, Iridescent
+T0
+S242931
+=1808RR
+EPale Gray Rough Rolled Cathedral
+W4
+S959692
+=134S
+EMedium Blue Smooth Cathedral
+S945a01
+=1108RR
+EMedium Amber Rough Rolled Cathedral
+S3075a6
+=BR60911
+EChampagne/White/Clear Baroque
+Sa4aac0
+=161A
+EYellow Artíque
+S23b6c7
+=82894S
+EOlive Green/White, Wispy, Opalescent Mix
+S567f78
+=3391S
+EPale Blue/White, Wispy Opalescent
+Sae7e6d
+=5281W
+ESea Green Cathedral Waterglass
+Sa1aa8d
+=151W
+ECherry Red Cathedral Waterglass
+S2b15a0
+=I3371S
+EPale Blue/White, Iridescent
+T0
+Sdf9d91
+=606981CC
+EHarmony, Pearl Opal Art Mix, Clear, Pink, Yellow with Amber highlights
+S92b3c3
+=601183CC
+EGolden Honey
+D0
+S63b3d1
+=3172S
+EMedium Amber/White, Translucent Opalescent
+S176ad2
+=209FL
+EOpalized Firelight White
+W4
+Sced2d5
+=100CZ
+EClear, Corteza
+Sa48a82
+=5281SF
+ESea Green Smooth Cathedral, Tested Compatible
+Sa1b58d
+=23375SF
+EMariner Blue
+Sa77744
+=161SF
+EYellow Smooth Cathedral, Tested Compatible
+S33cbf9
+=1009SF
+EBlack Smooth Cathedral, Tested Compatible
+S161514
+=SC151W
+ECherry Red/Waterglass, Silver, mirror, CandyApple
+S19127d
+=3651S
+EWhite/Yellow, Semi-Translucent Opalescent
+W5
+S68d3f3
+=23076S
+EOpalized Cobalt Blue Blue (also available in System 96 fusible)
+S8b2a4c
+=SWSpiritFR
+ESouthwest Spirit: Transparent/Aqua Transparent/White on a Clear Base Fusers' Reserve
+D0
+Sa7cad7
+=5432RR
+EGrape Purple Rough Rolled Cathedral
+S95537d
+=161S
+EYellow Smooth Cathedral (also available in System 96 fusible)
+S33cbf9
+=132S
+ELight Blue Smooth Cathedral (also available in System 96 fusible)
+Sa97301
+=1102RR
+EPale Amber Rough Rolled Cathedral
+S49b1c8
+=BR6026
+EEmerald/White/Clear Baroque
+S70a985
+=1408A
+EPale Purple Artíque
+S968bb2
+=I83391S
+ESky Blue/White, wispy, Iridescent
+D5a
+T0
+Sd9af75
+=82398S
+EHunter Green/White, Wispy Opalescent
+S446709
+=3291S
+EPale Green/White, Wispy Opalescent
+S5caa70
+=5232W
+ETeal Green Cathedral Waterglass
+S7d902a
+=1408W
+EPale Purple Cathedral Waterglass
+S9d8fba
+=84371S
+EPale Lavender/White, Translucent Opalescent
+Sdec9cd
+=60585CC
+EPearl Opal Art Mix, Sierra Red
+D0
+S4f74bb
+=41115S
+EBrown/Gold, Translucent
+S2249a0
+=308S
+EClear/White, Translucent Opalescent
+Sefe0df
+=100SNSEEDY
+EClear Satin Seedy
+S918e87
+=100C
+EClear Cathedral, Chord
+D0
+S8f8893
+=5232SF
+ETeal Green Smooth Cathedral, Tested Compatible
+S7a9100
+=23072SF
+EMedium Blue Opaque
+Sb1673c
+=146SF
+EDeep Purple Smooth Cathedral, Tested Compatible
+S5d0d91
+=Spirit6947SF
+EGeneva
+S9586a3
+=SC121W
+ELight Green/Waterglass, Silver, mirror, Emerald, Emerald-Ice
+S137e20
+=3352S
+EWhite/Light Blue, Semi-Translucent Opalescent
+Sd7b9b0
+=209K
+EOpalized White Krinkle
+Scac3cb
+=GreenRedWhiteFR
+EDark Green Opal + Red Opal + White Opal Fusers' Reserve
+S717469
+=5342RR
+EViolet Rough Rolled
+S804973
+=152RR
+ERuby Red Rough Rolled Cathedral
+S352889
+=1308S
+EPale Blue Smooth Cathedral (also available in System 96 fusible)
+Sc7a081
+=IBRCLEAR
+EClear Baroque, Iridescent
+T0
+Sdbdde5
+=BR400
+EBlack/Clear Baroque
+S827c7a
+=1308A
+EPale Blue Artíque
+Saf877d
+=I3591S
+ERed/White, wispy, Iridescent
+D5a
+T0
+S2e19ce
+=6098S
+EPink/Clear/White, Wispy Opalescent
+S9a85ca
+=31902S
+EPale Amber/White, Wispy Opalescent
+S4d93d0
+=4441W
+EDeep Violet/Pale Purple Cathedral Waterglass
+D0
+S853e7c
+=132W
+ELight Blue Cathedral Waterglass
+Sa66f29
+=82872S
+ESeafoam Green/White, Translucent Opalescent
+S95b196
+=603486CC
+ECobalt/Rose/Clear/White, Opalescent
+S9d83a0
+=3872S
+EGray/White, Translucent Opalescent
+D0
+S6e6f6b
+=200CC
+EWhite Opal Corsica
+Sd8dbdd
+=100SEEDY
+EClear Cathedral, Seedy
+Safa5a7
+=5432SF
+EGrape Purple Smooth Cathedral, Tested Compatible
+S8b5c7b
+=409SF
+EWhite/Clear Wispy
+D0
+T0
+Seeebe4
+=22374SF
+EPeacock Green Opal
+S878a00
+=136SF
+EDark Blue Smooth Cathedral, Tested Compatible
+S894707
+=Spirit62376SF
+ECrystal Opal/Green/Blue "Seattle"
+T0
+S96bc85
+=SC100QR
+EClear/Waterglass, Silver, mirror, Quarter-Reed
+D5a
+Sadaca6
+=3156S
+EWhite/Dark Amber, Semi-Translucent Opalescent
+S396ab6
+=280-72SF
+EPewter Gray Opal
+T6
+S7c7c65
+=AVGreenSpiritFR
+EAventurine Green Spirit Fusers' Reserve
+D0
+S45c6a9
+=5331RR
+ESky Blue Rough Rolled Cathedral
+Sbf9e37
+=151RR
+ECherry Red Rough Rolled Cathedral
+S301b95
+=125RR
+EEmerald Green Rough Rolled Cathedral
+S365411
+=BRSTEEL
+ESteel Blue/Clear Baroque
+Sa99c90
+=5911A
+EPink Champagne Artíque
+S8d96c1
+=121A
+ELight Green Artíque
+S397f1a
+=I309S
+EClear/White, wispy, Iridescent
+D5a
+T0
+Seeddd3
+=3791S
+EOrange/White, Wispy Opalescent
+W5
+S2058e8
+=5911W
+EPink Champagne Cathedral Waterglass
+S8894b5
+=4221W
+EDeep Olive/Sea Green Cathedral Waterglass
+D0
+S4c6641
+=123W
+EMedium Green Cathedral Waterglass
+S2b7321
+=6417S
+EPurple, Amber/White, Translucent Opalescent
+S868291
+=603-81CC
+EBlue Skies Pearl Opal
+D0
+T18
+Sf6e8ca
+=3471S
+EPale Purple/White, Translucent Opalescent
+Sd4cadc
+=I100RR
+EClear Rough Rolled, Iridescent
+T0
+Sc9d1ce
+=100R
+EClear Cathedral, Ripple
+Sa5a4aa
+=5384SF
+ESteel Blue Smooth Cathedral, Tested Compatible
+S8b6423
+=40009SF
+EBlack/Clear Wispy
+D0
+T0
+S9a9688
+=22076SF
+EOpalized Dark Green, Tested Compatible
+S496b09
+=128AVSF
+EDark Green Aventurine
+T0
+Sc751b
+=Spirit4561SF
+ERio
+S5fa9c9
+=I200S
+EOpal White, Iridescent
+T0
+Sf5f4f5
+=3151G
+EWhite/Light Amber, Semi-Translucent Opalescent, Granite
+W4
+S8db8e7
+=211-76SF
+EChocolate Opal
+T6
+S5
+=63376SF
+ECrystal Opal / Aqua / Cobalt Blue
+D0
+T0
+Sdcdaa8
+=5262RR
+EMoss Green Rough Rolled
+S39a474
+=142RR
+ELight Purple Rough Rolled Cathedral
+S8665a1
+=123H
+EMedium Green Cathedral, Hammered
+S276316
+=BRCINNAMON
+ECinnamon/Clear Baroque
+S7e8da2
+=5331A
+ESky Blue Artíque
+Sc3aa31
+=1101A
+EPalest Amber Artique
+Sa7e3f7
+=83896S
+ENavy Blue/White, Wispy
+S924e3c
+=3496S
+EDark Purple/White, Wispy Opalescent
+S392463
+=5384W
+ESteel Blue Cathedral Waterglass
+S604a0e
+=1901W
+EQuartz Pink Waterglass
+Se8e3f5
+=1108W
+EMedium Amber Cathedral Waterglass
+S1e619f
+=6227S
+EForest Green/White, Translucent Opalescent
+D0
+S40725f
+=602383CC
+EAqua-Lime, Pearl Opal Art Mix
+Safc046
+=3371S
+EPale Blue/White, Translucent Opalescent
+D0
+Sc79f88
+=I100H
+EClear Hammered, Iridescent
+T0
+Sded4de
+=100HS
+EClear Cathedral, (Small) Hammered
+Sa49fa4
+=5333SF
+EDeep Aqua Smooth Cathedral
+Sc19d33
+=26772SF
+ESunflower
+Se6f7
+=21072SF
+EOpalized Almond Amber
+S81c8e7
+=121SF
+ELight Green Smooth Cathedral, Tested Compatible
+S449648
+=Spirit4001SF
+EMurano
+S5a5d62
+=83351S
+EWhite/Sky Blue, Semi-Translucent Opalescent
+Se3c999
+=29161S
+EOpalized Champagne (also available in System 96 fusible)
+Scfd6ed
+=OA62352SF
+ELagoon
+S82c065
+=I1308S
+EPale Blue Solid Transparent, Iridescent
+T0
+Sc9aeaf
+=5181RR
+EBronze Waterglass
+S5f768e
+=136S
+ECobalt Blue Smooth Cathedral (also available in System 96 fusible)
+S894707
+=111SF
+EDark Amber Smooth Cathedral
+S2b68bd
+=BRAMETHYST
+EAmethyst/Clear Baroque
+S765d85
+=1808A
+EPale Gray Artíque
+Sa39f9d
+=83393S
+EDeep Aqua, White, Wispy
+Sac8902
+=3396S
+ECobalt Blue/White, Wispy Opalescent
+S884d04
+=5331W
+ESky Blue Cathedral Waterglass
+Sb79c34
+=161W
+EYellow Cathedral Waterglass
+S1fb5de
+=533-2SF
+EBlue Topaz Transparent
+T6
+Sd1cd28
+=609286CC
+EHeather, Pearl Opal Art Mix, Clear, Olive, Cranberry Pink
+S84859f
+=602186CC
+EPearl Opal Art Mix, Dark Green, Chocolate, RainForest
+D0
+S368b84
+=31805S
+ELighter Amber/White, Translucent Opalescent
+W4
+D0
+S3296e6
+=I100CZ
+EClear Corteza, Iridescent
+D5a
+T0
+Sdad7e9
+=100G
+EClear Cathedral, Granite
+Sc1bdc0
+=5284SF
+EOlive Green Smooth Cathedral
+S477a66
+=24072SF
+EOpalized Mauve, Tested Compatible
+Sb1aac6
+=171SF
+EOrange Smooth Cathedral, Tested Compatible
+S184add
+=1102SF
+EPale Amber Smooth Cathedral, Tested Compatible
+S519ece
+=SC5281W
+ESea Green Waterglass, Silver, mirror, TreeFoil
+S8e946f
+=3852S
+EWhite/Light Gray, Semi-Translucent Opalescent
+Sddcac0
+=24072S
+EOpalized Mauve, Purple
+Sb0aac6
+=OA24454SF
+EOrchid
+S796d9b
+=5991V
+EPale Champagne Vecchio, Sparkle, Seedy
+S7a7f95
+=171S
+EOrange Smooth Cathedral (also available in System 96 fusible)
+S184add
+=134RR
+EMedium Blue Rough Rolled Cathedral
+W3
+S864b37
+=1102V
+EPale Amber Vecchio, Sparkle, Seedy
+S4e889b
+=BR6041
+EPale Purple/White/Clear Baroque
+Sa796af
+=152A
+ERuby Red Artíque
+W5
+S231388
+=82891S
+ESea Green/White, Wispy, Opalescent Mix
+Sb2c0ab
+=3296S
+EDark Green/White, Wispy Opalescent
+S317830
+=5262W
+EMoss Green Waterglass
+S4faa7e
+=146W
+EDeep Purple Cathedral Waterglass
+S2f2155
+=I31702S
+EPale Amber/White, Iridescent
+D5a
+T0
+S6e9aa9
+=606783CC
+EPearl Opal Art Mix Lemon, Orange, Mimosa
+S1eabb6
+=60098CC
+EThunderhead
+S877474
+=3171S
+ELight Amber/White, Translucent Opalescent
+D0
+S258aed
+=100W
+EClear Cathedral Waterglass
+S9e9897
+=100CRACKLE
+EClear Crackle
+Saba5a7
+=5262SF
+EMoss Green Smooth Cathedral
+S4cbb91
+=23374SF
+ETurquoise Blue Opaque
+Sddbc51
+=152SF
+ERuby Red Transparent
+T0
+S2c0098
+=1009CSF
+EBlack Cord
+D0
+T0
+S262626
+=SC1408W
+EPale Purple Waterglass, Silver, mirror, AuroraRose
+S7d648c
+=3452S
+EWhite/Light Purple, Semi-Translucent Opalescent
+D0
+Sc7bbd5
+=22076S
+EOpalized Dark Green (also available in System 96 fusible)
+S496b09
+=RedSpiritFR
+ERed Spirit: Red-Orange Opal on a Clear Base Fusers' Reserve
+D0
+S5786da
+=5386RR
+ENavy Blue Rough Rolled
+S7c3f31
+=161RR
+EYellow Rough Rolled Cathedral
+S14c8d7
+=132RR
+ELight Blue Rough Rolled Cathedral
+S9e6751
+=1101RR
+EPalest Amber Rough Rolled
+Sa2ddf0
+=BR6000
+EBlack/White/Clear Baroque
+S808180
+=136A
+ECobalt Blue Artíque
+S774335

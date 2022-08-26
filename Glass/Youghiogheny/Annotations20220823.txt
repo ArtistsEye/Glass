@@ -1,0 +1,993 @@
+
+36
+=6666HS
+EDark Turquoise
+W6
+T0
+S9e4b19
+=4001HS
+EMint Green and White Opal High Strike
+S70cb82
+=1006Mi
+ESoft White Opal and Cobalt Blue Iridized
+D5a
+Sc77850
+=NN63SP
+EDense Neodymium Opal, Copper Cobalt Blue, Purple
+Sb49e91
+=6010SP
+ELight Blue Stipple
+Sd5b8b3
+=4566SP
+ELime Green Stipple, Turquoise Blue Opalescent
+S24a86e
+=1663SP
+EBlue and Purple, Ice White
+S755e55
+=1157SP
+EWhite Dense Opal, Peach Gold
+S8785c3
+=WisteriaC
+ELight Blue, Dark Blue, Green and Gold Purple
+D5a
+S82471b
+=9011R
+EWhite Opal, Orange
+W6
+T0
+S232f84
+=910
+ERose Red (with blue highlights)
+W24
+S3837aa
+=622
+EMedium Light True Blue
+W16
+S4266c8
+=363
+EDark Copper Red
+W3
+S313ea4
+=1647RG
+EWhite Opal, Green, Blue and Gold Pink
+S758e5b
+=706EF
+EGold Purple
+W27
+S651e9d
+=404EF
+EKelly Green
+W27
+S51b322
+=1062RG
+EWhite Opal, Cobalt Blue and Silver Amber
+D0
+Se4d3b6
+=6106HS
+ELight Blue Opal and Cobalt Blue High Strike
+Sfb9288
+=333Mi
+ETrue Black Iridized
+W6
+S1d2d2f
+=1003HS
+EWhite Opal and Purple High Strike
+S99857a
+=LandscapeSP
+EEarth Tones, Greens, Ambers, Browns
+S708f81
+=55CRSP
+EDense Beige Opal, Copper Red
+S7e9db5
+=4504SP
+ELime Green Stipple, Emerald Green Opalescent
+D5a
+S1f9f3f
+=1574SP
+EIce White, Pink, Green, Silver Yellow
+S729fa3
+=1109SP
+EWhite Dense Opal, Red
+S2a58c4
+=NeodymiumGlass
+EPale Blue (changes to Pink under incandescent lighting and natural sunlight)
+Sf4aa9c
+=1313R
+EWhite Opal and Brown Ripple
+D0
+S4f70a3
+=900
+ESilver Yellow (with pink highlights)
+W24
+S7b8688
+=619
+EWhite / Silver Yellow
+W3
+S8ab9d8
+=324
+ETeal Green
+W3
+S547d55
+=1077RG
+EWhite Opal, Bubblegum and Gold Pink
+D5a
+Sad70aa
+=666EF
+ESea Blue
+W27
+Sbc9332
+=304EF
+EPale Plum
+W27
+S8d8b9b
+=6000HS
+ECobalt Blue Opal High Strike
+S570802
+=3000HS
+ERose Opal High Strike
+Sa99db6
+=1000HSi
+ESoft White Opal Iridized
+Scddfdd
+=9010SP
+ECherry Red Stipple with Dense White Opalescent
+D5a
+S4c0afc
+=5502SP
+EDense Beige Opal
+S6bb1cb
+=4302SP
+EWhite, Dense Avocado Green, Black
+S396b72
+=1499SP
+EIce White, Dark Green, Copper Red
+S4a577e
+=1097SP
+EIce White Copper Ruby, Bubblegum
+S2c2d7b
+=LaburnumC
+EAutumn Gold, Pale Silver Yellow and Green
+S197954
+=985
+ESilver Yellow, Rose Red, Purple
+W24
+S624e70
+=720
+ESilver Yellow Blue / Red
+W3
+S39568f
+=613
+ECopper Blue / Dark Green
+W3
+S323d4b
+=6642RG
+EWhite Opal, Turquoise, Green and Silver
+S45562e
+=1049RG
+EWhite Opal, Dark Green and Red Orange
+S4179a0
+=601EF
+ELight Blue
+W27
+Sf2d9c5
+=209EF
+EChampagne
+W27
+Sd7e3f3
+=CRO-HS
+EWhite Opal and Copper Ruby High Strike
+D0
+S2d2164
+=5000HS
+ELemon Yellow Opal High Strike
+Sa8de9
+=2021HS
+ERust Brown and Off-White Opal High Strike
+S4e69a9
+=WaterDarkSP
+EBlue and Green Combinations, Purple Highlights
+S816644
+=6645SP
+ETurquoise Stipple, Lime Green Opalescent
+D5a
+T24
+S689b43
+=5040SP
+ELemon Yellow Stipple with Emerald Green Opal
+D5a
+S1a8897
+=3613SP
+EViolet Stipple, White and Rose Opalescent
+S645362
+=1309SP
+EIce White, Purple, Copper Red
+S403364
+=1057SP
+EIce White, Peach Gold
+S8f849c
+=5669RG
+ESilver Yellow, Copper Red, Copper Blue
+D5a
+S387fdf
+=950
+ESilver Yellow, Rose Red, Green
+W24
+S757371
+=706
+EWhite / Blue / Green
+W3
+S6c6d73
+=609
+EDark Red / Cobalt Blue
+W3
+S342e4f
+=1499RG
+EWhite Opal, Dark Green and Copper Ruby
+S5f6f4e
+=1007RG
+EWhite Opal and Bubblegum Pink
+Sedb2db
+=509EF
+ETangerine
+W27
+S27b0f8
+=1000EF
+EWhite Opal
+W6
+T0
+Seccd9e
+=9050HS
+EPeach
+S3da0fa
+=4301HS
+EAvocado Green Opal and White High Strike
+S275d71
+=1313Mi
+ESoft White Opal and Chocolate Brown Iridized
+Sbcced1
+=NO57SP
+ENeodymium with Peach Gold, Bubblegum Pink
+S6d51b9
+=6600SP
+ETurquoise Stipple
+Sa2ab67
+=5002SP
+EBeige Stipple
+S2eb1e0
+=3600SP
+EViolet Stipple
+D0
+T24
+Sb8706d
+=1177SP
+EWhite Dense Opal, Bubble Gum, Gold Pink
+S6e5cc4
+=1007SP
+EIce White, Pink
+Saa9fad
+=5594RG
+ESilver Yellow, Red and Green
+D5a
+S216054
+=935
+ERose Red, Green
+W24
+S384386
+=700
+EWhite / Yellow / Red
+W3
+S5c87d0
+=605
+EMedium Copper/Cobalt Blue
+W16
+S6a76b5
+=1043RG
+EWhite Opal, Dark Green and Chocolate Brown
+D5a
+S9bad9c
+=900EF
+ERed
+W27
+S60393
+=500EF
+EYellow
+W27
+S16f5ed
+=3644RG
+ELavender, Green and Dark Blue
+S8f6c76
+=700HS
+ESteel Gray Opal High Strike
+S605a5d
+=4009HS
+EEmerald Green Opal and Orange Red High Strike
+S206b93
+=1025HS
+EWhite Opal, Yellow and Amber High Strike
+S86b6a8
+=NN77SP
+EDense Neodymium Opal, Bubble Gum
+Sa394b9
+=6064SP
+ELight Blue, Dark Green, Dark Blue
+S548f74
+=4644SP
+ECombination of Greens on Ice White
+S33552d
+=1697SP
+EIce White, Red, Blue, Pink
+S625a5a
+=1167SP
+EWhite Dense Opal, Gold Purple
+Sac93b5
+=1000SP
+EIce White
+Sc0bec0
+=1706RG
+EWhite Opal, Gold Ruby and Cobalt Blue
+D5a
+Se6b1ac
+=920
+ELight Bronze
+W16
+S967555
+=627
+ESilver Yellow / Green
+W3
+S335783
+=600
+EDark Cobalt Blue
+W16
+S3c68c6
+=3007RG
+ELavender, Gold and Pink
+S8493c8
+=707EF
+EErbium Pink
+W27
+Sd0d1f8
+=4066EF
+EDark Sea Mist Opal
+W6
+T0
+S9eb254
+=1431RG
+EWhite Opal, Lime Green and Emerald Green
+D5a
+S169d1d
+=6606HS
+ETurquoise Blue Opal and Cobalt Blue High Strike
+Sfbb37e
+=4000HS
+EMint Green Opal High Strike
+S3e9a5c
+=1006HS
+EWhite Opal and Cobalt Blue High Strike
+Sc2b3b4
+=NN637SP
+EDense Neodymium Opal, Gold Pink, Copper Cobalt Blue, Purple
+Sa1888b
+=5697SP
+ESilver Yellow, Blue, Red
+S585f68
+=4554SP
+ELime Green Stipple, Silver Yellow and Emerald Green Opalescent
+D5a
+S22a268
+=1660SP
+EIce White Stipple, Sea Blue Opalescent
+D0
+Sa8a373
+=1144SP
+EWhite Dense Opal, Dark Green
+S61927b
+=WisteriaB
+ENeodymium Blue with Green and Dark Blue
+D5a
+Sbf986d
+=900R
+ERed Ripple
+W3
+D0
+S282e7b
+=905W
+ESilver Yellow, Rose Red, White
+W24
+S7c7d95
+=621
+EIce Blue
+W16
+S64a1de
+=350
+ECadmium Orange
+W3
+S364bc0
+=1627RG
+EWhite Opal, Blue, Amber and Gold Pink
+D5a
+Sa87982
+=705EF
+EGold Cranberry
+W27
+S6808bc
+=403EF
+EPea Green
+W27
+S40ab8f
+=6064HS
+ELight Blue, Dark Blue and Green High Strike
+D0
+S936c25
+=333HS
+ETrue Black
+W6
+S172322
+=1002HS
+EWhite Opal and Amber (Honey Beige) High Strike
+S6197c1
+=LaburnumSP
+EAutumn Gold and Yellow Gold
+S9dd7d8
+=5562SP
+EDense Beige Opal, Cobalt Blue
+S5993a6
+=4500SP
+ELime Green Stipple
+D5a
+S178e6f
+=1567SP
+EIce White, Silver Yellow, Dark Blue, Gold Purple, Green
+S4c647b
+=1107SP
+EDense White Opal, Gold Pink
+S917fac
+=Neo-Mix
+ENeodymium Mix and Gold Pink, Purple
+S9f7db8
+=1007R
+EWhite Opal, Pink
+W6
+T0
+Sc1c9f7
+=730
+EYellow / Red / Green
+W3
+S2e5dab
+=615
+EDark Green / Blue
+W3
+S252f41
+=303
+ESilver Yellow
+W3
+S3489dd
+=1074RG
+EWhite Opal, Dark Green and Gold Pink
+D5a
+S4b6543
+=6400EF
+EWedgewood Blue Opal
+W6
+T0
+Sfbc6ad
+=303EF
+EPurple
+W27
+S790b9e
+=5501HS
+EMarigold and White Opal High Strike
+Sfcdfb
+=2120HS
+EOff-White and Rust Brown High Strike
+S5076a2
+=1000HS
+EWhite Opal
+W6
+T0
+Sdedede
+=9000SP
+ECherry Red Stipple
+D5a
+S4401f1
+=5409SP
+EYellow, Red, Green
+S855a3
+=4117SP
+EGreen, Ice White, Bluish Gray
+S9c604b
+=1431SP
+EIce White, Lime Green, Emerald Green
+S1a817b
+=1097RSP
+EIce White, Copper Ruby, Bubblegum Ripple
+S4848b7
+=LaburnumB
+EAutumn Gold and Silver Yellow
+S3cabd7
+=980
+ERose Red, Purple
+W24
+S634a7e
+=712
+ECopper Blue / Red ±Dark Green
+W3
+S7897a4
+=611
+EMedium True Blue
+W16
+S202663
+=4403RG
+EEmerald Green and Lime Green
+Sf9983
+=1027RG
+EWhite Opal, Amber and Gold Pink
+D5a
+S897b8f
+=600EF
+ECobalt Blue
+W27
+Sac4a3d
+=200EF
+EAmber
+W27
+S349acc
+=9500HS
+EBright Orange Opal High Strike
+S1a2af6
+=4444HS
+EDark Green Combination
+S1d7246
+=2004HS
+EOff-White and Green High Strike
+S2e6d2d
+=NO6637SP
+ENeodymium Pink, Copper Blue, Purple, Bubblegum
+S9b573d
+=6617SP
+ETurquoise Stipple, White Opalescent and Gold Pink
+Sa39876
+=5033SP
+ELemon Yellow Stipple with Black
+S2269b1
+=3610SP
+EViolet Stipple, White Opalescent
+D5a
+S8b6f6d
+=1302SP
+EIce White, Amber and Brown
+S7081f
+=1054SP
+EIce White, Silver Yellow, Green
+S3ab0a6
+=5667RG
+ESilver Yellow, Turquoise Blue, Gold Pink
+S33a8e3
+=945
+ERose Red, Clear
+W24
+S514b93
+=702G
+ECopper Blue / Silver Yellow / Gold Pink
+W3
+S47476e
+=608
+ECopper Blue / Cobalt Blue
+W3
+S914f40
+=1054RG
+EWhite Opal, Silver Yellow and Green
+S3f7366
+=905EF
+EOrange
+W27
+S1e91f1
+=506EF
+EApple Green
+W27
+S6da281
+=6664RG
+ETurquoise Blue Opal, Cobalt Blue and Green
+Sdabc74
+=9011HS
+EWhite Opal and Red Orange High Strike
+D0
+S8297c2
+=4300HS
+EAvocado Green Opal High Strike
+S8331d
+=1313HS
+ESoft White Opal and Chocolate Brown High Strike
+S799bb7
+=NO367SP
+ENeodymium, Dark Purple Blue, Pink
+S8b5c81
+=6456SP
+ETurquoise Stipple, Lime Green and Cobalt Blue Opalescent
+S4b9471
+=5000SP
+ELemon Yellow Stipple
+S2d3e3
+=3457SP
+EIce White, Green, Purple, Peach Gold
+S3a5c77
+=1176SP
+EWhite Dense Opal, Gold Pink, Dark Blue
+S977f94
+=1007RSP
+EIce White and Pink Ripple
+S90879f
+=5574RG
+ESilver Yellow, Pink and Green
+D5a
+S2a647b
+=930
+ERose Red, Cobalt Blue, Green
+W24
+S3e4591
+=633
+EOrange / Green
+W3
+S2e489d
+=603
+EWhite / Chrome Green
+W3
+S4480aa
+=5069RG
+EWhite Opal, Light Silver Yellow and Magenta
+S7b98b4
+=800EF
+EClear
+W27
+Se6e5e9
+=444EF
+EEmerald Green
+W27
+S528439
+=1956RG
+EWhite Opal, Turquoise, Copper Ruby, Silver Yellow
+S9492a2
+=7000HS
+EPale Pink Skintone
+Sced7e2
+=4004HS
+EEmerald Green Opal High Strike
+Sc5d4b
+=1007GHS
+EWhite Opal and Gold Pink High Strike
+Sab95b5
+=NN67SP
+EDense Neodymium Opal, Gold Pink, Copper Cobalt Blue
+S7b656a
+=6016SP
+ELight Blue, Dark Blue
+Sb57c6b
+=4637SP
+EPale Green, Copper Cobalt Blue, Bubblegum Pink, Dark Green
+Sada57d
+=1665SP
+EIce White, Turquoise, Cobalt Blue, Silver Yellow
+S9d6f47
+=1165SP
+ELight Pink/Blue/White
+Sa86751
+=1000RSP
+EIce White Ripple
+Sa6a6a9
+=Neo-Mix-R
+ENeodymium Mix and Gold Pink Ripple, Purple
+S92658d
+=915
+ESilver Yellow, Cobalt Blue
+W24
+Sae9573
+=624
+ELighter Wedgewood Blue
+W16
+S534056
+=390
+EOpal White
+W3
+Sc2cbd5
+=1667RG
+EWhite Opal, Light Turquoise and Gold Pink
+D5a
+Sdfc7ab
+=7077EF
+ELight Dolphin Grey Opal
+W6
+T0
+Sf9f8f8
+=4060EF
+EBay Leaf Opal
+W6
+T0
+S6be0cd
+=1364RG
+EWhite Opal, Purple, Dark Green
+D5a
+S5a5b2b
+=6600HS
+ETurquoise Blue Opal High Strike
+Sfbb902
+=3601HS
+ELavender Opal and White High Strike
+S921f37
+=1004HS
+EWhite Opal and Mint Green High Strike
+Sb2e5da
+=NeodymiumSP
+EPale Blue (changes to pink under incandescent light or natural light)
+Sa994b6
+=5642SP
+ECopper Cobalt Blue, Dark Green
+S7ab67b
+=4507SP
+EMint Green, Silver Yellow, Red Highlights
+S2b5476
+=1634SP
+EIce White, Green, Blue, Purple
+S897b6a
+=1137SP
+EWhite Dense Opal, Purple Gold, Purple
+S7a5596
+=WisteriaA
+ENeodymium Blue with Green
+D0
+S3a5b4b
+=4402R
+EIron Green
+W6
+T0
+S2e5f27
+=905
+EDark Bronze
+W16
+S6d72a3
+=620
+ECopper Blue / White
+W3
+Sba988a
+=325
+EChrome Green
+W3
+S23556e
+=1097RG
+EWhite Opal, Copper Ruby and Gold Pink
+S473c95
+=700EF
+EGray
+W27
+S8d8679
+=306EF
+EViolet
+W27
+S93585b
+=6010HS
+EPale Blue Opal High Strike
+Sfbca8d
+=3060HS
+ERose Opal and Cobalt Blue High Strike
+Saf728a
+=1000HSL
+ESoft White Opal Cottonball
+W6
+T0
+Sf9e0ce
+=LaburnumRSP
+EAutumn Gold and Yellow Gold Ripple
+S4db2a8
+=5506SP
+ESilver Yellow, Blue, Orange-Brown Highlights
+S436ba4
+=4444SP
+EDense Green Opal
+S4c9868
+=1537SP
+EIce White, Silver Yellow, Pruple, Gold Pink
+S44587c
+=1100SP
+EDense White Opal
+Sb8b6b8
+=Landscape
+EAmber Tones and Greens
+S83c4b9
+=1004R
+EWhite Opal and Green Ripple
+S396040
+=724
+EWhite / Green / Orange
+W3
+S386ca4
+=614
+EWhite / Cobalt Blue
+W3
+Sa07072
+=301
+ECopper Blue
+W3
+Sa16e65
+=1067RG
+EWhite Opal, Magenta and Gold Pink
+D0
+S8179a7
+=606EF
+ETurquoise
+W27
+Sd0c32f
+=300EF
+EBlack
+W27
+S90909
+=5002HS
+EBeige High Strike
+Sa7d3d6
+=2021Mi
+ERust Brown and Off-White Opal Iridized
+D5a
+S323c4f
+=WaterLightSP
+EBlue and Green Combinations, Pink Highlights
+S747c5a
+=700SP
+EGrey Stipple
+S666569
+=5090SP
+ELemon Yellow Stipple with Red Opalescent
+D5a
+S1146d5
+=4000SP
+EPale Green
+S8c8e34
+=1364SP
+EIce White, Purple, Violet, Dark Green
+S2a6864
+=1074SP
+EIce White, Green, Pink
+S7b858d
+=LaburnumA
+EWhite and Pale Silver Yellow
+S9dd7d8
+=970
+ESilver Yellow, Purple
+W24
+S726d64
+=708
+ECopper & Cobalt Blue / Dark Green
+W3
+S4c454f
+=610
+EMedium Turquoise Blue
+W16
+S1a2c53
+=1664RG
+EWhite Opal, Turquoise and Green
+S444214
+=1025RG
+EWhite Opal and Silver Yellow
+S978883
+=550EF
+EMarigold
+W27
+S34e9ff
+=2000EF
+EPina Colada Opal
+W6
+T0
+S93b6ba
+=9052HS
+EOff-White
+Sa2dfec
+=4302HS
+EAvocado Green Opal, White and Chocolate Brown High Strike
+S215161
+=1717HS
+EWhite Opal and Steel Gray High Strike
+Sd7ebed
+=NO6347SP
+ENeodymium Pink, Copper Blue, Purple, Bubblegum, Green
+S9a8968
+=6616SP
+ETurquoise Stipple, White and Cobalt Blue Opalescent
+S808c92
+=5009SP
+EYellow Stipple, Red
+Sf71f7
+=3603SP
+EViolet Stipple, Rose Opalescent
+D5a
+S73516d
+=1300SP
+EIce White, Purple
+S27110f
+=1053SP
+EIce White, Silver Yellow, Purple
+S6c6c7d
+=5643RG
+ESilver Yellow, Turquoise Blue, Green
+S38c7db
+=940
+ESilver Yellow, Cobalt Blue, Green
+W24
+S494d79
+=701G
+EWhite / Silver Yellow / Gold Pink
+W3
+S476cc7
+=607
+EMedium Cobalt Blue
+W16
+S686771
+=1046RG
+EWhite Opal, Dark Green and Inky Blue
+Sa7c088
+=901EF
+ERed Orange
+W27
+S20da5
+=504EF
+EChartreuse
+W27
+S72b9ac
+=6647RG
+EWhite Opal, Turquoise, Green and Gold Pink
+S6bafaa
+=800Mi
+EClear Iridized
+W6
+T0
+S858c8c
+=4050HS
+EEmerald Green Opal and Yellow High Strike
+S3630f
+=1062HS
+EWhite Opal, Cobalt Blue, and Amber High Strike
+S999fa0
+=NNSP
+ENeo SP, Dense Neo Opal
+Sf3c2b4
+=6314SP
+ECopper Cobalt, Ice White, Purple, Green Highlights
+Sa2612a
+=4676SP
+EPale Green, Copper Blue, Gold Purple, Dark Green
+S758757
+=3000SP
+EMauve Stipple
+S3c497c
+=1174SP
+EWhite Dense Opal, Dark Green, Gold Pink
+S577762
+=1004RSP
+EIce White and Green Ripple
+S528667
+=3344RG
+ELavender, Green and Dark Blue
+D5a
+S616c53
+=925
+ERose Red, Cobalt Blue
+W24
+S4d448e
+=628
+EPale Blue (Leans Turquoise)
+W16
+S2a534f
+=601G
+EWhite / Gold Pink
+W3
+S9091cb
+=3307RG
+ELavender, Pink and Purple
+S4f3746
+=777EF
+ENeo
+W27
+Sc29495
+=430EF
+EOlive Green
+W27
+S488d71
+=1669RG
+EWhite Opal, Turquoise, Silver Yellow
+D5a
+Sc6ba78

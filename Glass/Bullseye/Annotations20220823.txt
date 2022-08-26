@@ -1,0 +1,1569 @@
+
+8
+=4400
+EBlack Chopstix, Double-rolled
+W6
+T0
+Sd0d0d0
+=3203-30
+EWoodland Brown Opal, Ivory & Black, Double-rolled
+D5a
+S192742
+=2137
+EMedium Amber, White Opal, Double-rolled
+S1b7ad0
+=2037
+EClear, French Vanilla Opal
+Sccecf4
+=002250
+ESoft Yellow Opalescent, Deep Red Transparent 2-Color Mix
+D5a
+T8
+S5a6168
+=1829
+EGray
+W10
+Sf1f0f0
+=0421
+EPetal Pink
+W3
+Sd8c4ea
+=0225
+EPimento Red
+W10
+S314fb4
+=0136
+EDeco Gray Opal
+W10
+S97a2a1
+=0100-51
+EBlack, Thin-rolled, Iridescent, Rainbow
+W10
+T0
+S9b9b8b
+=0013
+EOpaque White
+W3
+Sf8f8f8
+=3045-21
+EAzure Blue Opal, Jade Green Opal, Neo Lavender, Ripple
+S5fa928
+=4402
+EIridescent Clear Chopstix
+W3
+Sebecec
+=001412-0031
+ELight Aventurine Green Transparent, Iridescent, rainbow
+D0
+T8
+S809980
+=001137-0031
+EMedium Amber Transparent, Iridescent, gold
+D0
+T8
+S64aec2
+=000100
+EBlack Opalescent, Soft Ripple Texture, Iridescent
+D0
+T8
+S505558
+=4011
+EAUTUMN: Orange, Yellow & Red Fractures with Black Streamers on White
+D5a
+Sbcc5e3
+=1416
+ELight Turquoise Blue, Double-rolled
+W2
+T0
+Sdecd82
+=1241-31
+EPine Green, Double-rolled, Iridescent, Rainbow
+W2
+T0
+S5ab6ac
+=1119
+ESienna
+W2
+S162655
+=1101-37
+EClear, Double-rolled, Iridescent, Silver
+W2
+T0
+Se2e0dd
+=4171
+EBlack & White Streamers on Clear
+W10
+D5a
+Sf0f0f0
+=3116
+EClear, Turquoise Blue, White, Double-rolled
+T0
+Se9c982
+=2128
+ERoyal Purple, Powder Blue Opal
+D5a
+Sb4341a
+=2020
+EClear, Sunflower Yellow Opal
+S58e3f4
+=002140
+EClear, Blue Aventurine 2-Color Mix
+D5a
+T8
+Saa886c
+=1824
+ERuby Red
+W10
+Sc4a8e1
+=0334
+EGold Purple Opal
+W10
+S9c5b62
+=0216
+ELight Cyan, Double-rolled
+W10
+T0
+Sd9be4f
+=0125
+EOrange Opal
+W10
+S175dc
+=0100-46
+EBlack Iridescent Accordion
+W10
+D5a
+S57646f
+=000420
+ECream Opalescent
+W2
+T2
+Scee3eb
+=4237
+EVanilla & White Frit, Vanilla & White Streamers
+D5a
+Sf5f5f4
+=004400-0031
+EClear with Clear Stringers, Clear Base Collage, Iridescent, rainbow
+Sd7d3d4
+=001406-0051
+ESteel Blue Transparent, Iridescent, rainbow
+D0
+T8
+Sbead90
+=001126-0051
+EChartreuse Transparent, Iridescent, rainbow
+D0
+T8
+S66babb
+=4121
+ELight Pink & White Fractures with Black Streamers on Clear
+D5a
+Sc5b4b6
+=1464
+ETrue Blue, Double-rolled
+W2
+T0
+Scc965d
+=1412
+ELight Aventurine Green Transparent
+W3
+S27c047
+=1207
+EFern Green, Double-rolled
+W2
+T0
+S4fcab0
+=1114
+EDeep Royal Blue Transparent
+W3
+Sfa6c11
+=1101-25
+EClear, Herringbone Ripple, Iridescent, Rainbow
+W2
+D5a
+T0
+Se6e3e1
+=1964
+ELavender Grey Tint
+W3
+Sf2e4e2
+=4151
+ERoyal Blue Streamers on Clear
+W10
+D5a
+Sede7e6
+=2416
+ELight Turquoise Blue, True Blue, Double-rolled
+T0
+Sd6a245
+=2123
+EWhite Opal, Orange Opal
+W4
+S95efd
+=003334
+ECranberry Pink, Gold Purple, White 3+ Color Mix
+D5a
+T8
+S705381
+=1867
+EOlive Smoke
+W10
+Se3f2f5
+=1820
+EPale Yellow Transparent Tint
+W10
+Sd6fef7
+=0321
+EPumpkin Orange Opal
+W10
+S8be1
+=0164
+EEgyptian Blue Opal
+W10
+Sab6532
+=0118
+EPeriwinkle Opalescent, Double-rolled
+W10
+T0
+Sab6f56
+=0100-43
+EBlack, Reed
+W10
+D5a
+T0
+S2f2b2f
+=000208
+EDusty Blue Opalescent
+W2
+T2
+S9f774c
+=4224
+ERed Frit, Red Streamers
+D5a
+Sc7d1e8
+=001101-0024
+EClear Transparent, Soft Ripple Texture, Iridescent
+D0
+T8
+Sc6ccd0
+=001332-0051
+ECarnelian Transparent, Iridescent, rainbow
+D0
+T8
+S6863ac
+=001120-0031
+EYellow Transparent, Iridescent, rainbow
+D0
+T8
+S63bec9
+=4118
+EWhite Fractures with Black Streamers on Clear
+D5a
+Sd5d3c6
+=1444
+ESea Blue, Double-rolled
+W2
+T0
+Sb3af89
+=1406
+ESteel Blue Transparent
+W3
+Sc7b85d
+=1205-51
+ELight Coral Striker, Double-rolled, Iridescent, Rainbow
+W2
+T0
+S99a3da
+=1108
+EAquamarine Blue Transparent
+W3
+Sa49b2d
+=1100
+EClear Transparent Tekta
+Secebeb
+=1932
+EFuschia Tint
+W3
+Se2cad1
+=3501
+EWhite Opal, Deep Forest Green, Caramel Opal
+D5a
+S54b398
+=2305
+EWhite Opal, Salmon Pink Opal
+Sdcb9f5
+=2112
+EMint Opal, Deep Forest Green
+D5a
+S5fb058
+=003126
+ECranberry, Royal Blue, Spring Green 3+ Color Mix
+D5a
+T8
+S545b8e
+=1858
+ELight Rhubarb Shift Tint, Double-rolled
+W10
+T0
+Seef5ed
+=1808
+EAqua Blue Transparent Tint
+W10
+Sedfdc5
+=0310
+EUmber
+W3
+S1a3e59
+=0145
+EJade Green Opal
+W10
+S40721d
+=0114
+ECobalt Blue Opal
+W10
+Sa86e5f
+=0100-32
+EBlack, Double-rolled, Iridescent, Patterned
+W10
+T0
+S9c9895
+=000148
+EIndigo Blue Opalescent
+W2
+T2
+S6f3f23
+=4219
+ECobalt Blue, Gray Blue & Aqua Frit and Blue Streamers on Clear
+D5a
+Sece6e4
+=001439-0051
+EKhaki Transparent, Iridescent, rainbow
+D0
+T8
+Safc2ca
+=001320-0031
+EMarigold Yellow Transparent, Iridescent, rainbow
+D0
+T8
+S4ebbd5
+=001116-0031
+ETurquoise Blue Transparent, Iridescent, rainbow
+D0
+T8
+Sc6a95d
+=4115
+EDeep Pink, Light Pink & White Fractures with Black Streamers on Clear
+D5a
+Scec0c8
+=1442-30
+ENeo-lavender Shift, Double-rolled
+W2
+T0
+Sd8c0cb
+=1334
+EGold Purple Transparent
+W3
+Sf64f6c
+=1140
+EAventurine Blue, Double-rolled
+W2
+T0
+S29231d
+=1101
+EClear Transparent
+W3
+Sefefef
+=001100-Tekta
+EClear Transparent, Tekta
+Sedecec
+=3346-30
+ECranberry Pink, Azure Blue, White, Double-rolled
+D5a
+S5b367e
+=2250
+ESoft Yellow Opal, Deep Red
+D5a
+S557bbb
+=2107
+EWhite Opal, Light Green
+D5a
+S9cee9e
+=003045
+EAzure Blue Opal, Jade Green Opal, Neo-Lavender 3+ Color Mix
+D5a
+T8
+S888054
+=1841
+ESpruce Green Transparent Tint
+W10
+Sf2f9ee
+=1025
+ELight Orange Striker, Double-rolled
+W10
+T0
+S147aea
+=0303
+EDusty Lilac Opal
+W10
+S8e819f
+=0142
+ENeo Lavender Opal
+W10
+Se6c7bf
+=0108
+EPowder Blue Opal
+W10
+Sd3c4a4
+=0100-22
+EBlack, Herringbone Ripple
+W10
+D5a
+T0
+S2a262a
+=3346-21
+ECranberry Pink, Azure Blue, White, Ripple
+D5a
+S904c7b
+=4216
+ERoyal Blue & Turquoise Frit, Cobalt Blue & Turquoise Streamers
+D5a
+Sf6f4ef
+=001428-0051
+ELight Violet Transparent, Iridescent, rainbow
+D0
+T8
+Sb8b0bf
+=001234-0051
+EViolet Transparent, Iridescent, rainbow
+D0
+T8
+S8e6690
+=001109-0051
+EDark Rose Brown Transparent, Iridescent, rainbow
+D0
+T8
+S767382
+=4112
+ESUMMER: Green & Yellow Fractures with Black Streamers on Clear
+D5a
+Sbecac5
+=1429
+ELight Silver Gray Transparent
+W3
+Scfd4c6
+=1321
+ECarnelian
+W3
+S2888cb
+=1128
+EDeep Royal Purple Transparent
+W3
+Seb4c43
+=1101-46
+EClear, Accordion, Iridescent, Rainbow
+W2
+D5a
+T0
+Sc7b5aa
+=4424
+ERed Chopstix, Double-rolled
+W6
+T0
+Sc3c4da
+=3328
+EWhite Opal, Deep Royal Purple, Cranberry Pink
+D5a
+Scc6c9d
+=2209
+EDark Brown, White Opal
+D5a
+S42483f
+=2064
+EClear, Egyptian Blue Opal
+Sd8af8b
+=002537
+EFrench Vanilla Opalescent with Light Turquoise Blue Transparent Infusion 2-Color Mix
+D5a
+T8
+Sb1cac7
+=1834
+ECoral Orange Transparent Tint
+W10
+Se9f1fe
+=1009-51
+EReactive Ice Clear, Thin-rolled, Iridescent, Rainbow
+W10
+T0
+Sf7ece5
+=0236
+ESlate Gray, Double-rolled
+W10
+T0
+S736b68
+=0138
+EMarzipan Striker
+W3
+Sbce7f6
+=0100-55
+EBlack, Thin-rolled, Accordion
+W10
+D5a
+T0
+S1d1c1e
+=0025
+ETangerine Orange
+W10
+S3082d3
+=3203-21
+EWoodland Brown Opal, Ivory & Black, Ripple
+D5a
+S2e4357
+=4211
+ERed, Orange & Yellow Frit and Spring Green Streamers on Clear
+D5a
+Sc9d3db
+=001417-0051
+EEmerald Green Transparent, Iridescent, rainbow
+D0
+T8
+Sb5c288
+=001141-0051
+EOlive Green Transparent, Iridescent, rainbow
+D0
+T8
+S70908f
+=001105-0051
+EDeep Plum Transparent, Iridescent, rainbow
+D0
+T8
+S7d7895
+=4014
+ESpring Green & Deep Pink Fractures with Black Streamers on White
+D5a
+Sbdc1ce
+=1419
+ETan
+W3
+S93b9d7
+=1305
+ESunset Coral
+W2
+S213faf
+=1122
+ERed Transparent
+W3
+S3205d6
+=1101-43
+EClear Reed
+D5a
+Seeedee
+=4183
+EPink, Green & Blue Streamers on Clear
+W10
+D5a
+Se7e2e6
+=3126-30
+ECranberry Pink, Royal Blue, Spring Green, Double-rolled
+D5a
+S6f4199
+=2130
+EClear, White Opal
+Sf5f5ea
+=2026
+EClear, Spring Green Opal
+S5eccbb
+=002212
+EOlive Green Opal, Forest Green 2-Color Mix
+D5a
+T8
+S436151
+=1827
+ELight Amber
+W10
+Sd7f6fb
+=0337
+EButterscotch, Double-rolled
+W10
+T0
+S28679f
+=0224
+EDeep Red
+W10
+S311868
+=0132
+EDriftwood Gray Opal
+W10
+Sd2dcdd
+=0100-48
+EBlack Prismatic Iridescent
+W10
+D5a
+S5b5256
+=000920
+EWarm White Opalescent
+W2
+T2
+Sdcecf3
+=3026-21
+ECranberry Pink, Royal Blue, Spring Green, White, Ripple
+S815a44
+=4202
+EIridescent Clear with Clear Frit
+W3
+Sebe8e7
+=001409-0051
+ELight Bronze Transparent, Iridescent, rainbow
+D0
+T8
+S96b5c9
+=001129-0051
+ECharcoal Gray Transparent, Iridescent, rainbow
+D0
+T8
+S79747e
+=4128
+EDeep Pink. Plum, Spring Green & Aqua Fractures with Pink Streamers on Clear
+D5a
+Scbcbcd
+=4010
+ESPRING: Blue, Green Aqua & Pink Fractures with Black Streamers on White
+D5a
+Sd4dcdc
+=1416-31
+ELight Turquoise Blue, Double-rolled, Iridescent, Rainbow
+W2
+T0
+Sc0b886
+=1234
+EViolet Striker
+W2
+S61336b
+=1118
+EMidnight Blue Transparent
+W3
+Se17b25
+=1101-32
+EClear, Double-rolled, Iridescent, Patterned
+W2
+D5a
+T0
+Se0e1e3
+=4158
+EWhite Streamers on Clear
+W10
+D5a
+Sf7f6f5
+=3045-30
+EAzure Blue Opal, Jade Green Opal, Neo Lavender, Double-rolled
+D5a
+S8eac33
+=2125
+EYellow, Red Striker, Double-rolled
+D5a
+T0
+S2460df
+=003346
+ECranberry Pink, Azure Blue, White 3+ Color Mix
+D5a
+T8
+S4e456c
+=403
+EOpaline Striker, Double-rolled
+W10
+T0
+Sf0f5fc
+=1823
+EBurnt Scarlet
+W10
+Sbec4e9
+=0332
+EPlum Striker, Double-rolled
+W10
+T0
+S663074
+=0212
+EOlive Green
+W10
+S4d7564
+=0124
+ERed Opal
+W10
+S2601b6
+=0100-45
+EBlack, Accordion
+W10
+D5a
+T0
+S161518
+=000313
+EDense White Opalescent
+W2
+T2
+Sffffff
+=4234
+ECranberry & Purple Frit, Cranberry & Purple Streamers
+D5a
+Sddd6e4
+=001401-Tekta
+ECrystal Clear Transparent, Tekta
+Sededed
+=001405-0051
+ELight Plum Transparent, Iridescent, rainbow
+D0
+T8
+Sadafc4
+=001125-0031
+EOrange Transparent, Iridescent, rainbow
+D0
+T8
+S6b80c4
+=4120
+ELight Pink, Blue & White Fractures with Black Streamers on Clear
+D5a
+Sd6c5cf
+=1464-31
+ETrue Blue, Double-rolled, Iridescent, Rainbow
+W2
+T0
+Sd1a47c
+=1409
+ELight Bronze Transparent
+W3
+Sa4c2ce
+=1207-31
+EFern Green, Double-rolled, Iridescent, Rainbow
+W2
+T0
+S85d3c4
+=1112
+EAventurine Green Transparent
+W3
+S2aa82d
+=1101-22
+EClear Herringbone Ripple
+Sebebea
+=1948
+EPurple Blue Tint
+W3
+Se8d1cd
+=4100
+EBlack Streamers on Clear
+W10
+D5a
+Sedeff0
+=2311-30
+ECranberry Pink & White, Double-rolled
+S5112ba
+=2121
+EYellow Opal, Deep Forest Green
+D5a
+S6b56f
+=003212
+EOlive Green Opal, Forest Green, Deep Brown 3+ Color Mix
+D5a
+T8
+S45514e
+=1864
+EGray Blue
+W10
+Sf1e9e7
+=1819
+EBrown Topaz, Double-rolled
+W10
+T0
+Se9eef5
+=0320
+EMarigold Yellow Opal
+W10
+Sabea
+=0147
+EDeep Cobalt Blue Opal
+W10
+S782629
+=0117
+EMineral Green, Double-rolled
+W10
+T0
+S819666
+=0100-38
+EBlack Iridescent Gold
+W10
+S4c8ea9
+=000207
+ECeladon Green Opalescent
+W2
+T2
+S8ea896
+=4223
+EYellow, Blue & Red Frit and Blue Streamers
+D5a
+Sa7c0c8
+=002140-0031
+EClear, Blue Aventurine 2-Color Mix, Iridescent, rainbow
+D0
+T8
+Sba8f7d
+=001322-0031
+EFuchsia Transparent, Iridescent, rainbow
+D0
+T8
+S6757ac
+=001119-0051
+ESienna Transparent, Iridescent, rainbow
+D0
+T8
+S626b83
+=4117
+EGreen & White Fractures with Black Streamers on Clear
+D5a
+Sc4cfc7
+=1444-31
+ESea Blue, Double-rolled, Iridescent, Rainbow
+W2
+T0
+Scbc89b
+=1405
+ELight Plum Transparent
+W3
+Sf2cfea
+=1145
+EKelly Green Transparent
+W3
+S9ca15
+=1107
+ELight Green Transparent
+W3
+S85fabe
+=1920
+ELemon Yellow Tint
+W3
+Sdff1f2
+=3446
+ENeo Lavender with Purple Opal & Pink Streaks, Pink, White & Aqua Fractures
+Sf8876f
+=2304
+EWhite Opal, Lavender Blue Opal
+Sfcc7ab
+=2109
+EWhite Opal, Dark Brown
+D5a
+S56605d
+=003100
+EClear, Black and White Opal Streaky
+D5a
+T8
+S919294
+=1844
+ELavender Green Shift Tint, Double-rolled
+W10
+T0
+Sefdfd0
+=1807
+EGrass Green Transparent Tint
+W10
+Se1fde9
+=0309
+ECinnabar
+W3
+S344570
+=0144
+ETeal Green Opal
+W10
+S718628
+=0113
+EWhite Opal
+W10
+Sefedf1
+=0100-31
+EBlack Iridescent Rainbow
+W10
+S474f58
+=000131
+EArtichoke Opalescent
+W2
+T2
+Sa5c5c0
+=4218
+EGray & Black Frit and White Streamers on Clear
+D5a
+Sdeddcf
+=001437-0031
+ELight Silver Gray Transparent, Iridescent, rainbow
+D0
+T8
+S91c2c7
+=001311-0051
+ECranberry Pink Transparent, Iridescent, rainbow
+D0
+T8
+S806fcd
+=001114-0051
+EDeep Royal Blue Transparent, Iridescent, rainbow
+D0
+T8
+Sae7068
+=4114
+ESpring Green & Deep Pink Fractures with Black Streamers on Clear
+D5a
+Sa6bebf
+=1439
+EKhaki
+W2
+S71869c
+=1332
+EFuschia
+W3
+S7c4ab4
+=1137
+EMedium Amber Transparent
+W3
+S76e4fd
+=1101-48
+EClear, Thin-rolled, Iridescent, Gold
+W2
+D5a
+T0
+Scecac0
+=001009
+EReactive Ice Transparent
+T8
+Sf3f3f3
+=3345-30
+ECranberry Pink, Emerald Green, White, Double-rolled
+S4e8366
+=2218
+EAqua Blue Tint, White, Double-rolled
+D5a
+T0
+Sded8ba
+=2105
+EBlue Opal, Plum
+Sd23912
+=003026
+ECranberry Pink, Royal Blue, Spring Green, White 3+ Color Mix
+D5a
+T8
+S6f678b
+=1838
+EDark Amber
+W10
+Scbf0fc
+=1025-31
+ELight Orange Striker, Thin-rolled, Iridescent, Rainbow
+W10
+T0
+S5f86dc
+=0301
+EPink Opal
+W10
+S8969b4
+=0141
+EForest Green
+W10
+S4b6448
+=0101
+EStiff Black
+W3
+Sc100f
+=0100-21
+EBlack, Soft Ripple
+W10
+D0
+T0
+S282227
+=3345-21
+ECranberry Pink, Emerald Green, White, Ripple
+S723f86
+=4215
+EPink & Cranberry Frit and Pink Streamers on Clear
+D5a
+Scabcc8
+=001426-0051
+ESpring Green Transparent, Iridescent, rainbow
+D0
+T8
+S74d4c0
+=001215-0051
+ELight Pink Striker Transparent, Iridescent, rainbow
+D0
+T8
+S9c86d6
+=001108-0051
+EAquamarine Blue Transparent, Iridescent, rainbow
+D0
+T8
+Saea683
+=4111
+EAUTUMN: Orange, Yellow & Red Fractures with Black Streamers on Clear
+D5a
+S859fcc
+=1428
+ELight Violet Transparent
+W3
+Se9c7de
+=1320
+EMarigold Yellow
+W3
+S32c1eb
+=1126
+EChartreuse
+W2
+S339cb9
+=1101-45
+EClear Accordion
+D5a
+Sededed
+=4414
+EBlue Chopstix, Double-rolled
+W6
+T0
+Sdfd9d0
+=3212-30
+EOlive Green Opal, Forest Green, Deep Brown, Double-rolled
+D5a
+S2a543b
+=2164-30
+ECaribbean Blue, White Opal, Double-rolled
+Se7811d
+=2047
+EClear, Deep Cobalt Blue Opal
+D5a
+Sa06851
+=002311
+ECranberry Pink, White 2-Color Mix
+D5a
+T8
+S323495
+=1831
+ERuby Pink
+W10
+Sdecde6
+=1009-31
+EReactive Ice Clear, Double-rolled, Iridescent, Rainbow
+W10
+T0
+Sf7ece5
+=0227
+EGolden Green, Double-rolled
+W10
+T0
+S3076a1
+=0137
+EFrench Vanilla Opal
+W10
+Scce7ea
+=0100-53
+EBlack, Thin-rolled, Reed
+W10
+D5a
+T0
+S2f2b2f
+=0024
+ETomato Red
+W10
+S2b35a5
+=3126-21
+ECranberry Pink, Royal Blue, Spring Green, Ripple
+S852fac
+=4200
+EBlack Frit and Black Streamers on Clear
+W4
+D5a
+S949fa1
+=001414-0031
+ELight Sky Blue Transparent, Iridescent, rainbow
+D0
+T8
+Scaa096
+=001140-0051
+EAventurine Blue Transparent, Iridescent, gold
+D0
+T8
+S90796c
+=000113-0031
+EWhite Opalescent, Iridescent, rainbow
+D0
+T8
+Sdcdddb
+=4012
+ESUMMER:	Green & Yellow Fractures with Black Streamers on White
+D5a
+Sb4ddce
+=1417
+EEmerald Green Transparent
+W3
+Sb0fd6d
+=1241
+EPine Green, Double-rolled
+W2
+T0
+S36a697
+=1120
+EYellow Transparent
+W3
+S1ff8f7
+=1101-38
+EClear, Double-rolled, Iridescent, Gold
+W2
+T0
+Sc7e1e7
+=4172
+EBlue & White Streamers on Clear
+W10
+D5a
+Sf5f2f1
+=3123
+EWhite Opal, Orange Opal, Deep Forest Green
+D5a
+S2c7759
+=2129
+ECharcoal Gray, White Opal
+D5a
+S3b3325
+=2024
+EClear, Red Opal
+S5672c3
+=002164
+ECaribbean Blue, White 2-Color Mix
+D5a
+T8
+Sa37043
+=1826
+EGreen Tea
+W10
+Se6f7f9
+=0336
+EDeep Gray, Double-rolled
+W10
+T0
+S464037
+=0220
+ESunflower Yellow Opal
+W10
+Sdbf3
+=0126
+ESpring Green Opal
+W10
+S1d1ab
+=0100-47
+EBlack, Prismatic
+W10
+D5a
+T0
+S1c1c1d
+=0009
+EReactive Cloud Opalescent, Double-rolled
+W10
+T0
+Sf3f2f2
+=4242
+ENeo-lavender & Purple Frit, Cobalt Blue & Purple Streamers
+D5a
+Sf0eaea
+=4102
+EIridescent Clear with Clear Fractures
+W3
+Se4e1e0
+=001408-0031
+ELight Aquamarine Green Transparent, Iridescent, rainbow
+D0
+T8
+Sbbb683
+=001128-0051
+EDeep Royal Purple Transparent, Iridescent, rainbow
+D0
+T8
+S8e686c
+=4122
+ELight Pink, Plum & White Fractures with Black Streamers on Clear
+D5a
+Scdc7c5
+=004302
+EBlack Fracture-Streamers on Clear
+D0
+T8
+Sdfe0df
+=1414
+ELight Sky Blue Transparent
+W3
+Sfde8cc
+=1215
+ELight Pink Striker
+W3
+S8f6bb8
+=1116
+ETurquoise Blue Transparent
+W3
+Sfaf76f
+=1101-31
+EClear, Double-rolled, Iridescent, Rainbow
+W2
+T0
+Sdddedc
+=1977
+EPine Green Tint
+W3
+Se0e7e6
+=4152
+EForest Green Streamers on Clear
+W10
+D5a
+Se3e8e2
+=3026-30
+ECranberry Pink, Royal Blue, Spring Green, White, Double-rolled
+D5a
+S7c4190
+=2124
+ERed Opal, White Opal
+D5a
+S4237d0
+=003345
+ECranberry Pink, Emerald Green, White 3+ Color Mix
+D5a
+T8
+S525b76
+=1877
+EOlivine Tint, Double-rolled
+W10
+T0
+Sd8ece5
+=1821
+EErbium Pink Transparent Tint
+W10
+Sfdebfd
+=0329
+EBurnt Orange, Double-rolled
+W10
+T0
+S275295
+=0203
+EWoodland Brown Opal
+W10
+S193963
+=0120
+ECanary Yellow Opal
+W10
+Seaeb
+=0100-44
+EBlack Iridescent Reed
+W10
+D5a
+S636e70
+=000241
+EMoss Green Opal
+W2
+T2
+S2e5750
+=4229
+EGray & Bronze Frit, Gray & Vanilla Streamers
+D5a
+Se5e8ea
+=001401-0030
+ECrystal Clear Transparent
+Sededed
+=001334-0051
+EGold Purple Transparent, Iridescent, rainbow
+D0
+T8
+S8b6a6f
+=001122-0031
+ERed Transparent, Iridescent, rainbow
+D0
+T8
+S6a5a9d
+=4119
+EBlue & White Fractures with Black Streamers on Clear
+D5a
+Se8cfc5
+=1449
+EOregon Gray
+W2
+S697f91
+=1408
+ELight Aquamarine Blue Transparent
+W3
+Se5fece
+=1205
+ELight Coral Striker, Double-rolled
+W2
+T0
+Sf6f8f4
+=1109
+EDark Rose Brown
+W3
+S252f53
+=1101-21
+EClear Soft Ripple
+Sf3f3f3
+=1934
+ECopper Tint
+W3
+Se0eaf2
+=004136
+EBlack with Black Streamers on Clear, Clear Base Collage
+D5a
+T8
+Sb1b4b6
+=2310
+EWhite Opal, Cranberry Pink
+S7058bf
+=2116
+ETurquoise Blue, Deep Royal Blue, Double-rolled
+D5a
+T0
+Sbd7f36
+=003203
+EWoodland Brown Opal, Ivory, Black 3+ Color Mix
+D5a
+T8
+S3b475b
+=1859
+ERhubarb Pink/Green Shift Transparent Tint
+W10
+S97d6ca
+=1818
+EIndigo
+W10
+Sf5eae7
+=0312
+EPea Pod Green, Double-rolled
+W10
+T0
+S589484
+=0146
+ESteel Blue Opal
+W10
+S885f0b
+=0116
+ETurquoise Blue Opal
+W10
+Sd4b96d
+=0100-37
+EBlack Iridescent Silver
+W10
+S75817b
+=000206
+EElephant Gray Opalescent
+W2
+T2
+S8d9396
+=4220
+ECanary & Sunflower Yellow Frit, Sunflower Yellow Streamers
+D5a
+Sd2ecf4
+=001449-0051
+EOregon Gray Transparent, Iridescent, rainbow
+D0
+T8
+Sacbeca
+=001321-0051
+EGarnet Red Transparent, Iridescent, rainbow
+D0
+T8
+S74739d
+=001118-0051
+EMidnight Blue Transparent, Iridescent, rainbow
+D0
+T8
+S937467
+=4116
+ELight Pink, Green & White Fractures with Black Streamers on Clear
+D5a
+Sc9cfc5
+=1442
+ENeo Lavender Shift Transparent
+W3
+Sfdd5cf
+=1401
+ECrystal Clear Transparent
+W3
+Sececec
+=1141
+EOlive Green Transparent
+W3
+S109038
+=1105
+EDeep Plum Transparent
+W3
+Sa54879
+=001857
+ERed Amber Tint Transparent
+T8
+Sb9e3f2
+=3445
+ELeo-lavender with Purple Opal, Jade Green Opal & Pink Streaks, Green & Pink Fractures
+Sc96397
+=2302
+EWhite Opal, Pink Opal
+Sf4b3ef
+=2108
+EPowder Blue Opal, Marine Blue
+D5a
+Sb6b05e
+=003086
+EWhite, Turquoise Blue, Midnight Blue 3+ Color Mix
+D5a
+T8
+Sbb8a66
+=1842
+ELt. Neo Lavender Shift Transparent Tint
+W10
+Sfde4d8
+=1806
+EJuniper Blue Transparent Tint
+W10
+Sf4feec
+=0305
+ESalmon Pink Opal
+W10
+S6e6bbb
+=0143
+ELacy White Opal
+W10
+Seeeeee
+=0112
+EMint Green Opal
+W10
+Sbddfc4
+=0100-25
+EBlack Iridescent Herringbone Ripple
+W10
+D5a
+S46534d
+=000119
+EMink Opalescent
+W2
+T2
+S72727e
+=4217
+EDark Green & Jade Green and Dark Green Streamers on Clear
+D5a
+Scfe3d2
+=001429-0051
+ELight Amber Transparent, Iridescent, rainbow
+D0
+T8
+Sc3cbcc
+=001305-0031
+ESunset Coral Transparent, Iridescent, rainbow
+D0
+T8
+S7077ac
+=001112-0051
+EAventurine Green Transparent, Iridescent, rainbow
+D0
+T8
+S7f9c7d
+=4113
+EWINTER: White Fractures with White Streamers on Clear
+D5a
+Se3e3d7
+=1437
+ELight Amber Transparent
+W3
+Sdcf4f7
+=1322
+EGarnet Red
+W3
+S36329d
+=1129
+ECharcoal Gray Transparent
+W3
+S939b82
+=1101-47
+EClear Prismatic
+W3
+D5a
+Se4e4e4
+=4437
+EWihite Chopstix, Double-rolled
+W6
+T0
+Sf8f8f8
+=3334-30
+ECranberry Pink. Gold Purple, White, Double-rolled
+D5a
+Saa3a8b
+=2212-30
+EOlive Green Opal, Forest Green, Double-rolled
+D5a
+S2b7240
+=2100
+EClear, Black Opal
+D5a
+S928578
+=002637
+EFrench Vanilla Opalescent with Light Turquoise Blue Transparent Cascade 2-Color Mix
+D5a
+T8
+S7c9998
+=1837
+EMedium Amber
+W10
+Sd5f4fa
+=1009
+EReactive Ice Clear, Double-rolled
+W10
+T0
+Sf9f8f8
+=0243
+ELighting White
+W10
+Se5e7e7
+=0139
+EAlmond Striker
+W3
+Scde8f3
+=0100
+EBlack Opal
+W10
+S0
+=0034
+ELight Peach Cream Opal
+W10
+Se8ebef
+=3334-21
+ECranberry Pink. Gold Purple, White, Ripple
+D5a
+Sa53f8f
+=4212
+EDark Green, Spring Green & Yellow Frit and Spring Green Streamers on Clear
+D5a
+Sd1ecda
+=001419-0031
+ETan Transparent, Iridescent, rainbow,
+D0
+T8
+S6d6f96
+=001145-0031
+EKelly Green Transparent, Iridescent, rainbow
+D0
+T8
+S89a480
+=001107-0031
+ELight Green Transparent, Iridescent, rainbow
+D0
+T8
+Sa2c79c
+=4110
+ESPRING: Blue, Green Aqua & Pink Fractures with Black Streamers on Clear
+D5a
+Sb1afa4
+=1426
+ESpring Green Transparent
+W3
+S2cfece
+=1311
+ECranberry Pink Transparent
+W3
+S9c1dd7
+=1125
+EOrange Transparent
+W3
+S226f8
+=1101-44
+EClear, Reed, Iridescent, Rainbow
+W2
+D5a
+T0
+Sc7b5aa

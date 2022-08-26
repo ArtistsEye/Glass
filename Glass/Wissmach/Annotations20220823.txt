@@ -1,0 +1,1799 @@
+
+10
+=WO-78
+EMed. Amber/Green/ Opal/Opal and Crystal
+D0
+S62b1b6
+=WO-437
+EDk. blue/lt. amber/med. purple/opal and/or crystal
+Sb69890
+=WO-2180
+ELt. Violet/Opal and Crystal
+Sc1a8bd
+=WO-118
+ECobalt blue/opal and/or crystal
+D5a
+Sbd4422
+=VM441
+EDk. Purple, Cobalt Blue, Med. Green & Opal
+S918774
+=SX189
+ELt. Cobalt Blue
+Sd68f5c
+=44-LL
+EBurgundy / Blue / Clear
+W42
+D0
+T2a
+S42859f
+=199-G
+EMed. Amber / Dk. Amber Brown/ Granite
+S2539cb
+=SV65
+EMed. Aqua Blue
+Sc3c22b
+=94-D
+EMed. purple/amber/opal and/or crystal
+S9bc0ea
+=67-L
+EDark Purple with Light Opal Base
+D0
+S796188
+=57-D
+EMed. green/opal and/or crystal
+D0
+S77b489
+=51-DDXXMSP
+EOpal Swirled with Light Opal Base
+Se8f4f9
+=434-D
+EDark Blue/Medium Purple with Dense Opal Base
+D0
+Sb06567
+=281-D
+EPurple with Dense Opal Base
+D0
+S936f8c
+=250-L
+EAqua green/opal and/or crystal
+D0
+Sc7df41
+=217-D
+EMed. purple/yellow green/opal and/or crystal
+S7899b4
+=2-D
+EYellow with opal and/or crystal
+S38edf1
+=152-L
+EYellow green/Dk. green/opal and/or crystal
+S46dc78
+=118-L
+ELight blue/opal and/or crystal
+Sea7d6d
+=WO-703
+EBlue with Streaks of Purple and White Opal
+D0
+S6b263b
+=H158
+EMed. Copper Blue
+Se4c947
+=FC01
+EClear Figure C
+Sb6a9ad
+=EM287
+ESage green
+S5b7b65
+=EM1146
+ESpring Grass Green, Medium Yellow Green
+Ta
+Se923b
+=01CC
+EClear Corella Classic
+Sdaced4
+=568
+EChampagne Pink
+Sa5c3fb
+=346
+EDk. Yellow Green
+S28efe9
+=310-XX
+EDark Ambers
+S1d4b9b
+=219
+EMed. Cobalt Blue
+Sa34a24
+=135
+EShade Lighter than 134
+S564479
+=90-11
+EGreen
+S2e9400
+=WO-67
+EDk. purple/opal and/or crystal base
+S9072a6
+=WO-36-IRID
+EFlamingo pink with white opal and clear iridescent
+D0
+S92a8ef
+=WO-197
+EDk. blue/med. green/opal and/or crystal
+S829430
+=WO-1
+ESilver yellow / with opal and/ or crystal base
+D0
+S59e3ed
+=VM257
+EPurple, Blue, Amber, White Victorian Mottle
+D5a
+Ta
+Saea5a8
+=SX118
+ELight Blue
+Sfad9c8
+=35-LL
+EGold pink/silver/lt. blue/and opal or crystal base
+D0
+Sa5c2c6
+=191-LL
+EMed. green/opal and/or crystal
+S2ad832
+=01SEEDY
+EClear Seedy
+Se5dad6
+=87-D
+ESky blue/opal and/or crystal
+Sdfca77
+=65-L
+EMedium brown/blue/opal base
+D5a
+S8a928e
+=567-L
+ELight Opal Swirled with Champagne
+D0
+Sb9cdf5
+=51-DD
+EDense white cast opal
+Se0e9ef
+=36-L
+EOpal swirled with salmon color
+S93a2db
+=275-L
+EDark purple, yellow green balanced medium blue opal
+S8f6253
+=25-D
+EOrange/green/opal and/or crystal
+D5a
+S297be0
+=214
+ERed, Opal
+W2
+D5a
+S589fcf
+=197-D
+EDk. blue/med. green/opal and/or crystal
+D0
+Sb09333
+=146-L
+EYellow Green/ Light Opal Base
+S3ab1b2
+=101-L
+EDark Green Light Opal Base
+S328e59
+=709LL
+EGreen with Streaks of Amber
+S2d4f31
+=G320
+EDk. Green
+S119504
+=EMX118
+EPale Blue
+Sfdfdce
+=EM24
+EAubergine Silk (Deep Purple)
+T0
+S9d60a9
+=46CC
+EMedium Amber/Shade Darker than 45
+S43bfd5
+=XX-286
+ELt. Yellow Green
+S42c17b
+=49
+ECarmel Opalume, Lime Green, Brown
+W16
+S109fda
+=341
+EMed. Blue
+Sfd813a
+=300
+EMed. Sky Blue
+Sedda35
+=195
+EArmy Yellow Green
+S73d5bd
+=118-XXX
+EBlue Grey
+Sfa8103
+=90-08
+EAmber
+S19fef
+=WO-59
+EDk. brown/green/opal and/or crystal
+Sc8573
+=WO-325
+ELt. amber/opal and/or crystal
+Safc6bd
+=WO-188
+E1/2 grey blue, 1/2 white opal
+Seb8478
+=VM903
+ELt. Med. Brown
+Sbdeefa
+=VM197
+EBlue, Green, White Victorian Mottle
+D5a
+Ta
+S928308
+=87-LL
+ESky blue/opal and/or crystal
+Sdab348
+=257-LL
+EMed. purple/sky blue/lt. amber/opal and/or crystal
+S8f8cab
+=155-LL
+EDark Purple/ Green/Crystal
+S1d3567
+=RIP49
+EDark Amber
+Sc97e4
+=8-L
+EGold Pink and Cobalt Blue
+Se5acf2
+=613-D
+EWilliamsburg blue/opal and/or crystal
+Safb0b0
+=565-L-IR
+EDark grey mixed with light white opal iridescent
+Sa2aeb5
+=502-L
+ELight Opal Swirled with Med. Gray/Brown
+D0
+S9daab7
+=35-D
+EGold pink/silver/lt. blue/and opal or crystal base
+D0
+Sa4a0ab
+=272-D
+ELt. Opal With Streaks Of Lt. Blue And Mauve
+D0
+Se6c8ba
+=238-NLSP
+EMedium purple, dark blue, yellow green, opal
+D5a
+Ta
+Sa2ad97
+=212
+EOrange, Opal
+W16
+Sfeeeda
+=188-L
+E1/2 grey blue, 1/2 white opal
+Sdfc7ac
+=145-D
+EDark Amber/Opal and/or Crystal
+S9dc6e9
+=100-L
+EDk. green with a swirl of opal
+D0
+S3a5e3b
+=706LL
+ELight Amber with Streaks of Brown
+D0
+Sc56a6
+=FLOR322
+EPale Blue /Green
+Sb9bc6e
+=EM568
+EChampagne
+S99bbe5
+=EM218
+EPale Violet
+Sfc708b
+=334CC
+ETrue Green
+S36c302
+=X-16
+ELt. Copper Red
+S3a21de
+=46
+EMedium Amber
+S43bfd5
+=338
+ELt. Copper Blue
+Saa781a
+=286
+EMed. Yellow Green
+S46c519
+=18
+EMedium Amber
+W16
+S704a6
+=106
+ELt. Blue Green
+Sb3db64
+=90-05
+ELight Green
+S53bbad
+=WO-569
+EChampagne/opal and/or crystal
+D0
+Safc7e3
+=WO-27
+EOrange/opal and/or crystal
+D0
+S2f5bb3
+=WO-166
+ESky Blue/Lt. Amber/Opal and Crystal
+D0
+S99b28b
+=VM831
+ERed, Yellow Victorian Mottle
+Ta
+S1c86fc
+=VM14
+EPink, Yellow, White Victorian Mottle
+D5a
+Ta
+S6899c1
+=7-LL
+EGold Pink/Crystal
+D0
+S633fce
+=243-LL
+EDk. Blue Swirled with Yellow Green/ Crystal
+D0
+S354810
+=13-LL
+ECrystal Swirled with Copper Red and Crystal
+D0
+S679ed6
+=RIP319
+EDk. Yellow Green
+S44b42e
+=78-D
+EMed. amber/green/opal and/or crystal
+S6cf9aa
+=600
+EDark Cobalt Blue
+W16
+Sdae8d9
+=563-D
+ESteel blue w/opal and/or crystal
+D0
+Sd8a8ad
+=445-L
+EYellow Green/Red/Light Opal Base
+S284d97
+=325-D
+ELt. amber/opal and/or crystal
+Saae5f2
+=266-L
+ELt. mauve swirled with lt. opal
+Sb5b7e4
+=237-D
+ECobalt Blue/ Dk. Purple. Dense Opal Base
+S7b4f5b
+=207
+EYellow cast opal in smooth or Aqua-Lite
+S4c8e7
+=178-D
+EMed. Amber / Sky Blue / Dense Opal Base
+D0
+S8dc4ac
+=140-D
+EMed. purple/opal and/or crystal
+Sbcbeeb
+=1-D
+ESilver yellow / with opal and/ or crystal base
+S37e9f3
+=703LL
+EBlue with Streaks of Purple
+S900302
+=FLOR01
+EClear
+Sd5cdcb
+=EM47
+EMedium Amber
+S1cefe
+=EM161
+ESalem green
+S6aa752
+=318CC
+EMedium Olive
+S65c677
+=Black
+EDense Black
+S0
+=418-XX
+EDark Mauve
+Sab8fcd
+=329
+EDk. Cobalt Blue
+S5d0023
+=25
+ETurquoise Opalume, Green
+W16
+Se1ee01
+=18-DD
+EDark Red
+S70082
+=0002
+EPale Amber (one shade darker than 0001)
+Sd5fefe
+=90-01
+EClear
+Sf1f2f9
+=WO-522
+EOpal and Crystal Swirled with Lt. Champagne
+Sc6e2fc
+=WO-251
+EAqua green/purple/opal/or crystal
+Sb3b25c
+=WO-140
+EMed. purple/opal and/or crystal
+D0
+Sd4c0e0
+=VM61
+EGreen, Brown, White Victorian Mottle
+D5a
+Ta
+S406b62
+=VM101
+EGreen, White Victorian Mottle
+D5a
+Ta
+S549b69
+=58-LL
+EMed. Amber with Crystal
+S95e2fd
+=223-LL
+ELight Amber/Dark Brown Streaky
+D0
+S3f7cb2
+=118-LLG
+ECobalt Blue/Crystal / Granite
+Sf2744f
+=XX-210
+ELt. White Cast Opal
+Seaf2fb
+=71-L
+EDk. brown/green/opal and/or crystal
+D0
+S5f636a
+=59-D
+EDk. brown/green/opal and/or crystal
+S6a394
+=557-L
+EEqual Amounts of Med. Gray and Lt. Opal
+S878b92
+=441-D
+EDark Purple/Dark Blue/Med. Green/with Dense Opal Base
+S776f81
+=315-L
+EMedium Amber with Light Opal Base
+Sb1d9f0
+=257-L
+EMed. Purple/ Sky Blue/ Lt. Amber/ Light Opal Base
+D0
+Sccbd92
+=23-L
+ELt. Green  / Opal Swirled w/ Copper Red/Light Opal Base
+S38865b
+=204
+EPink cast opal in smooth or Aqua-Lite
+Sc8d8fc
+=166-D
+ESky Blue / Lt. Amber / Dense Opal Base
+S6b8c76
+=14-D
+EGold pink/silver/opal or crystal
+S616d93
+=WO-708
+ELt. Green with Streaks of Dk. Green and White Opal
+D0
+S2e8b25
+=MOSS364
+EMed. Teal Blue/Green
+Sa0b210
+=FLEM218
+ELt. Violet
+Sda93bc
+=EM343
+EGreen
+S1c22d
+=EM01
+EClear
+S8c9594
+=195CC
+EArmy Yellow Green
+S73d4bc
+=78-XCXX
+ELt. Yellow Green (shade Darker than 78)
+Sa2e5d6
+=370
+EDark Copper Blue
+S4e2d27
+=319
+EDk. Yellow Green
+S54b4b2
+=235
+ELight Turquoise
+Sbbbd7a
+=161
+ESalem Green
+S97c2b9
+=0001-X
+ELight Amber
+Sedfbfe
+=WO-87
+ESky blue/opal and/or crystal
+Sd7d37d
+=WO-5
+EGold pink/aqua/lt. opal/crystal
+S979378
+=WO-245
+EMed Amber/True Green and/or crystal or opal
+D0
+S38725b
+=WO-12
+ECopper Red Swirled with Opal and Crystal
+S4f4391
+=VM51
+EWhite Victorian Mottle
+Ta
+Sdfe0e2
+=SX25
+EAqua Blue/Green
+Sbecf21
+=51-LL
+EWhite Cast Opal very Translucent
+Sfefefe
+=2-LL
+EYellow with opal and/or crystal
+S45ebee
+=11-LL
+ERed/Amber
+S105ae1
+=F-27-L
+ESel. Orange/Light Opal Base, Flemish
+S719bf2
+=7-D
+EGold pink/opal or crystal base
+Sab86e3
+=58-D
+EMed. Amber/opal and/or crystal
+S6be0f5
+=522-D
+EOpal swirled with Lt. Champagne
+Sc0e1fd
+=437-D
+EDk. blue/lt. amber/med. purple/opal and/or crystal
+D0
+Sa492a9
+=2M-926
+EWhite Streaked with Cranberry Pink and Copper Blue
+Sb7afc2
+=251-L
+EAqua Green/ Purple/ Light Opal Base
+S857c76
+=217
+EMed. Purple/ Yellow Green/ Opal
+D0
+S5c9acc
+=200
+EBone cast opal in smooth or Aqua-Lite
+Sa8ded3
+=163-D
+EMed. purple/med. green/opal and/or crystal
+S7ac576
+=12-L
+ECopper red swirl with lt. opal
+S6c5e9f
+=WO-705
+EViolet with Streaks of Medium Amber and White Opal
+S7575be
+=H310
+EDark Amber (Shade darker than 49)
+Sb5cb9
+=FC49
+EDark Amber
+S109fdb
+=EM318
+EEssex green
+S1b4204
+=EM342
+EBristol Blue, Dark Copper Blue
+Ta
+Sa1350e
+=134CC
+EMedium Purple
+S8484be
+=6
+ETurquoise Blue, Purple, Opal
+W2
+D5a
+S8f61d4
+=350
+EDark Blue
+S9e8101
+=311-A
+EDk. Amber Brown
+S16236e
+=221
+EDk. Copper Blue
+S953e29
+=156-S
+ELight Peach Bronze
+Ta
+S95c1be
+=90-13
+ERed
+S3d2cc2
+=WO-71
+EDk. Brown/Green/Lt. Blue/ Opal and Crystal
+S80918e
+=WO-4
+EGold pink /green/lt. opal/crystal
+S7b90be
+=WO-217
+EMed. Purple/Yellow Green/Opal and Crystal
+S3b9ad1
+=WO-112
+EDk. Green/ Dk. Amber/ Opal and Crystal
+S316939
+=VM43
+EBurgundy/White Victorian Mottle
+W28
+D5a
+T1c
+S4f357a
+=SX158
+EMed. Copper Blue
+Se1d349
+=42-LL
+EBurgundy and Medium Amber
+D0
+S21349d
+=197-NLL
+EDark Blue/Yellow Green and Light Opal
+D0
+Sd9a51f
+=SV189
+ELt. Cobalt Blue
+Sfd9a52
+=91-D
+EDense opal w/streaks of lt. purple
+Sbfb8cc
+=67-D
+EDk. purple/opal and/or crystal base
+D0
+S80698a
+=569-L
+EChampagne/opal and/or crystal
+Sd4eceb
+=51-DDXXM
+EOpal swirled with crystal
+Sf2eae0
+=43-L
+EBurgundy and Opal
+D0
+S4e367a
+=28-D
+EOrange with Dense Opal Base
+D0
+S4974e7
+=250-D
+EAqua green/opal and/or crystal
+Sb5d561
+=215AQ
+EPastel Green Cast Opal Aqualite
+S9cd6a4
+=197-N
+EDr. Blue / Med. Green/ Lt. Opal Base
+D0
+Sb09607
+=152-D
+EYellow Green/ Dark Green/ Dense Opal Base
+S46afa3
+=118-D
+ELight blue/opal and/or crystal
+Sfd8e3f
+=WO-702
+EMed. Green with Streaks of Dk. Blue and White Opal
+D0
+S707a19
+=H01
+EClear Hammered
+Se0d7d9
+=EMx6
+ECranberry pink
+S4c01b9
+=EM276
+EApricot beige
+S8da3b4
+=XX-316CC
+EMedium Green
+S33c802
+=XX-418
+ELt. Mauve
+Sab8fcd
+=555
+ELight Gray
+Sc7c0c1
+=343
+EMedium Green
+Sc201
+=31
+EYellow
+S19e6be
+=218
+ELight Violet
+Se7b6c5
+=134
+EMed. Purple
+S7869ad
+=90-10
+EOrange / Red
+S3030f3
+=WO-613
+EWilliamsburg blue/opal and/or crystal
+Sf0e7c6
+=WO-35
+EGold pink/silver/lt. blue/and opal or crystal base
+D0
+S7a9dc7
+=WO-196
+ECobalt blue, med. purple/med. green/crystal and opal
+S9c8168
+=WO-051
+EOpal swirled with crystal
+Sf0f9f2
+=VM25
+ERed/Orange/Green/White Victorian Mottle
+W28
+D0
+T1c
+S534b9
+=01SX
+EClear Stream-X
+Sd9d5d2
+=27-LL
+EOrange, Opal and Crystal
+S347bf2
+=17-LL
+EWhite opal swirled with red/orange
+S3372e5
+=0001S
+ELight Amber
+Sfcfdfd
+=85-L
+EMed. Purple/Sky Blue/Light Opal Base
+D0
+Sc2b496
+=65-D
+EMed. brown/blue/opal base
+S806f63
+=567-D
+EOpal Swirled with Champagne
+Sbdd1f1
+=503-L
+ELight Opal Swirled with Dark Gray/Brown
+D0
+S88878a
+=36-D
+EOpal swirled with salmon color
+S91a6f2
+=275-D
+EDk. Purple. Yellow Green Bal. Med Blue Opal
+D0
+S9c7f3d
+=245-L
+EMed. Amber/ True Green/ Light Opal Base
+S3a7d80
+=213
+EMed. Green Cast Opal
+Scdeede
+=196-L
+EMed.  Green/ Light Opal Base
+D0
+S77674d
+=145SP
+EDark Amber / Opal
+D0
+S4797cf
+=101-D
+EDk. green/opal and/or crystal
+S158d37
+=708LL
+ELt. Green with Streaks of Dk. Green
+S78e07
+=G01
+EClear Granite
+Scbbec3
+=EM65
+EAqua
+Sc5e502
+=EM235
+ECountry Blue
+Sfdfed8
+=418CC
+ELt. Mauve
+Sd296d2
+=X
+ECrystal
+See691c
+=48
+EChristmas Green, Opal
+W16
+S2ba5e7
+=34
+EMedium Amber
+Sa7fbfe
+=299
+EVery Light Green
+Secf4f5
+=190
+EMed. Copper Blue
+Sd5ce05
+=1146
+EMed. Yellow Green
+Sef0a2
+=90-07
+EGrey
+S95c2bf
+=WO-58
+EMed. Amber/opal and/or crystal
+S8bced9
+=WO-29
+EDk. Selenium Red/Opal and Crystal
+S2331d2
+=WO-178
+EMed. Amber/Sky Blue/ Opal and Crystal
+S5ea299
+=VM87
+ESky Blue, White Victorian Mottle
+D5a
+Ta
+Sc5c0b4
+=VM178
+EAmber, Sky Blue Victorian Mottle
+D5a
+Ta
+Sb0ad92
+=85-LL
+EMed. Purple/Sky Blue/Crystal
+Sc8b26c
+=25-LL
+EOrange/green/opal and/or crystal
+Sf5dd1
+=145-LL
+EDark Amber / Crystal
+S87d5fa
+=RIP40-CX
+ELt. Olive Green
+S458f8d
+=8-D
+EGold Pink/Cobalt Blue Dense Opal Base
+Sa2737f
+=61-L
+EGreen/streaks of brown, opal & crystal
+D0
+S446944
+=565-D
+EGray Opal Swirled with Dark Gray
+D0
+Se5d1c7
+=502-D
+EOpal swirled with med. grey/brown
+D0
+S81a69d
+=330-L
+ELight Opal with Streaks of Yellow, Green and Blue
+S74942b
+=27-L
+EOrange/opal and/or crystal
+S739df2
+=238-L
+EDk. purple/dk. blue/opal and/or crystal
+D0
+Scb5a7d
+=210
+EMed. White Cast Opal
+Sebf6fc
+=178-LR
+EMedium amber/sky blue/opal and/or crystal
+Saacbc3
+=142-L
+ELight Opal with Streaks of Lt. Purple
+Sb7bcd4
+=10-D
+EOrange/Lt. Green/Opal
+S303f93
+=705LL
+EViolet with Streaks of Medium Amber
+S462857
+=FLOR118
+ELT. Blue Gray
+Sf7dc98
+=EM555
+ELondon fog
+S6f868f
+=EM195
+EPale Yellow Green
+Sb5fefd
+=322CC
+EPale Blue/Green
+Sa9cca1
+=X-118
+ELt. Blue Grey
+Se9c7a3
+=45
+EMedium Amber
+S3181bc
+=334
+ETrue Green
+S36c301
+=276
+EMed. Bronze/Peach
+S95c2bf
+=18-LL
+ELt. Orange
+S113dfd
+=01AQ
+EClear Aqua Lite
+Sbebebe
+=90-04
+EBlue
+Se9c7a3
+=WO-567
+EOpal swirled with champagne
+D0
+Sa9d0fc
+=WO-264
+EMed. purple/yellow green/sky blue/opal and/or crystal
+D0
+S69a967
+=WO-163
+EMed. purple/med. green/opal and/or crystal
+S65aaa3
+=VM7
+EPink, White Victorian Mottle
+D5a
+Ta
+Sbca7d5
+=VM118
+EBlue, White Victorian Mottle
+D5a
+Ta
+Sb77e5c
+=67-LL
+EDk. purple/opal and/or crystal base
+D0
+Sb793dc
+=238-NLL
+EDk. purple/dk. blue/yellow green/opal and/or crystal
+S4c50b2
+=12-LL
+ECopper Red Swirled with Crystal
+D0
+S2949bb
+=RIP01
+EClear Ripple
+Sdfd9d7
+=77-L
+ELt. Brown/Yellow Green/Light Opal Base
+D0
+S44789e
+=600-D
+EDense opal swirled with lt. grey
+D0
+Sc2bfc1
+=562-L
+EOpal w/streaks of steel blue
+Sdcc2b6
+=444-L
+ELt. blue swirled with red and lt. opal
+S4c5d73
+=317-L
+EDark Amber with Light Opal Base
+S3b81c0
+=264-L
+EMed. purple/yellow green/sky blue/opal and/or crystal
+S7aabb3
+=231
+EPale Pink
+W16
+S8fcbd2
+=206
+EDk. Red Cast Opal
+S1c278e
+=17-D
+EWhite Opal Swirled with Red Orange Dense Opal Base
+D0
+S4e8ce8
+=14-R
+EGold Pink/ Silver/ Opal / Ripple
+S7d9fea
+=WO-710
+EBurgundy with Streaks of Dk. Blue and White Opal
+Sb1bce3
+=702LL
+EMed. Green with Streaks of Dark Blue
+S3e7308
+=FLEM49
+EDark Amber
+S4ec9ee
+=EM418
+EPurple
+Sdc96e4
+=EM16
+EManchester red
+S11098c
+=235CC
+ELt. Blue Grey
+Sbcbd7a
+=78
+EEmerald Green, Purple, Opal
+W16
+D5a
+S9be4d3
+=40-CX
+ELight Olive Green
+Sa1fcfe
+=322
+EPale Blue / Green
+Sebf7cf
+=243
+EMed. Blue
+S971411
+=18-D
+EMedium Red
+S10089
+=0002-X
+ELight Amber
+S94e8fd
+=09-03
+EWhite
+Sf1f2f9
+=WO-503
+EOpal swirled with dk. grey/brown
+D0
+S586274
+=WO-250
+EAqua green/opal and/or crystal
+D0
+Sa5cc42
+=WO-14
+EGold pink/silver/opal or crystal
+Sc6c5ca
+=VM58
+EAmber, White Victorian Mottle
+D5a
+Ta
+S8eb4c9
+=SX418
+ELilac
+S987c9f
+=57-LL
+EMed. green/opal and/or crystal
+S12f371
+=2180-LL
+ELt. violet/opal and/or crystal
+Seca6a0
+=118-LL
+ELight blue/opal and/or crystal
+D0
+Scf4603
+=WO-55
+EAmber/green/opal and/or crystal
+D0
+S279ca5
+=71-D
+EDk. brown/green/opal and/or crystal
+S12b2af
+=584-D
+EPale Green Swirled with Opal
+S9fd7ca
+=55-L
+EAmber/Green with Light Opal Base
+S52b2e2
+=44-L
+EBurgundy mixed with clear
+S424b97
+=315-D
+EMed. amber and opal
+S97d9ee
+=257-D
+EMed. purple/sky blue/lt. amber/opal and/or crystal
+Sc7cac3
+=2180-L
+ELt. violet/opal and/or crystal
+Sefb8bd
+=202
+EMed. Blue Cast Opal
+Scf8f3e
+=163-L
+EMedium purple/med. green/opal and/or crystal
+D5a
+S97a6a2
+=13-L
+EOpal swirled with copper red
+D0
+Sa6aeec
+=WO-707
+ELt. Blue with Streaks of Dk. Blue and White Opal
+Scd5904
+=MOSS300
+EMed. Sky Blue
+Se6c972
+=FLEM106
+ELt. Blue Green
+Sadbe70
+=EM34
+ELight Amber
+S8dfefe
+=EM0001
+EPalest Amber
+Sc1e1d6
+=189CC
+ELight Cobalt Blue
+Sfdab81
+=65
+EMed. Aqua Blue
+Sc4c22b
+=364
+EMed. Teal Blue/Green
+Sa1b311
+=318
+EMed. Olive
+S65c677
+=234
+EMed. Turquoise
+Sbec052
+=16
+ECopper Red
+S2b23ce
+=000
+ELight amber
+Sc9fafe
+=WO-85
+EMed. purple/sky blue/opal and/or crystal base
+Sbda2b6
+=WO-441
+EDk. purple/dk. blue/med. green/opal and/or crystal
+D0
+S908586
+=WO-238
+EDk. Purple/Dk. Blue/Opal and Crystal
+S5d4251
+=WO-119
+ECobalt blue & lt. opal
+Sfb350c
+=VM51-DDXXM
+ECrystal and Opal Victorian Mottle
+W28
+D5a
+T1c
+S979b9a
+=SX218
+EBlue violet
+Se784b7
+=441-LL
+EDk. purple/dk. blue/med. green/opal and/or crystal
+S51557f
+=199-LL
+EMedium Amber/Dark Amber Brown
+D0
+S12477f
+=101-LL
+EDk. green/opal and/or crystal
+D0
+S2eea14
+=94-L
+EMed. Purple/Amber/Light Opal Base
+D0
+Sbcbfd6
+=69-L
+EStreaks of blue green/opal and/or crystal
+Sb7c373
+=57-L
+EMed. Green with Light Opal Base
+S58d9c4
+=51-L
+EWhite Cast Opal-Translucent
+Se9f1f8
+=434-L
+EDark Blue/Medium Purple with Light Opal Base
+D0
+Sa1797a
+=281-L
+ENeodymiun Purple and Opal
+D0
+Sddb6bd
+=251-D
+EAqua Green/ Purple/ Dense Opal Base
+Sb3a98b
+=217-L
+EMedium purple/yellow green/opal and/or crystal
+S8db9d1
+=2-L
+EYellow with Light Opal Base
+S22e3fd
+=155-L
+EDark purple/green and light opal and/or crystal
+S606274
+=119-L
+ECobalt Blue / Light Opal Base
+S9b442d
+=WO-704
+EMedium Green with Streaks of Brown and White Opal
+D0
+S505a47
+=H18LL
+ELt. Orange
+S2401ee
+=FC309
+ELt. Yellow Green
+S7fd5b1
+=EM310
+EDark Amber
+S3a4f3
+=EM190
+ENorth Sea Blue, Medium Copper Blue
+Ta
+S833d02
+=1146CC
+EMed. Yellow Green
+Sdefa1
+=57
+EMed. Cobalt/Mang. Blue
+Sa04e36
+=35
+ELight Purple Opalume, Light Amber
+W16
+S4aa4cb
+=310
+EDark Ambers
+S19ff0
+=220
+ECobalt Blue
+Sb00202
+=136
+EShade Darker than 134
+S5c256f
+=90-12
+EDark Blue
+Sdbb75a
+=WO-7
+EGold pink/opal or crystal base
+S816cce
+=WO-36
+EOpal swirled with salmon color
+D0
+Sa8b9d7
+=WO-2
+EYellow with opal and/or crystal
+D0
+Sff7f6
+=WO-101
+EDk. green/opal and/or crystal
+S3cb63d
+=VM27
+EOrange & Opal
+S227cf4
+=SX134
+EMed Purple
+Sb563c6
+=41-LL
+EBurgundy / clear
+W42
+D0
+T2a
+S230e64
+=197-LL
+EDk. blue/med. green/opal and/or crystal
+Se0983a
+=01SEVILLE
+EClear Seville
+Sf5ebe6
+=87-L
+ESky Blue/Light Opal Base
+Scebc54
+=66-L
+EDark Purple with Streaks of Opal
+S543c50
+=569-D
+EChampagne/opal and/or crystal
+Sd0d9fa
+=51-DDXXM-IRID
+EOpal Swirled with Crystal Iridized
+D0
+Se6dad9
+=4-L
+EGold pink /green/lt. opal/crystal
+S93d3c3
+=277-L
+EMed. Blue Opal with Streaks of Dk. Blue.
+Se8c093
+=25-L
+EOrange/ Green/ Light Opal Base
+D0
+S367cd8
+=215
+EPastel green cast opal in smooth or Aqua-Lite
+S9ad88a
+=197-L
+EDark blue/medium green/opal and/or crystal
+S97a947
+=15-L
+EGold pink/med. grey/lt. opal
+Sb395b6
+=112-L
+EDk. green/dk. amber/opal
+D0
+Sd828d
+=WO-701
+EMed. Purple with Streaks of Dk. Purple & White Opal
+S612f5b
+=G48
+EMedium Amber (shade darker than 47)
+S29a4e6
+=EMX16
+ELight Copper Red
+Sb9
+=EM241
+EWine
+Sef43a3
+=62-XCC
+EPowder Blue
+Sfdf6d1
+=XX-350
+EMed. Blue
+S8f8001
+=50
+EDusky Rose
+S9599cb
+=342
+EDk. Copper Blue
+S6c3609
+=309
+ELight Yellow / Green
+S94fed3
+=203
+EVery Light Green
+Seff7f2
+=118
+ELight Blue
+Sfad9c8
+=90-09
+EViolet
+Sd397d2
+=WO-61
+EGreen/streaks of brown, and/or crystal
+D0
+S6c7b69
+=WO-330
+ELt. opal and/or crystal w/streaks of yellow green
+S567838
+=WO-191
+EMed. green/opal and/or crystal
+S55db64
+=VM94
+EPurple, Amber, White Victorian Mottle
+D5a
+Ta
+S8c92d5
+=VM2
+EYellow, White Victorian Mottle
+D0
+Ta
+S71dfe6
+=97-LL
+EDk. Cobalt Blue/ Dk. Purple/Crystal
+S812a5b
+=264-LL
+EMed. purple/yellow green/sky blue/opal and/or crystal
+S31c26c
+=163-LL
+EMed. purple/med. green/opal and/or crystal
+S74cfc5
+=RIP6
+EGold Pink
+S413ed9
+=85-D
+EMed. Purple/Sky Blue/Dense Opal Base
+D0
+Sada4a2
+=613-L
+EWilliamsburg Glue with Light Opal Base
+D0
+Safa3a5
+=566-L
+EEqual Amounts of Lt. Gray and Lt. Opal
+S7e8692
+=503-D
+EOpal swirled with dk. grey/brown
+S7a7f7f
+=35-L
+EGold pink/silver/lt. blue/and opal or crystal base
+S3e96b1
+=272-L
+ELt. opal with streaks of lt. blue and mauve
+D0
+Sedb4a4
+=245-D
+EMed. Amber/ True Green/Dense Opal Base
+S4b898f
+=212AQ
+EPale Blue Cast Opal /Aqualite
+Sfeeeda
+=191-D
+EMed. green/opal and/or crystal
+S84d59a
+=145G-SP
+EDk. Amber / Opal / Granite
+D0
+Sf98d4
+=100-SP
+E1/2 dk. green/ 1/2 opal
+S188d1d
+=707LL
+EKt. Blue with Streaks of Dark Blue
+Sf27503
+=FLOR62X
+EPowder Blue
+Sf7de99
+=EM6
+ECranberry Pink (Cranberry)
+T0
+Sb238c
+=EM220
+ECobalt Blue
+Se50400
+=40-CXCC
+ELt. Olive Green
+S51bcac
+=X-169
+EAqua Blue
+S9eaa00
+=47
+ECarmel Opalume, Purple, Opal
+W16
+D5a
+S86c9c
+=34-L
+EAmber/ shade Darker than 34 LL
+S7bdbfc
+=287
+EMedium Olive Green
+S639982
+=189
+ELt. Cobalt Blue
+Sf7b278
+=1118
+EMedium Cobalt Blue
+S9b411e
+=90-06
+ECoral
+S7bdbfc
+=WO-57
+EMed. green/opal and/or crystal
+S4fbe81
+=WO-28
+EOrange and opal
+S208de
+=WO-17
+EWhite Opal swirled with red orange/ Opal and Crystal
+D0
+S237ae5
+=VM85
+EMedium Purple, Sky Blue & Opal Victorian Mottle
+D0
+Sb1a794
+=VM163
+EMauve Green & Opal
+S93b8e3
+=831-LL
+ERed/Yellow streaky
+S136af0
+=245-LL
+EMed Amber/True Green and/or crystal or opal
+D0
+S4a89d
+=14-LL
+EGold pink/silver/opal or crystal
+Sb193d1
+=RIP341
+EMed. Blue
+Sf68b34
+=78-L
+EMed. Amber/Green/Light Opal Base
+D0
+S54bdb1
+=609-L
+EArmy Green Opal Swirled with White Opal
+S41879b
+=563-L
+ESteel Blue with Light Opal Base
+Saa6e66
+=5-L
+EGold pink/aqua/lt. opal/crystal
+Sccd2dc
+=325-L
+ELight Amber with Light Opal Base
+D0
+S7ed3fb
+=27-D
+EOrange/opal and/or crystal
+D5a
+S55aaea
+=238-D
+EDk. purple/dk. blue/opal and/or crystal
+D0
+Sdec6ac
+=208
+EOrange cast opal in smooth or Aqua-Lite
+Sf2cfd
+=178-L
+EMed. amber/sky blue/opal and/or crystal
+S93a151
+=142-D
+EDense opal w/streaks of lt. purple
+Sc2c2d9
+=1-L
+ESilver Yellow with Light Opal Base
+S54d3f2
+=704LL
+EMed. Green with Streaks of Brown
+S87f5a
+=FLOR1146
+EMed. Yellow Green
+S1ca85d
+=EM50
+ERose
+S54107f
+=EM18D
+ERed
+S160fbf
+=320CC
+EDark Green
+S2ebd02
+=X-0001
+ELight amber
+Sdff8f3
+=418
+EMed. Mauve
+Sd396d2
+=334-XX
+ETrue Green/Shade Darker than 334
+S4d9901
+=276-S
+EMed. Bronze/Peach
+S95c2bf
+=18-L
+EOrange
+S603a7
+=01
+EClear
+Sf1f2f9
+=90-02
+EBlack
+S0
+=WO-563
+ESteel blue w/opal and/or crystal
+S903934
+=WO-257
+EMed. purple/sky blue/lt. amber/opal and/or crystal
+S8fa7b2
+=WO-152
+EYellow green/Dk. green/opal and/or crystal
+D0
+S43ec9a
+=VM67
+EPurple, White Victorian Mottle
+D5a
+Ta
+S8d689c
+=VM112
+EGreen, Dk Amber Victorian Mottle
+D5a
+Ta
+S438a74
+=59-LL
+EDk. brown/green/opal and/or crystal
+S98a51
+=238-LL
+EPurple / blue
+W42
+D5a
+T2a
+S59252d
+=119-LL
+ECobalt Blue, Crystal
+D0
+Sa85813
+=XX-230
+EPale Blue Cast Opal
+Se5cec8
+=77-D
+ELt. Brown/Yellow Green/Dense Opal Base
+S3d7290
+=59-L
+EDk. brown/green/opal and/or crystal
+S1eb19d
+=562-D
+EOpal With Streaks of Steel Blue
+D0
+Sddc3b6
+=441-L
+EDk. purple/dk. blue/med. green/opal and/or crystal
+S704f48
+=317-D
+EDark Amber with Dense Opal Base
+S4498e7
+=264-D
+EMed. purple/yellow green/sky blue/opal and/or crystal
+S889d89
+=230
+EPastel blue cast opal in smooth or Aqua-Lite
+Seed4b7
+=205
+EMint Green, Light Amber, Opal
+W16
+S98d8c4
+=166-L
+ESky blue/lt. amber/opal and/or crystal
+Sa09439
+=14-L
+EGold pink/silver/opal or crystal
+S9ca3ef
+=WO-709
+EGreen with Streaks of Amber and White Opal
+D0
+S2a5552
+=701LL
+EMed. Purple with Streaks of Dark Purple
+S3c1748
+=FLEM31
+EYellow
+S19e6bf
+=EM378
+EDark Blue
+Sf00300
+=EM134
+ELavender
+Sdf2c88
+=218CC
+ELt. Violet
+Sfba8b5
+=78-XXX
+ELt. Yellow Green  (Shade Darker than 78 XCXX)
+Sb7e0c1
+=378
+EMidnight Blue Cathedral
+S6c3d2c
+=320
+EDk. Green
+Sa9901
+=241
+EDk. Purple
+S512560
+=169
+EBright Yellow, Light Amber, Opal
+W2
+S7e9833
+=0001
+ELight Amber
+S6eb0c2
+=WO-94
+EMed. Purple/Amber/Opal and Crystal
+D0
+S8e96dc
+=WO-502
+EOpal swirled with med. grey/brown
+S77a8aa
+=WO-25
+EOrange/green/opal and/or crystal
+S982fa
+=WO-13
+EOpal swirled with copper red and/or crystal
+S2d4ae7
+=VM563
+ESteel Blue & Opal
+D0
+Sd9cbce
+=SX343
+EMedium leaf green
+S32b008
+=55-LL
+EAmber/Green/Crystal
+D0
+S47c9e3
+=217-LL
+EMed. purple/yellow green/opal and/or crystal
+S49a3d8
+=112-LL
+EDk. Green / Dk. / Amber / Crystal
+D0
+S3fba88
+=P51-DD
+EDense pink cast opal
+Sb5b9e5
+=7-L
+EGold pink/opal or crystal base
+Sb395e0
+=58-L
+EMed. Amber with Light Opal Base
+S90d6fc
+=55-D
+EAmber/green/opal and/or crystal
+S4ee1ea
+=437-L
+EDk. blue/lt. amber/med. purple/opal and/or crystal
+D0
+S9e695d
+=3-L
+EGold pink and Lt. blue opal
+Sb398c2
+=256-L
+EPastel green opal swirled with blue and red
+D0
+Sa9d7ba
+=2180-D
+ELt. violet/opal and/or crystal
+Sd3bcc4
+=201
+EDk. Green Cast Opal
+S388758
+=163-L-IR
+EMedium purple, medium green, with light density white opal iridescent
+D5a
+S8fa9aa
+=13-D
+EOpal swirled with copper red
+D0
+S8890dc
+=WO-706
+ELight Amber with Streaks of Brown and White Opal
+S174086
+=MOSS01
+EClear Moss
+Sd5ccd0
+=FLEM01
+EClear Flemish
+Sded3d7
+=EM322
+ECornwall green
+Sa0c572
+=EM40CX
+ECastle Wall, Light Olive Green
+Ta
+S117974
+=158CC
+EMedium Copper Blue
+Sc6ca35
+=62-X
+EPowder Blue
+Sfdf6d1
+=364-XX
+EDark Teal Blue Green
+S7a7400
+=311-V
+EMed. Violet
+S814071
+=234-XX
+EDk. Turquoise
+Sc4c567
+=158
+EMedium Copper Blue
+Sf0c701

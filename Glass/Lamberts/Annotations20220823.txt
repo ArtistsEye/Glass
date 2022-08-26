@@ -1,0 +1,2413 @@
+
+4
+=0075
+EStreaky Light Blue
+W24
+D5a
+T18
+Sbab098
+=V161
+EBlue on white, variegated shading
+W10
+D0
+T0
+Saf7232
+=S42
+EPale violet and opak white on clear
+W10
+D5a
+Sd9cfd4
+=S259
+EBlue on clear
+W10
+D5a
+Sfa9751
+=L374
+ELavender on Opaque on Clear
+W24
+D0
+T18
+S403742
+=L138
+EWhite Opaque on Red-Violet
+W24
+D0
+T18
+S292b4b
+=938XH
+EMedium Greyish Blue
+D0
+T4
+S594b35
+=861xx
+EBrown
+S93b9de
+=715xh
+EViolet
+S79839a
+=657
+EHolly Green
+W16
+S13e301
+=4455U
+ESelenium-yellow on clear
+S4e7ff3
+=4210OP_GN
+EOpal on Light Green
+D0
+T4
+S6da8ae
+=3775XH
+EMedium Reddish Violet
+D0
+T4
+S94667c
+=362xx
+EBrown
+T0
+Sc7d4e4
+=3485OP_BL
+EOpal on Blue
+D0
+T4
+Saa8d3b
+=3286F
+EViolet
+S743e33
+=3039XH
+EMedium Brown
+D0
+T4
+S305174
+=2820xh
+EGrey
+S64640c
+=2651xx
+EYellow-green
+S7eb6be
+=2448
+EReddish Purple
+D0
+T4
+S333275
+=2263XXRY
+ELight Green Reamy
+T4
+Scde9d9
+=2157XX
+ELight Bluish Green
+D0
+T4
+Saec668
+=1xxclearns
+EClear, normal seedy
+T0
+Se2dee0
+=1910
+EMedium Dark Brown
+D0
+T4
+Se1739
+=1735
+EDark Bluish Purple
+D0
+T4
+S55264a
+=1489XX
+EPale Greyish Blue
+D0
+T4
+Sd9c0aa
+=1403
+EDark Bluish Green
+D0
+T4
+S202d01
+=1298F
+EBlue
+S6f7017
+=1201xx
+EBlue
+Sd69a86
+=1064Ustormy
+EOpal on clear stormy
+Sbab8bb
+=1006U
+EBlue on clear
+S850823
+=1001S
+ERed on Clear Stripe
+D0
+T4
+S486bed
+=0060
+EStreaky Medium Sky Blue
+W24
+D5a
+T18
+Sc29426
+=V158
+ERed on green, variegated shading
+W10
+D0
+T0
+S313aad
+=S4
+ELemon-yellow and opak white on clear
+W10
+D5a
+S4bdac8
+=S247
+EGreen and yellow and violet on brown
+W10
+S7cc8c9
+=L351
+EOpaque on Yellow Green
+W24
+D0
+T18
+S1d7b57
+=G166
+EOpaque on Grey Graduated
+W24
+D5a
+T18
+Safaba7
+=914XH
+EMedium Dark Blue
+D0
+T4
+Sda5731
+=84XHRY
+EDark Amber Reamy
+T4
+S72ca
+=711XXC
+ELight Rose Crackle
+T4
+S9b96c1
+=6077
+ENew Antique Brown
+T4
+S92aec7
+=4430BL_Y
+EBlue on Yellow
+D0
+T4
+S7f0e12
+=4180
+ENew Antique Blue
+D0
+T4
+Sd4c2b0
+=3765
+EDark Bluish Purple
+D0
+T4
+S3a001d
+=3614xx
+EYellow-green
+S6cc3a7
+=3475OP_BN
+EOpal on Brown
+D0
+T4
+S344e7d
+=3267
+EDark Greenish Blue
+D0
+T4
+S595c00
+=3023
+EMedium Brown
+D0
+T4
+S91544
+=2716F
+EYellow-green
+S628cac
+=2635xx
+EYellow-green
+T0
+Sb0d2d7
+=2427xx
+EBlue-violet
+Scf84b3
+=2251xx
+EYellow-green
+T0
+S96beb4
+=2132xx
+EGrey
+Sa2b397
+=1xxclear
+EClear, no seeds
+T0
+Se8e9e8
+=1854
+EDark Grey-Blue
+D0
+T4
+S453340
+=1707
+EReddish Purple
+D0
+T4
+S5b3f75
+=1476XH
+EMedium Dark Blue
+D0
+T4
+Scb6e42
+=1388F
+EBlue
+S5b2301
+=1290
+EMedium Dark Blue
+D0
+T4
+S9b5100
+=1183
+EDark Bluish Green
+D0
+T4
+S253b00
+=1064OP_CLCR
+EWhite on Clear Crackle
+T4
+S9ba8b0
+=1006BL_CLC
+EMedium Blue on Clear
+D0
+T4
+Sd63827
+=1001R_CLD
+EDark Red on Clear
+D0
+T4
+S59
+=0045
+EStreaky Light Brown
+W24
+D5a
+T18
+S5c9abf
+=S622
+EGoldpink, blue and yellow on clear
+W10
+Sad6a79
+=S36
+EGreen-opal on clear
+W10
+D5a
+S9debb8
+=S243
+ESpecial-yellow and blue on clear
+W10
+D5a
+Sa89a73
+=L335
+EWhite opaque on Grey
+W24
+D0
+T18
+S52606c
+=G159
+ERed on yellow, graduated shading
+W10
+D5a
+T0
+S1441db
+=9084
+ENew Antique Pink
+T4
+Sbecbdf
+=82XX
+EMedium Dark Amber
+D0
+T4
+S55b4
+=708xx
+EViolet
+Sbab5ce
+=5284
+ENew Antique Green
+T4
+Safcab5
+=4413OP_GY
+EOpal on Grey
+D0
+T4
+S8c9193
+=4119F
+EGrey
+S575c77
+=371xx
+EGrey
+Sa9afb1
+=3604xx
+ELight Yellowish Green
+D0
+T4
+S71e7d4
+=3431OP_GY
+EOpal on Grey
+D0
+T4
+Saaaba9
+=324XX
+EVery Pale Green
+D0
+T4
+Sb2ebd3
+=3002
+EAmber Brown
+D0
+T4
+S24683
+=2698XH
+EMedium Amber
+D0
+T4
+S77bb
+=2607F
+EYellow
+T0
+S14c83
+=2408xh
+EBlue-violet
+S994269
+=2235xx
+EGreen
+S9aa142
+=2103F
+EYellow-green
+S1dc759
+=1xx-crackled
+EClear, Crackled
+T0
+Se2e3e3
+=1822XX
+EPale Amethyst
+D0
+T4
+Sc3cae5
+=1565xx
+EGrey
+S958f8c
+=1462xx
+EBlue
+Se4c44d
+=1347
+EMedium Dark Blue
+D0
+T4
+S913a00
+=1266F
+EBlue
+S664302
+=1167
+EBluish Green
+D0
+T4
+S64af00
+=1047U
+EYellow-green on clear
+Sdb10e
+=1004R_GNSH
+ERed on Green Shaded
+D0
+T4
+S172379
+=1001R_CLB
+EMedium-Light Red on Clear
+D0
+T4
+S1127ba
+=0115
+EStreaky Medium Blue Tint
+W24
+D5a
+T18
+Sa8968f
+=0030
+EStreaky Medium-Dark Grey
+W24
+D0
+T18
+S3f4234
+=S57
+ESpecial-yellow and opak on clear
+W10
+S47a7ac
+=S31
+EGoldpink and blue on clear
+W10
+D5a
+Sf59392
+=S198
+EBlue-opak and opak white on clear
+W10
+D5a
+Sd58566
+=L332
+EWhite opaque on Bluish Green
+W24
+D0
+T18
+S697a3e
+=989xh
+EBlue
+T0
+Sc79902
+=9055
+ENew Antique Amethyst
+T4
+S978ab9
+=74XXC
+EMedium Amber Cracle
+T4
+S295e6
+=687xx
+EBrown
+S94b2d7
+=471xx
+EGrey
+S8aa0b1
+=4333OP_GN
+EOpal on Seagreen
+D0
+T4
+S607635
+=4067SR_SL
+ESelenium Red On Clear
+D0
+Scb
+=3709xx
+EBlue-violet
+Sb47384
+=3584SO_SL
+ESelenium Orange on Clear
+D0
+S71fc
+=3406V_CL
+EViolet on Clear
+D0
+T4
+S64425d
+=3219xx
+EBlue
+T0
+Sc2a575
+=2920
+EMedium Grey
+D0
+T4
+S3d453b
+=2681
+EMedium Olive Green
+D0
+T4
+S15758
+=2485
+EMedium Dark Purple
+D0
+T4
+S4d224e
+=2396O_CL
+EWarm Orange on Clear
+D0
+T4
+S5cef
+=2214F
+EYellow-green
+S99bc80
+=2078F
+EYellow
+S476b88
+=1975xx
+EBrown
+T0
+S7aa0cb
+=1814
+EDark Greyish Purple
+D0
+T4
+S211d23
+=1527xx
+EGrey
+T0
+Sd2d2d2
+=1447XX
+EOff-White with Bluish Cast
+D0
+T4
+Se9e4e1
+=1342XX
+EMedium Light Greyish Blue
+D0
+T4
+S775d3d
+=1254F
+EBlue
+T0
+S743602
+=1141
+EOlive Green Transparent
+W3
+S109038
+=1042U
+EGold-pink on clear
+Sa071e7
+=1003R_YSH
+ERed on Yellow Shaded
+D0
+T4
+S1f32d1
+=0100
+EBlack Opal
+W10
+S0
+=0015
+EStreaky Light Olive-Amber
+W24
+D5a
+T18
+S379fd1
+=S54
+ERed and opak white on clear
+W10
+S5869a1
+=S282
+EGrey-violet and opak white on clear
+W10
+D5a
+S677477
+=S17
+EOpak white on clear
+W10
+D5a
+Se3ebe1
+=L321
+EBlack On White on Clear
+W24
+D0
+T18
+S60102
+=975xh
+EBlue
+Sb88b22
+=899F
+EYellow
+T0
+S9213f
+=73XX
+EMedium Amber
+D0
+T4
+S19ce4
+=67XXRY
+ELight Amber Reamy
+T4
+Sa4e3f7
+=463xx
+EGrey
+Sadb8ac
+=4278OP_PU
+EOpal on Purple
+D0
+T4
+S454d7c
+=3866XH
+EMedium Grey
+D0
+T4
+S231e20
+=3662XH
+EMedium Bluish Green
+D0
+T4
+S6b8e00
+=3540OP_AM
+EOpal on Amber
+D0
+T4
+S7dd1e0
+=3311xx
+EViolet
+Sd78088
+=320XXC
+EPale Green Crackle
+T4
+Sc0e4d0
+=2886XX
+EMedium Grey
+D0
+T4
+S636d67
+=2662xx
+EYellow
+S5cbcdc
+=2475XH
+EMedium Reddish Purple
+D0
+T4
+S5b5996
+=2360SR
+ESelenium Red
+D0
+T4
+Se009a
+=2190XH
+EMedium Green
+D0
+T4
+S8fa400
+=2058
+EReddish Brown
+D0
+T4
+S1a2c6d
+=1960XX
+EOff-White with Brown
+D0
+T4
+Sa6c4db
+=1778xx
+EViolet
+S6268a9
+=1504XXC
+EPale Grey Crackle
+T4
+Sd4d5d3
+=1436
+EDark Purple Blue
+D0
+T4
+S370609
+=1316
+EMedium Dark Blue
+D0
+T4
+S3b2100
+=1212XXC
+EMedium Blue Crackle
+T4
+Sde9771
+=1076
+ESoft Gray, Opal
+W16
+Sd5baac
+=1042GP_CLCR
+EGoldpink on Clear Crackle
+T4
+S946ce9
+=1002R_BLSH
+ERed on Blue Shaded
+D0
+T4
+S4326c0
+=0085
+EStreaky Light Green
+W24
+D5a
+T18
+S509568
+=V191
+EOpaque white on amber, variegated shading
+W10
+D0
+T0
+S51d3f1
+=S45
+ERed and opak white on clear
+W10
+D5a
+S1c3a87
+=S269
+ERed and blue-opak on green
+W10
+S674c2b
+=S12
+ELemon-yellow and opak white on clear
+W10
+D5a
+S87c7cc
+=L236
+EWhite opaque on Lime Green
+W24
+D0
+T18
+S414d45
+=949F
+EBlue
+T0
+S391202
+=873xx
+EBrown
+S9ab6e9
+=7285
+ENew Antique Pale Amber
+T4
+Sa7ceda
+=661xx
+EViolet
+S7f90ba
+=4522OP_GN
+EOpal on Green
+D0
+T4
+S4d8700
+=4245F
+ESelenium-orange
+S268cf
+=3800XX
+EMedium Pale Grey
+D0
+T4
+Sc7cccb
+=3650
+EDark Yellow Green
+D0
+T4
+S187d6c
+=3512BL_CL
+ETurquoise on Clear
+D0
+T4
+S7b7b00
+=3302xh
+EBlue
+S86822e
+=3064xx
+EBrown
+S6490c8
+=2829xh
+EGrey
+T0
+S525b60
+=2657xx
+EYellow-green
+T0
+Sc9e1e4
+=2460
+EDark Bluish Purple
+D0
+T4
+S250229
+=2340U
+ESelenium-yellow on clear
+S41bef1
+=216xx
+EYellow-green
+T0
+Sbbe0e1
+=200xx
+EYellow-green
+T0
+Sa8d9dc
+=193xx
+EYellow-green
+T0
+Sc4e2e6
+=1762xx
+EViolet
+S8086b2
+=1491XXRY
+ELight Blue Reamy
+T4
+Sf2d88b
+=1410xx
+EBlue
+Sd2ab52
+=1303
+EDark Cobalt Blue
+D0
+T4
+Sae3126
+=1207
+EFern Green, Double-rolled
+W2
+T0
+S4fcab0
+=1066U
+ESilver-yellow on clear
+S2796c3
+=1033U
+EBlue on clear
+Sc6353b
+=1001Ulight
+ERed on clear light
+S1de
+=0070
+EStreaky Medium Blue
+W24
+D5a
+T18
+Sd38f17
+=V160
+ERed on clear, variegated shading
+W10
+D0
+T0
+S4d50bc
+=S419
+EYellow and green on clear
+W10
+S32cca0
+=S258
+EBlue on turquoise
+W10
+Sfb8926
+=L358
+EOpaque on Violet
+W24
+D0
+T18
+S271637
+=G64
+EOpaque on Clear Graduated
+W24
+D5a
+T18
+Sc5c3c3
+=926xh
+EBlue
+Sbe807c
+=85XX
+EMedium Dark Amber
+D0
+T4
+S59b6
+=714xx
+EViolet
+S9180be
+=633XX
+EMedium Flesh
+D0
+T4
+S728fb2
+=443xx
+EGrey
+T0
+Sbdb9af
+=4205U
+EOpal on grey
+S9d9387
+=3767
+EMedium Bluish Violet
+D0
+T4
+S5e353c
+=3620F
+EGreen
+S437718
+=3481OP_RO
+EOpal on Rose
+D0
+T4
+Sb1cbe4
+=3275XX
+EMedium Light Blue
+D0
+T4
+Sbb7b00
+=3028XX
+EMedium Brown
+D0
+T4
+S4386bb
+=2807xx
+EGrey
+Sa69daa
+=2651
+EMedium Green
+D0
+T4
+S84f58
+=2446XX
+ELight Reddish Brown
+D0
+T4
+S3d5894
+=2260XX
+ELight Bluish Green
+D0
+T4
+S90c248
+=2149xx
+EYellow-green
+T0
+Sc2e1e3
+=1xxclearms
+EClear, medium seedy
+T0
+Se2e1e2
+=1904xx
+EBrown
+T0
+S81a3bd
+=173
+EBrownish Amber
+D0
+T4
+S4973
+=1488F
+EBlue
+Sa23040
+=1398XH
+EMedium Dark Blue
+D0
+T4
+S7c6f00
+=1295xx
+EBlue
+Sbfa776
+=1196
+EMedium Blue Green
+D0
+T4
+S526b00
+=1064U
+EOpal on clear
+S9e9c99
+=1006S
+EBlue on Clear Stripe
+D0
+T4
+Sfe5f38
+=1001R_CLSH
+ERed on Clear Shaded
+D0
+T4
+S3429c5
+=0055
+EStreaky Light Green
+W24
+D5a
+T18
+S3cb777
+=V157
+ERed on blue, variegated shading
+W10
+D0
+T0
+S4d3e81
+=S39
+ESelenium-orange on clear
+W10
+D5a
+S58dffd
+=S245
+ESilver-yellow and violet on amber
+W10
+S1fbee4
+=L349
+EWhite opaque on Blue
+W24
+D0
+T18
+S5c3700
+=G161
+EBlue on white, graduated shading
+W10
+D5a
+T0
+S9a5421
+=913F
+EBlue
+S980c25
+=842xx
+EBrown
+Sb3c1dd
+=711xx
+EPurple
+T0
+Sb8b0d2
+=575xh
+EGrey
+T0
+S636a5e
+=441xx
+EGrey
+T0
+Sa1a89d
+=4132F
+EBrown
+Sf44b1
+=3749F
+EBlue-violet
+S6b347a
+=3611
+EMedium Dark Green
+D0
+T4
+S3b6535
+=3464OP_BN
+EOpal on Brown
+D0
+T4
+S939bb7
+=3261
+EDark Blue Green
+D0
+T4
+S406900
+=3017xx
+EYellow
+T0
+Scddbe7
+=270xh
+EYellow
+T0
+S17fb2
+=2621xx
+EYellow-green
+T0
+Sd8e1e6
+=2420F
+EViolet
+S221e68
+=2247F
+EYellow-green
+S24327
+=2130xx
+EYellow-green
+T0
+Sc2dcd4
+=1xx-reamy
+EClear, Reamy
+T0
+Se8e7e5
+=1845XH
+EMedium Violet
+D0
+T4
+S835978
+=1695xx
+EGrey
+S9ea1ab
+=1472XXRY
+EPale Greyish Blue Reamy
+T4
+Sdecec1
+=1381xx
+EBlue
+Seb9562
+=1274
+EDark Grey-Blue
+D0
+T4
+S4c3114
+=1179
+EGreyish Green
+D0
+T4
+S527c56
+=1058U
+ELemon-yellow on clear
+S24c3cd
+=1006BL_CLB
+EMedium-Light Blue on Clear
+D0
+T4
+Sf45645
+=1001R_CLCR
+ERed on Clear Crackle
+T4
+S3349b8
+=0125
+EOrange Opal
+W10
+S175dc
+=0040
+EStreaky Brown on Clear
+W24
+D5a
+T18
+S27588c
+=S61
+EOpal white on clear
+W10
+Secf4ef
+=S34
+EGoldpink and opak white on clear
+W10
+D5a
+Saea6df
+=S242
+ESelenium-red on clear
+W10
+D5a
+S2b97fc
+=L334
+EWhite opaque on Amber
+W24
+D0
+T18
+S64b3cc
+=G158
+ERed on green, graduated shading
+W10
+D5a
+T0
+S234fc2
+=906XX
+EOff-White with Bluish
+D0
+T4
+Secdccc
+=818xx
+EBrown
+T0
+S4878a2
+=7080
+ENew Antique Pale Amber
+T4
+S82c0d6
+=507xx
+EGrey
+S95ae99
+=43xx
+EAmber
+T0
+Saae4f3
+=40XXC
+EPale Amber Crackle
+T4
+Sb6e5f1
+=3714F
+EBlue-violet
+T0
+S1a010c
+=35xx
+EAmber
+T0
+Sd0eef4
+=340xx
+EGreen
+T0
+Sc0deb3
+=3245XX
+EPale Lavender
+D0
+T4
+S786262
+=3001
+EMedium Brown
+D0
+T4
+S42667
+=2694
+EMedium Olive Green
+D0
+T4
+S278799
+=2606
+EMedium Olive-Amber
+D0
+T4
+S97797
+=2408
+EDark Bluish Violet
+D0
+T4
+S531e2c
+=2233
+EMedium Dark Green
+D0
+T4
+S94e24
+=2103
+ESpring Green
+D0
+T4
+S1ae62
+=1998XX
+EMedium Light Flesh
+D0
+T4
+S7ba2cc
+=1821F
+EViolet
+S553a95
+=1557XX
+EVery Light Grey
+D0
+T4
+S949da6
+=1454xh
+EBlue
+Sb48457
+=1346xh
+EBlue
+Sd35337
+=1265
+EMedium Dark Blue
+D0
+T4
+S644900
+=1154xx
+EYellow-green
+T0
+Sbcd4cc
+=1047GN_CL
+EGreen on Clear
+D0
+T4
+S6e00
+=1004R_GN
+ERed on Green
+D0
+T4
+S93
+=1001R_CLA
+EPale Red on Clear
+D0
+T4
+S2942bd
+=0110
+EStreaky Medium-Dark Blue
+W24
+D5a
+T18
+Scd4b00
+=0025
+ETangerine Orange
+W10
+S3082d3
+=S56
+ESelenium-orange and opak on clear
+W10
+S2f62c2
+=S300
+EGoldpink on clear
+W10
+D5a
+Sfcdafd
+=S19
+EBlue-opak and selenium-red on clear
+W10
+D5a
+Sa7c3ce
+=L331
+EWhite opaque on Pale Lilac
+W24
+D0
+T18
+S6c6f7d
+=980XX
+EMedium Light Blue
+D0
+T4
+Se8a400
+=902xx
+EBlue
+Scac2b2
+=74xx
+EAmber
+S4193d6
+=683xx
+EPurple
+T0
+S111d58
+=4664FU_CL
+EFuchsia on Clear
+D0
+T4
+Sb06ab5
+=4320SO_CL
+EOpal Orange on Clear
+D0
+S2c6fc0
+=4007OP_FL
+EOpal on Flesh
+D0
+T4
+S9eb6cf
+=3666F
+EGreen
+S2e8303
+=3560OP_BL
+EOpal on Light Blue
+D0
+T4
+Safa7a0
+=33xx
+EAmber
+T0
+Sdceff3
+=3213
+EMedium Dark Blue
+D0
+T4
+S7f5b00
+=2912XHRY
+EDark Grey Reamy
+D0
+T4
+S31332e
+=267XX
+EPale Bluish Green
+D0
+T4
+Scfd9c1
+=2484
+EMedium Dark Purple
+D0
+T4
+S2a0c48
+=2394OP_GY
+EOpal on Greenish Grey
+D0
+T4
+S465351
+=2214
+EGreyish Green
+D0
+T4
+S4c6b46
+=2067F
+EBrown
+S739a0
+=1973xx
+EYellow
+T0
+Sc1dbe9
+=1811
+EDark Reddish Purple
+D0
+T4
+S11184e
+=1526xx
+EGrey
+Sc9c2c5
+=1443F
+EBlue
+T0
+S5d1300
+=1323XH
+EMedium Dark Blue
+D0
+T4
+Sa87000
+=1234
+EViolet Striker
+W2
+S61336b
+=1128
+EDeep Royal Purple Transparent
+W3
+Seb4c43
+=1042GP_CLS
+EGoldpink on Clear Special Dark
+D0
+T4
+S7545da
+=1003R_Y
+ERed on Yellow
+D0
+T4
+S6b
+=0095
+EStreaky Light Violet
+W24
+D5a
+T18
+S827e8c
+=0010
+EStreaky Rich Olive-Amber
+W24
+D5a
+T18
+S374bc
+=S48
+EGoldpink and opak white on clear
+W10
+D5a
+Sbab7da
+=S277
+ESelenium-red and opak white on clear
+W10
+D5a
+S317e9c
+=S152
+EGreen-grey and opak white on clear
+W10
+Sb2cac6
+=L315
+EPink-Lavender on opaque 
+W24
+D0
+T18
+S767083
+=959XH
+EMedium Light Blue
+D0
+T4
+S927519
+=888xx
+EYellow
+T0
+S56aad0
+=739xx
+EViolet
+S99a0b4
+=67XX
+EMedium Light Amber
+D0
+T4
+S73d0f3
+=45XX
+EMedium Pale Amber
+D0
+T4
+S8addf7
+=4277OP_BL
+EOpal on Blue
+D0
+T4
+Sb44c2d
+=381xx
+EGrey
+Sb5aa97
+=3660F
+EGreen
+T0
+S18501
+=351xx
+EBrown
+T0
+Sc2d2e1
+=3307XXC
+ETurquoise Crackle
+T4
+Sd3cb36
+=320xx
+EGreen
+Safceb0
+=2854xx
+EGrey
+S6d6f78
+=2661XX
+EPale Yellowish Green
+D0
+T4
+S83d3de
+=2471XH
+EMedium Brownish Pink
+D0
+T4
+S5261a2
+=2360F
+ESelenium-red
+S1300ab
+=2182XX
+EYellowish Green
+D0
+T4
+S5cc8a4
+=2028XX
+EMedium Light Beige
+D0
+T4
+S6e9eb9
+=1945xx
+EBrown
+S4c99c8
+=1768
+EPinkish Brown
+D0
+T4
+S415396
+=1501xx
+EGrey
+Sbbc1c4
+=1432F
+EBlue
+T0
+S5e3501
+=1312
+EGreenish Blue
+D0
+T4
+S434100
+=1212XX
+EMedium Light Blue
+D0
+T4
+Sd28223
+=1070
+ENew Antique Grey-Yellow
+T4
+S85adb3
+=1041GN_CL
+ESpring Green on Clear
+D0
+T4
+S4ae0cc
+=1002R_BL
+ERed on Blue
+D0
+T4
+S5006c
+=0080
+EStreaky Medium Green
+W24
+D5a
+T18
+S37971c
+=V166
+EOpaque white on grey, variegated shading
+W10
+D0
+T0
+S969a9c
+=S44
+EGrey and opak white on clear
+W10
+D5a
+Sb6ceb5
+=S26
+ESelenium-red, selenium-orange and selenium-yellow on clear
+W10
+D5a
+S70dae2
+=L382
+EGoldpink on White Opal on Clear
+W24
+D0
+T18
+S7f69bb
+=L231
+EWhite opaque on Green
+W24
+D0
+T18
+Se2810
+=941F
+EBlue
+T0
+S130604
+=86XH
+EMedium Dark Amber
+D0
+T4
+S57b6
+=71XX
+EMedium Amber
+D0
+T4
+S1cb0f0
+=65xx
+EAmber
+S5dbde0
+=4502OP_GN
+EOpal on Green
+D0
+T4
+S507300
+=4210U
+EOpal on yellow-green
+S7db1b3
+=37XX
+EOff-White with Amber
+D0
+T4
+Sd9f1f7
+=3636XX
+EPale Yellow Green
+D0
+T4
+S439492
+=3490BR_CL
+EBrown on Clear
+D0
+T4
+S2d6c
+=328xx
+EGreen
+S5db463
+=3060XX
+EMedium Flesh
+D0
+T4
+S6990c2
+=2824XH
+EMedium Grey
+D0
+T4
+S585f62
+=2654F
+EYellow-green
+S4299b1
+=245xx
+EYellow-green
+T0
+S81c0cb
+=2294xh
+EGreen
+S47b838
+=2158xx
+EYellow-green
+S83b3a1
+=1xxclearws
+EClear, week seedy
+T0
+Se3dfe0
+=1918XX
+EMedium Flesh
+D0
+T4
+S6997c7
+=1739XH
+EMedium Bluish Grey
+D0
+T4
+S715f54
+=148xx
+EYellow
+S82b4ce
+=1404XH
+EMedium Dark Blue
+D0
+T4
+Se26a36
+=1302F
+EBlue
+S975666
+=1201XXC
+EPale Blue Crackle
+T4
+Se4b997
+=1066SY_CL
+ESilver Yellow on Clear
+D0
+T4
+S83de
+=1032FL_CL
+EFlesh on Clear
+D0
+T4
+S618cc0
+=1001Udark
+ERed on clear dark
+Sb0b97
+=0065
+EStreaky Light Sky Blue
+W24
+D5a
+T18
+Sbfa93c
+=V159
+ERed on yellow, variegated shading
+W10
+D0
+T0
+S1f32b1
+=S41
+ESelenium-orange and opak white on clear
+W10
+Sacd7e8
+=S25
+ELemon-yellow, selenium-orange and opak white on clear
+W10
+D5a
+S63b9b2
+=L352
+EOpaque on Turquoise
+W24
+D0
+T18
+S4c3700
+=G191
+EOpaque on Amber Graduated
+W24
+D5a
+T18
+S63a9d3
+=919XX
+ELight Greyish Blue
+D0
+T4
+Sb09481
+=84xx
+EAmber
+S437cc0
+=711XXRY
+ELight Rose Reamy
+T4
+Sbab6d9
+=627XH
+EMedium Violet
+D0
+T4
+S82414f
+=4430BL_YS
+EBlue on Yellow Stripe
+D0
+T4
+S907637
+=41XX
+ELighter Pale Amber
+T4
+Sb8e7f3
+=3766F
+EViolet
+S4859a3
+=361xx
+EBrown
+T0
+Scfd7dd
+=3480OP_GY
+EOpal on Grey
+D0
+T4
+S819092
+=3274
+EDark Violet Blue
+D0
+T4
+S740026
+=3026
+EMedium Brown
+D0
+T4
+S114372
+=2721XH
+EMedium Green
+D0
+T4
+S2398a1
+=2643xx
+EYellow-green
+S79b8d3
+=2443xx
+EViolet
+S846fad
+=2257xx
+EYellow-green
+S45b69d
+=2148XX
+ELight Bluish Green
+D0
+T4
+S769875
+=1xxclearhs
+EClear, heavy seedy
+T0
+Sdcddde
+=1857F
+EBlue-violet
+T0
+S3c0019
+=1729XH
+EMedium Violet
+D0
+T4
+S916968
+=1478
+EDark Violet Blue
+D0
+T4
+S4a211f
+=1392F
+EBlue
+T0
+S454900
+=1294
+EDark Greenish Blue
+D0
+T4
+S6b5100
+=1190F
+EGreen
+S1d704d
+=1064OP_CLRY
+EWhite on Clear Reamy
+T4
+Scfd6d9
+=1006BL_CLD
+EDark Blue on Clear
+D0
+T4
+Sa30031
+=1001R_CLRY
+ERed on Clear Reamy
+D0
+T4
+Sa1fa8
+=0050
+EStreaky Medium Green
+W24
+D5a
+T18
+S1fb25e
+=S652
+EGoldpink and silver-yellow on clear
+W10
+S2abfa
+=S383
+EGoldpink, red and blue on clear
+W10
+S9269b8
+=S244
+EBlue, red and selenium-yellow on clear
+W10
+S223380
+=L336
+EOpaque on Light Greyish
+W24
+D0
+T18
+S797370
+=G160
+ERed on white, graduated shading
+W10
+D5a
+T0
+S4656d8
+=913
+EDark Royal Blue
+D0
+T4
+Sb00032
+=833xx
+EBrown
+S99adcd
+=70xx
+EAmber
+S4896d5
+=569xx
+EGrey
+T0
+S9eb9c6
+=4419OP_Y
+EOpal on Yellow
+D0
+T4
+S4199ad
+=4130xh
+EBrown
+S4672b4
+=3721XX
+EMedium Light Violet
+D0
+T4
+S987894
+=3606
+EYellowish Green
+D0
+T4
+S1c182
+=3446U
+EOpak on clear
+Sdcd6d3
+=3260xx
+EViolet-blue
+T0
+Sba9481
+=3004F
+EYellow
+T0
+S2948
+=269xx
+EYellow-green
+T0
+S8ed0c5
+=2617
+EMedium Olive-Amber
+D0
+T4
+S5f85
+=2416XX
+EMedium Amethyst
+D0
+T4
+S725c96
+=2239XX
+EOff-White with Green Cast
+D0
+T4
+Sd0dedc
+=2116xx
+EGrey
+Sa3b29b
+=1xx-filigran
+EClear, Filigree
+T0
+Se5e4e3
+=1843
+EBrownish Rose
+D0
+T4
+S2d3e7e
+=1596xx
+EGrey
+S96aeb1
+=1472xx
+EBlue
+T0
+Sd2c3b1
+=1352XH
+ETurquoise Blue
+D0
+T4
+Sb1a701
+=1272XX
+ELight Lavender Blue
+D0
+T4
+Sefb28f
+=1171F
+EGreen
+S4b6801
+=1058LY_CL
+ELemon Yellow on Clear
+D0
+T4
+S1ceeb
+=1006BL_CLA
+ELight Blue on Clear
+D0
+T4
+Se78759
+=1001R_CLC
+EMedium Red on Clear
+D0
+T4
+S10084
+=0120
+ECanary Yellow Opal
+W10
+Seaeb
+=0035
+EStreaky Light Grey
+W24
+D5a
+T18
+S688b9a
+=S6
+EGreen and opak white on clear
+W10
+S8ddaaf
+=S324
+EBlue on blue
+W10
+Sfca83f
+=S20
+ESelenium-orange, blue-opak and opak white on clear
+W10
+D5a
+S9b968f
+=L333
+EWhite opaque on Light Blue
+W24
+D0
+T18
+S6f6952
+=G157
+ERed on blue, graduated shading
+W10
+D5a
+T0
+S6f3e91
+=905xx
+EBlue
+Sdba98a
+=799
+EMedium Dark Purple
+D0
+T4
+S453a5b
+=68xx
+EAmber
+T0
+S41bef1
+=5053xh
+EBrown
+T0
+S1e5e9f
+=4374SO_SL
+ESelenium Orange on Clear
+D0
+Sa4fc
+=4097OP_BL
+EOpal on Blue
+D0
+T4
+S743e31
+=3711F
+EBlue-violet
+S6b0236
+=3592GY_CL
+EGrey on Clear
+D0
+T4
+S574e4a
+=3407F
+ESpecial-yellow
+S39b1dc
+=3232xh
+EBlue
+Sd46d5e
+=2930XX
+EMedium Bluish Grey
+D0
+T4
+S5b514d
+=2688XXC
+EMedium Green Crackle
+T4
+S80b2aa
+=2601XX
+EPale Greenish Amber
+D0
+T4
+S56bdd6
+=2406xh
+EViolet
+S526496
+=2227xx
+EYellow-green
+T0
+S63ada8
+=2087
+EMedium Dark Brown
+D0
+T4
+S101536
+=1982XX
+EMedium Dark Flesh
+D0
+T4
+S3e6caa
+=1820XH
+EMedium Bluish Violet
+D0
+T4
+S85525e
+=1541XXRY
+EMedium Grey Reamy
+T4
+S797b75
+=1449
+EOregon Gray
+W2
+S697f91
+=1346
+EMedium Dark Blue
+D0
+T4
+Sd1132a
+=1260
+ENew Antique Grey
+T4
+Sa0a5a8
+=1150xx
+EYellow-green
+T0
+Sa7bdba
+=1045GN_CL
+EGreen on Clear
+D0
+T4
+S4d7800
+=1003S
+ERed on Yellow Stripe
+D0
+T4
+S43ae1
+=0789
+ENew Antique Clear
+T4
+Sf0f0f0
+=0105
+EStreaky Light Turquoise
+W24
+D5a
+T18
+Sc8c745
+=0020
+EStreaky Dark Violet-Blue
+W24
+D5a
+T18
+S8f695f
+=S55
+EBlue and opak white on clear
+W10
+Sc07856
+=S29
+ESelenium-yellow on clear
+W10
+D5a
+S30eae9
+=S18
+EViolet and opak white on clear
+W10
+D5a
+Sa1b2c4
+=L330
+EOpaque on Selenium Reddish
+W24
+D0
+T18
+S667284
+=979XX
+ELight Sky Blue
+D0
+T4
+Se8ba77
+=901XX
+EOff-White with Bluish
+D0
+T4
+Sf0ebd2
+=747XH
+EMedium Reddish Brown
+D0
+T4
+S1b4083
+=680XXC
+EPale Beige Crackle
+T4
+Sb7d0e9
+=4652BL_CL
+EMidnight Blue on Clear
+D0
+T4
+S5f1c00
+=4285OP_V
+EOpal on Violet
+D0
+T4
+S897886
+=39xx
+EAmber
+S7dbcd0
+=3666
+EDark Spring Green
+D0
+T4
+S3400
+=3559OP_BL
+EOpal on Light Blue
+D0
+T4
+Sbf9f8b
+=3313XH
+EMedium Bluish Green
+D0
+T4
+Safba01
+=3210
+EMedium Dark Blue
+D0
+T4
+S986100
+=2896F
+EGrey
+S57726a
+=2671F
+EYellow
+T0
+S15e91
+=2483
+EMedium Purple
+D0
+T4
+S392768
+=2366SO_SL
+ESelenium Orange on Clear
+D0
+S4cf2
+=2209xx
+EGreen
+T0
+S7da272
+=2062xx
+EBrown
+T0
+S98bfd8
+=1963XXRY
+EFlesh Reamy
+T4
+Sadc2e1
+=1789F
+EBlue-violet
+T0
+S352326
+=1521xx
+EGrey
+Sd2ced2
+=1441
+EDark Slate Blue
+D0
+T4
+S492618
+=1320XX
+ELight Greyish Blue
+D0
+T4
+Se1ab6f
+=1224XX
+EMedium Light Blue
+D0
+T4
+Sc9cb7c
+=1077OP_GN
+EOpal on Green
+D0
+T4
+Saacbc0
+=1042GP_CLN
+EGoldpink on Clear Normal
+D0
+T4
+Sa777e9
+=1002S
+ERed on Blue Stripe
+D0
+T4
+S5a44c3
+=0090
+EStreaky Medium-Dark Blue
+W24
+D5a
+T18
+S969091
+=V64
+EOpaque white on clear, variegated shading
+W10
+D0
+T0
+Sc2d5d9
+=S46
+EWaterblue and opak white on clear
+W10
+D5a
+Sdddcc0
+=S27
+ERed on clear
+W10
+D5a
+S557eee
+=S13
+ESpecial-yellow and opak white on clear
+W10
+D5a
+S86d5e0
+=L307
+EWhite opaque on Greyish Blue
+W24
+D0
+T18
+S534f4a
+=958
+EMedium Dark Blue
+D0
+T4
+S925900
+=886xx
+EYellow
+T0
+S8ac2df
+=72XX
+EMedium Amber
+D0
+T4
+S1a1e7
+=671
+EMedium Purple
+D0
+T4
+S2e2847
+=4540U
+EOpal on violet
+S7e7fa5
+=4276OP_BL
+EOpal on Blue
+D0
+T4
+S5f321a
+=3812xx
+EGrey
+Sa7a8af
+=3660
+ESpring Green
+D0
+T4
+S9e21
+=3515U
+EOpal on blue
+Sd1a233
+=3306XH
+EMedium Violet Blue
+D0
+T4
+Saa6a44
+=3084
+EBrownish Amber
+D0
+T4
+Sa4a75
+=284XXRY
+ESea Green Reamy
+T4
+Sb6c944
+=2660
+EDark Olive Green
+D0
+T4
+S61f2b
+=2466F
+EBlue-violet
+S91446d
+=2352BL_CL
+EBlue on Clear
+D0
+T4
+Sbd991a
+=2178F
+EGreen
+S376c00
+=2027xh
+EYellow-green
+S5d92b0
+=1941
+EMedium Brown
+D0
+T4
+S234366
+=1764XX
+EPale Amethyst
+D0
+T4
+Sb9b6cc
+=1498xx
+EBlue
+Sce979b
+=1427F
+EBlue
+T0
+S473f21
+=1307F
+EGreen
+S6a7213
+=1209F
+EBlue
+Sa3585d
+=1067AUR_CL
+EAurora on Clear
+D0
+T4
+S7199fa
+=1040GN_CL
+EGreen on Clear
+D0
+T4
+S2e7f00
+=1001Umedium
+ERed on clear medium
+S100bf
